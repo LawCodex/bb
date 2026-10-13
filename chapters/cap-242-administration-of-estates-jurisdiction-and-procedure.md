@@ -164,7 +164,9 @@ Cc) either before or after, or with or without such examination, cause them or a
 
 fd) by writ require such attendance, and order to be produced before itself or otherwise any deeds, evidences or writings in the same form, or as nearly as may be, as that in which a writ of subpoerza ad testificandum or of subpoena dues tecum is now issued by the High Court.
 
-(2) Every person who disobeys any such writ is guilty of contempt of the Court and is liable to forfeit a sum of $480.
+Every person who disobeys any such writ is guilty of contempt of (2)
+
+the Court and is liable to forfeit a sum of $480.
 
 Order to 5. (1) The High Court may, on motion or petition or otherwise in a produce
 
@@ -242,23 +244,15 @@ court, judge, notary public or person authorised by law to administer l..N. 1671
 
 *ss.lZ-13*
 
-(3) In places where there are no such persons as are men-
-
-tioned in the said Acts, such affidavits, declarations, or afhrma-
-
-tions may be made, declared and affirmed before any magis-
-
-trate having jurisdiction in such place, or other person having authority to administer an oath.
+(3) In places where there are no such persons as are men-tioned in the said Acts, such affidavits, declarations, or afhrma-tions may be made, declared and affirmed before any magistrate having jurisdiction in such place, or other person having authority to administer an oath.
 
 *$!~;~‘~t~ estate is b&g pro~edor E?tF%fm {J;F~~Y persons zFz;“,i; be cited.*
 
 **12.** Where proceedings are taken under this Act for proving a will in solemn form or for revoking the probate of a will, on the ground of the invalidity thereof, or where in any other contentious cause or matter under this Act the validity of a will is disputed, unless in the several cases aforesaid the will affects only personal estate, the heir-at-law, devisees and other persons having or pretending to have an interest in the real estate affected by the will shall, subject to this Act and to the rules and orders of the High Court, be cited to see proceedings or otherwise summoned in like manner as the next-of-kin or others having or pretending to have an interest in the personal estate affected by a will should be cited or summoned, and may be permitted to become parties or intervene for their respective interests in such real estate, subject to such rules and orders and to the discretion of the High Court.
 
-**13.** (1) Where probate of a will other than a will affecting gi;; $fder only personal estate is granted after proof in solemn form, or ofcou& to where the validity of the will is otherwise declared by decree or & ~~~~~
+*gi;; $fder ofcou& to & ~~~~~ interested in real estate.*
 
-*in*
-
-order in a contentious cause or matter, the probate, decree or interested order respectively shall enure for the benefit of all persons real estate. interested in the real estate affected by the will, and the probate copy of the will, or the letters of administration with the will annexed, or a copy thereof, respectively, stamped with the seal of the High Court, shall in all courts and in all actions and proceedings affecting real estate of whatever tenure (save proceedings by way of appeal from the High Court or for the revocation of such probate or administration) be received as conclusive evidence of the validity and contents of the will, in like manner as a probate is received in evidence in matters relating to the personal estate.
+**13.** (1) Where probate of a will other than a will affecting only personal estate is granted after proof in solemn form, or where the validity of the will is otherwise declared by decree or order in a contentious cause or matter, the probate, decree or order respectively shall enure for the benefit of all persons interested in the real estate affected by the will, and the probate copy of the will, or the letters of administration with the will annexed, or a copy thereof, respectively, stamped with the seal of the High Court, shall in all courts and in all actions and proceedings affecting real estate of whatever tenure (save proceedings by way of appeal from the High Court or for the revocation of such probate or administration) be received as conclusive evidence of the validity and contents of the will, in like manner as a probate is received in evidence in matters relating to the personal estate.
 
 (2) Where probate is refused or revoked on the ground of the invalidity of the will or the invalidity of the will is otherwise declared by decree or order under this Act, such decree or order
 
@@ -300,17 +294,17 @@ issue. trial or other proceeding in which the proof is intended to be adduced no
 
 (2) In every such case the probate or letters of administra-
 
-Administration ofEstates CAP. 242 ss.16-22
+Administration ofEstates
 
 tion, or copy thereof, respectively, so stamped shall be suffkient evidence of such will and of its validity and contents, notwithstanding the same may not have been proved in solemn form or otherwise have been declared valid in a contentious cause or matter, as provided in this Act, unless the party receiving such notice, within 4 days after such receipt, gives notice that he disputes the validity of such devise or other testamentary disposition.
 
-**16.** An official copy of the whole or any part of a will, or an offid offkial certificate of the grant of any letters of administration, may ;[$“ir be obtained from the Registration Offke where the will has been pa.t of will proved, or the administration granted, on the payment of the r;&zd prescribed fees.
+*offid ;[$“ir pa.t of will r;&zd*
 
-**17.** (1) It shall be lawful for a Judge to sit in chambers for the %~rg.~;
+**16.** An official copy of the whole or any part of a will, or an offkial certificate of the grant of any letters of administration, may be obtained from the Registration Offke where the will has been proved, or the administration granted, on the payment of the prescribed fees.
 
-*\-*
+*%~rg.~; -*
 
-despatch of such part of the business of the High Court as can, in his opinion, with advantage to the parties, be heard in chambers, and the mode of proceeding, and the times at which such sittings shall be held, shall from time to time be determined by the Judge.
+**17.** (1) It shall be lawful for a Judge to sit in chambers for the despatch of such part of the business of the High Court as can, in his opinion, with advantage to the parties, be heard in chambers, and the mode of proceeding, and the times at which such sittings shall be held, shall from time to time be determined by the Judge.
 
 (2) The Judges when so sitting in chambers, shall have and exercise the same power and jurisdiction in respect of the business so brought before them as if sitiing in open court.
 
@@ -386,7 +380,9 @@ any, or otherwise to the next-of-kin of the deceased person in equal degree, or 
 
 **41.** No administrator shall be cited to the High Court to render an account of the personal estate of his intestate or be compellable to account before the High Court otherwise than by inventory or inventories thereof, unless at the instance or prosecution of some person in behalf of a minor, or having a demand out of such personal estate as a creditor or next-of-kin.
 
-**42.** (1) It shall be lawful for any person claiming to be a creditor Creditor, or a specific or pecuniary or residuary legatee or the next-of-kin or i$?$Y some or one of the next-of-kin of a deceased person, to apply for and order obtain as of course, without any preliminary proceedings, a !$$~$-f summons from a Judge requiring the executor or administrator, as personal the case may be, of such deceased person to attend before him, for state. the purpose of showing cause why an order for the administration of the personal estate of the deceased should not be granted.
+*Creditor, i$?$Y order !$$~$-f personal state.*
+
+**42.** (1) It shall be lawful for any person claiming to be a creditor or a specific or pecuniary or residuary legatee or the next-of-kin or some or one of the next-of-kin of a deceased person, to apply for and obtain as of course, without any preliminary proceedings, a summons from a Judge requiring the executor or administrator, as the case may be, of such deceased person to attend before him, for the purpose of showing cause why an order for the administration of the personal estate of the deceased should not be granted.
 
 (2) Upon proof by affidavit of the due service of the summons or on the appearance by the executor or administrator in person or by his attorney-at-law, and upon proof by affidavit of such other matters, if any, as the Judge requires, the Judge may, in his discretion, make the usual order for the administration of the estate of the deceased with such variations, if any, as the circumstances of the case may require: but the Judge shall have full discretionary power to grant or refuse such order, or to give any special directions touching its execution.
 

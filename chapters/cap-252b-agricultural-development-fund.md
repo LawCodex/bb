@@ -46,27 +46,43 @@ retrieved: 2026-10-13
 
 ### AGRICULTURAL DEVELOPMENT FUND
 
-An Act to provide for the establishment of a fund to be known as the 2001-12.
+*An*
+
+*2001-12.*
+
+Act to provide for the establishment of a fund to be known as the
 
 "Agricultural Development Fund" into which such financial resources as are determined by the Minister of Agriculture are to be paid for the improved development of agriculture in Barbados.
 
-[21st June, 2001] Commencement.
+*Commencement.*
 
-**1.** This Act may be cited as the Agricultural Development Fund Short title. Act.
+[21st June, 2001]
+
+*Short title.*
+
+**1.** This Act may be cited as the Agricultural Development Fund
+
+*Act.*
+
+*Purposes of the Act.*
 
 **2.** (1) The purposes of this Act are to
-
-Purposes of the Act.
 
 (a) establish a fund to be known as the Agricultural Development Fund into which such financial resources as are determined by the Minister responsible for Agriculture (hereafter in this Act referred to as "the Minister") will be paid; and
 
 (b) provide for the application of the resources of the Fund to support projects and programmes that are designed for the improved development of agriculture including sugar production, the cotton industry, livestock production, fisheries and horticulture.
 
-(2) This Act shall be given such fair, large and liberal construction and interpretation as would best ensure the attainment of its purposes.
+*and*
 
-**3.** The Agricultural Development Fund, in this Act referred to as Establish-
+(2) This Act shall be given such fair, large and liberal construction interpretation as would best ensure the attainment of its purposes.
 
-"the Fund", is established by this Act. ment of the Fund.
+*Establishment of the*
+
+*"the*
+
+*Fund.*
+
+**3.** The Agricultural Development Fund, in this Act referred to as Fund", is established by this Act.
 
 *Administration and management of the Fund.*
 
@@ -108,21 +124,27 @@ Purposes of the Act.
 
 (d) all sums made available to the Fund by way of gift, grant or otherwise.
 
-**8.** (1) The initial expenditure incurred in establishing and Defrayment administering the Fund shall be defrayed out of such moneys as of initial expenses Parliament may provide for the purpose.
+*Defrayment of initial expenses and temporary financing.*
 
-and temporary
+**8.** (1) The initial expenditure incurred in establishing and administering the Fund shall be defrayed out of such moneys as Parliament may provide for the purpose.
 
-(2) Any temporary insufficiency in the resources of the Fund to financing. discharge the liabilities of the Fund shall be met from such sums as Parliament may vote for the purpose by way of advance.
+(2) Any temporary insufficiency in the resources of the Fund to discharge the liabilities of the Fund shall be met from such sums as Parliament may vote for the purpose by way of advance.
 
 (3) Any sum voted by Parliament pursuant to subsection (2) shall be repaid out of the Fund as soon as practicable and paid into the Consolidated Fund.
 
-**9.** (1) The Accountant of the Enterprise Growth Fund Limited Reports. shall prepare quarterly reports of the accounts and economic activity of the Fund, and shall deliver those reports to the Minister not later than 21 days following the end of each quarter.
+*Reports.*
+
+**9.** (1) The Accountant of the Enterprise Growth Fund Limited shall prepare quarterly reports of the accounts and economic activity of the Fund, and shall deliver those reports to the Minister not later than 21 days following the end of each quarter.
 
 (2) The Minister responsible for Finance shall, as soon as practicable after receiving a report referred to in subsection (1), cause a copy to be laid in both Houses of Parliament.
 
-**10.** The accounts of the Fund shall be audited at least once every Auditing of the Fund. financial year by the Auditor-General.
+*Auditing of the Fund.*
 
-**11.** The Minister may make regulations Regulations.
+**10.** The accounts of the Fund shall be audited at least once every financial year by the Auditor-General.
+
+*Regulations.*
+
+**11.** The Minister may make regulations
 
 (a) for the establishing of criteria for determining the projects and programmes that are to benefit from the Fund; and
 

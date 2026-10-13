@@ -54,11 +54,9 @@ ______________
 
 ## SECOND SCHEDULE ______________
 
-### CHAPTER 285B BARBADOS PORT INC. (TRANSFER OF MANAGEMENT AND VESTING OF ASSETS)
-
 *2003-18.*
 
-An Act
+CHAPTER 285B BARBADOS PORT INC. (TRANSFER OF MANAGEMENT AND VESTING OF ASSETS) An Act
 
 (a) to provide for the Port of Bridgetown to be managed by the Barbados Port Inc., a company incorporated under the Companies Act, for the purpose of enabling the Port to operate as a commercial entity;
 
@@ -68,11 +66,13 @@ An Act
 
 (d) to provide for related matters.
 
-[19th December, 2003] Commence-
+*Commencement. 2003/163.*
 
-*ment. 2003/163.*
+[19th December, 2003]
 
-**1.** This Act may be cited as the Barbados Port Inc. (Transfer of Short title. Management and Vesting of Assets) Act, 2003.
+*Short title.*
+
+**1.** This Act may be cited as the Barbados Port Inc. (Transfer of Management and Vesting of Assets) Act, 2003.
 
 *Interpretation.*
 
@@ -80,21 +80,17 @@ An Act
 
 "Authority" means the Barbados Port Authority established by section 3 of the former Act;
 
-"Company" means the Barbados Port Inc., a company incorporated
-
 *Cap. 308.*
 
-under the Companies Act;
+"Company" means the Barbados Port Inc., a company incorporated under the Companies Act;
 
 *Cap. 285B.*
 
 "former Act" means the Barbados Port Authority Act;
 
-"harbour" means the area described in paragraphs (a) and (b) of the
-
 *First*
 
-First Schedule;
+"harbour" means the area described in paragraphs (a) and (b) of the First Schedule;
 
 "Port" means the Port of Bridgetown as described in the First Schedule.
 
@@ -130,17 +126,13 @@ are transferred to and vested in the Company, and by virtue of this Act and with
 
 immediately before 19th December, 2003 shall be deemed to be conferred or imposed on the Company.
 
-**6.** The Company is exempt from the payment of the property Exemption transfer tax that is payable on the transfer of the assets of the Authority from property referred to in section 5(1).
+*Exemption from property transfer tax.*
 
-transfer tax.
+**6.** The Company is exempt from the payment of the property transfer tax that is payable on the transfer of the assets of the Authority referred to in section 5(1).
 
-**7.** (1) The Company shall within 3 months of the end of each Annual
+*Annual report and financial statements.*
 
-*and*
-
-financial year submit to the Minister the report, the audited financial report financial statements and the auditor's report referred to in subsection (2).
-
-statements.
+**7.** (1) The Company shall within 3 months of the end of each financial year submit to the Minister the report, the audited financial statements and the auditor's report referred to in subsection (2).
 
 (2) The Minister shall as soon as possible after the end of each financial year and not later than 6 months after the end of that year lay in Parliament
 
@@ -154,7 +146,9 @@ statements.
 
 (c) an auditor's report on the financial statements.
 
-**8.** (1) The Company shall once in every 5 years submit a Port Port master master plan to the Minister for approval. plan.
+*Port master plan.*
+
+**8.** (1) The Company shall once in every 5 years submit a Port master plan to the Minister for approval.
 
 (2) The Port master plan referred to in subsection (1) is a 10-year development plan for the Port that shall contain
 
@@ -196,25 +190,31 @@ all pension and superannuation rights that accrued to them by virtue of their em
 
 (4) Without affecting subsection (1), the service of the staff with the Authority referred to in that subsection shall be aggregated with their service with the Company and any other public service for the purpose of computing pension and other retiring benefits under this Act.
 
-(5) Where a public officer is seconded or temporarily transferred from a pensionable office within the meaning of section 2(1) of the Pensions Act to perform any service with the Company, the service of Cap. 25. that officer shall, unless the Governor-General otherwise decides, count for pension under that Act as if the officer had not been so seconded or transferred.
+*Cap. 25.*
+
+(5) Where a public officer is seconded or temporarily transferred from a pensionable office within the meaning of section 2(1) of the Pensions Act to perform any service with the Company, the service of that officer shall, unless the Governor-General otherwise decides, count for pension under that Act as if the officer had not been so seconded or transferred.
 
 (6) The Company shall, within a period of 2 years from 19th December, 2003 provide for the establishment and maintenance of a pension scheme for the benefit of officers and employees of the Company.
 
 (7) Notwithstanding subsection (6), the Company shall for the purpose of computing pensions and other retirement benefits use the date of hire of an employee by the Company as the date for computing such pension and other benefits.
 
-**12.** Nothing in this Act or in any regulation shall be or shall be Savings. deemed to be in derogation of any function conferred or imposed by any other law on customs officers, immigration officers, fire officers or members of the Police Force or the Defence Force, or duly authorised persons of the Ministry of Health or the Ministry of Agriculture.
+*Savings.*
 
-**13.** (1) Subject to subsection (2), the Barbados Port Authority Act Repeal etc.
+**12.** Nothing in this Act or in any regulation shall be or shall be deemed to be in derogation of any function conferred or imposed by any other law on customs officers, immigration officers, fire officers or members of the Police Force or the Defence Force, or duly authorised persons of the Ministry of Health or the Ministry of Agriculture.
 
-*Cap. 285B.*
+*Repeal etc. Cap. 285B.*
 
-is repealed.
+**13.** (1) Subject to subsection (2), the Barbados Port Authority Act is repealed.
 
-*s.14*
+*CAP. s.14*
+
+285B
 
 *Second*
 
-(2) The enactments specified in the Second Schedule shall continue in force until amended or revoked under this Act, and shall be so construed as to give effect to the provisions of this Act.
+*so*
+
+The enactments specified in the Second Schedule shall continue in force until amended or revoked under this Act, and shall be construed as to give effect to the provisions of this Act.
 
 *Amendment of Schedules.*
 
@@ -226,7 +226,9 @@ ___________
 
 (Sections 2 and 4)
 
-The Port of Bridgetown includes:
+*The*
+
+Port of Bridgetown includes:
 
 (a) all the waters enclosed by the shoreline and the following lines from the point with Barbados Grid coordinates 24762.00m East, 63875.00 North (being the approximate centre of the top of Needhams Point Lighthouse), thence due West for a distance of 4002.00m, to the point with Barbados National Grid coordinates 20260.00m East, 63875.00m North, thence due North for a distance of 7685.00m to the point with Barbados National Grid coordinates 20260.00m East, 71560.00m North, thence due East for a distance of 1040.00mm to the point with Barbados National Grid coordinates 21300.00m East, 71560.00m North, including:
 
@@ -240,7 +242,9 @@ all the waters and subterranean areas containing by admeasurement 3.445 hectares
 
 (b) other harbours and anchorages as described in paragraph (d);
 
-(c) other areas including:
+*9 L.R.O.*
+
+other areas including:
 
 (i) the lands of the Deep Water Harbour
 
@@ -250,7 +254,7 @@ comprising all that portion of land containing approximately 91 acres starting f
 
 comprising all that land the property of the Crown situated at the Port of Bridgetown in the parish of St. Michael containing by admeasurements 3.819 hectares or thereabouts Abutting and Bounding on the south by lands of the Barbados Government which forms part of the Port of Bridgetown, on the east, west and north by the sea or however else the same may abut and bound as shown and delineated on a plan certified on the 23rd day of April, 2003 by Garrick L. Jenkins, Land Surveyor and recorded in the Lands and Surveys Department on the 25th day of April, 2003 as Plan No. 428/2003;
 
-(iii) the Careenage
+the Careenage
 
 all waters, subterranean areas and adjacent land containing by admeasurement 3.445 hectares of sea and 0.374 hectares of land or thereabouts inclusive of boardwalk Abutting and Bounding on the south by lands now or of late of the Crown (Fort Willoughby, the Dry Dock and Independence Square), and the South Wharf Road, on the east by the Charles Duncan O'Neal Bridge, on the north by the North Wharf Road and lands of the Crown (Carlisle Car Park), and on the west by an imaginary line drawn from the south eastern corner of the Heliport to the tip of the quay at Fort Willoughby or however else the same may abut and bound as shown and delineated on a plan certified on the 8th day of February, 2001 by Garrick L. Jenkins, Land Surveyor, and recorded in the Lands and Surveys Department on the 28th September, 2001 as Plan No. 952/2001;
 
@@ -262,7 +266,7 @@ all that land the property of the Crown situate at the corner of the Spring Gard
 
 all that land the property of the Crown situate at Princess Alice Highway in the parish of Saint Michael containing by admeasurement 1.268 hectares or thereabouts Abutting and Bounding on the Princess Alice Highway on the Bridgetown Fisheries Complex on the sea and on lands of the Barbados Port Authority or however else the same may abut and bound as shown and delineated on a plan certified on the 28th day of March, 2000 by Lennox J. Reid, Land Surveyor and recorded in the Lands and Surveys Department on 30th day of March, 2000 as Plan No. 300/2000;
 
-(vi) South Point Lighthouse
+South Point Lighthouse
 
 all that land the property of the Crown situate at Enterprise in the parish of Christ Church containing by admeasurement 1.391 hectares or thereabouts Abutting and Bounding on a public road that leads to Enterprise Coast Road in one direction and to Atlantic Shores in the other direction on lands now or late of Nazamudin on lands now or late of Blair E. Haynes on lands now or late of Ivan Bradshaw on lands now or late of Winfield Bascombe on lands now or late of Fanny Pillersdorf on lands now or late of Randall Grosvenor on lands now or late of Samuel L. Taylor et ux on lands now or late of Marina Manvela Atkinson on lands now or late of Ronald J. Turk et ux on lot number 121 and on Bow Bells Limited or however else the same may abut and bound as shown and delineated on a plan certified on the 26th day of September, 1997 by R. Blackett, Land Surveyor, and recorded in the Lands and Surveys Department on the 30th day of October, 1997 as Plan No. 952/97;
 
@@ -290,23 +294,17 @@ all that land the property of the Crown situate at East Point in the parish of S
 
 ## SECOND SCHEDULE
 
-(Section 13(2))
-
 *No.*
 
-Enactments
+(Section 13(2)) Enactments
 
 *L.N. 14 of 1961*
 
-The Barbados Harbours Regulations, 1961
-
 *S.I. 1987 No. 168*
-
-The Barbados Port Authority (Tariff Book of Dues and Charges) Regulations, 1987
 
 *S.I. 1990 No. 43*
 
-The Barbados Port Authority (Watersports) Order, 1990
+The Barbados Harbours Regulations, 1961 The Barbados Port Authority (Tariff Book of Dues and Charges) Regulations, 1987 The Barbados Port Authority (Watersports) Order, 1990
 
 *S.I. 1990 No. 44*
 

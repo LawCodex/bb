@@ -76,19 +76,27 @@ P ART IV Miscellaneous
 
 ### CHAPTER 122A BAIL
 
-An Act to make provision in relation to bail in or in connection with 1996-28. criminal proceedings in Barbados and to provide for related 1998-23. 2000-26. matters.
+*An Act*
 
-2002-3. 2002-12. [15th January, 2001] Commencement. 2001/11. Citation
+*1996-28. 1998-23. 2000-26. 2002-3. 2002-12. Commencement. 2001/11.*
+
+to make provision in relation to bail in or in connection with criminal proceedings in Barbados and to provide for related matters.
+
+[15th January, 2001] Citation
+
+*Short title.*
 
 **1.** This Act may be cited as the Bail Act.
 
-Short title. Interpretation
+Interpretation
+
+*Definitions.*
 
 **2.** (1) In this Act
 
-Definitions.
+*"bail"*
 
-"bail" means
+means
 
 (a) bail grantable in or in connection with proceedings for an offence to a person who is accused or convicted of the offence;
 
@@ -100,7 +108,9 @@ Definitions.
 
 (a) a finding of guilt;
 
-(b) a finding that a person is not guilty by reason of insanity; 1998-23.
+*1998-23.*
+
+(b) a finding that a person is not guilty by reason of insanity;
 
 (c) a finding that a person is guilty but is suffering from diminished responsibility;
 
@@ -110,21 +120,25 @@ Definitions.
 
 (e) a conviction of an offence for which an order is made placing the offender on probation or discharging him absolutely or conditionally,
 
-and "convicted" shall be construed accordingly;
+*and "child" "court"*
 
-"child" means a person under the age of 14;
+"convicted" shall be construed accordingly;
 
-"court" means a Judge of the High Court or a magistrate and, in the case of a specified court, includes a Judge or a magistrate having powers to act in connection with proceedings before that court;
+means a person under the age of 14;
 
-"defendant" means a person charged with or convicted of an offence and includes a person who is a party to an appeal;
+means a Judge of the High Court or a magistrate and, in the case of a specified court, includes a Judge or a magistrate having powers to act in connection with proceedings before that court;
 
-"Magistrate's Courts Rules" means rules made under section 268 of
+*and*
 
-*Cap. 116A.*
+"defendant" means a person charged with or convicted of an offence includes a person who is a party to an appeal;
 
-the Magistrate's Courts Act;
+*the*
 
-"offence" includes an alleged offence;
+*Cap. 116A. "offence"*
+
+"Magistrate's Courts Rules" means rules made under section 268 of Magistrate's Courts Act;
+
+includes an alleged offence;
 
 "surrender to custody" means
 
@@ -146,9 +160,7 @@ the Magistrate's Courts Act;
 
 *Cap. 189.*
 
-(b) to an extraditable offence under the Extradition Act.
-
-### P ART I
+(b) to an extraditable offence under the Extradition Act. P ART I
 
 Right to Bail
 
@@ -158,11 +170,13 @@ Right to Bail
 
 (2) Where bail is granted, the conditions of bail shall be reasonable.
 
-**5.** (1) Where a defendant is accused or convicted of an offence Circum-
+*Circum-stances in which bail may be refused.*
 
-*in which bail may be refused.*
+**5.** (1) Where a defendant is accused or convicted of an offence that is punishable with imprisonment, the court may refuse an application for bail if
 
-that is punishable with imprisonment, the court may refuse an appli- stances cation for bail if
+*CAP.*
+
+122A
 
 (a) the court is satisfied that there are substantial grounds for believing that the defendant, if released on bail, whether subject to conditions or not would (i) fail to surrender to custody,
 
@@ -178,15 +192,9 @@ that is punishable with imprisonment, the court may refuse an appli- stances cat
 
 (b) for the protection of the community; or
 
-(c) if he is a child or young person, for his own welfare;
-
-(c) the defendant is in custody in pursuance of the sentence of a
-
 *Cap. 159.*
 
-court or of any authority acting under the Defence Act;
-
-(d) the court is satisfied that it has not been practicable to obtain sufficient information for the purpose of taking the decisions required by this section for want of time since the institution of the proceedings against the defendant;
+(c) if he is a child or young person, for his own welfare; (c) the defendant is in custody in pursuance of the sentence of a court or of any authority acting under the Defence Act; (d) the court is satisfied that it has not been practicable to obtain sufficient information for the purpose of taking the decisions required by this section for want of time since the institution of the proceedings against the defendant;
 
 (e) having been released on bail in or in connection with the proceedings for the offence, the defendant has been arrested in pursuance of section 17;
 
@@ -204,25 +212,27 @@ court or of any authority acting under the Defence Act;
 
 (d) the strength of the evidence of his having committed the offence or having defaulted, except where the defendant's case is adjourned for inquiries or a report; and
 
-(e) the length of time the defendant would spend in custody if the court were to exercise the power conferred on it by
-
 *Cap. 116A. 2002-3.*
 
-section 218A of the Magistrate's Courts Act.
+(e) the length of time the defendant would spend in custody if the court were to exercise the power conferred on it by section 218A of the Magistrate's Courts Act.
 
-(3) Where the defendant is accused or convicted of an offence that is not punishable with imprisonment, the court may refuse an application for bail if
+*is*
+
+(3) Where the defendant is accused or convicted of an offence that not punishable with imprisonment, the court may refuse an application for bail if
 
 (a) the defendant has absconded under section 17 and the court believes that, in view of that failure, the defendant, if released on bail, would fail to surrender to custody;
 
 (b) the defendant should be kept in custody for his own protection or, if he is a child or young person, for his own welfare;
 
-(c) the defendant is in custody in pursuance of a sentence of a
-
 *Cap. 159.*
 
-court or of any authority acting under the Defence Act; or
+(c) the defendant is in custody in pursuance of a sentence of a court or of any authority acting under the Defence Act; or
 
 (d) the defendant, having been released on bail in or in connection with the proceedings for the offence, has been arrested in pursuance of section 17.
+
+*CAP.*
+
+122A
 
 *2002-12.*
 
@@ -234,33 +244,23 @@ court or of any authority acting under the Defence Act; or
 
 (c) high treason; or
 
-*Cap. 179.*
+*Cap. 179. shall*
 
-(d) an indictable offence under the Firearms Act, shall not be granted bail except by order of a Judge of the High Court.
-
-(5) For the purposes of this section
-
-(a) the question whether an offence is one punishable with imprisonment shall be determined without regard to any enactment prohibiting or restricting the imprisonment of young offenders or first offenders;
+(d) an indictable offence under the Firearms Act, not be granted bail except by order of a Judge of the High Court. (5) For the purposes of this section (a) the question whether an offence is one punishable with imprisonment shall be determined without regard to any enactment prohibiting or restricting the imprisonment of young offenders or first offenders;
 
 (b) references to previous grants of bail include references to bail granted before the coming into force of this Act;
 
-(c) references to a defendant being kept in custody or being in custody include, where the defendant is a child or young person, references to his being kept in custody at a Reformatory and Industrial School in pursuance of a warrant of
-
 *Cap. 138.*
-
-commitment under section 6 of the Juvenile Offenders Act;
-
-(d) "court", in the expression "sentence of a court", includes a
 
 *Cap. 118.*
 
-service court as defined in section 2 of the Visiting Forces Act;
-
-(e) "default", in relation to the defendant, means the default for which he is to be dealt with in breach of a probation order.
+(c) references to a defendant being kept in custody or being in custody include, where the defendant is a child or young person, references to his being kept in custody at a Reformatory and Industrial School in pursuance of a warrant of commitment under section 6 of the Juvenile Offenders Act; (d) "court", in the expression "sentence of a court", includes a service court as defined in section 2 of the Visiting Forces Act; (e) "default", in relation to the defendant, means the default for which he is to be dealt with in breach of a probation order.
 
 *Police bail.*
 
-**6.** On a person's being taken into custody for an offence without a warrant, a police officer not below the rank of inspector or a police officer in charge of the police station to which the person is brought, if it will not be practicable to bring him before a magistrate within 24 hours after his being taken into custody, shall inquire into the case, and,
+*officer it will hours and,*
+
+**6.** On a person's being taken into custody for an offence without a warrant, a police officer not below the rank of inspector or a police in charge of the police station to which the person is brought, if not be practicable to bring him before a magistrate within 24 after his being taken into custody, shall inquire into the case,
 
 (a) if the offence is not one punishable with imprisonment, shall grant the person bail; and
 
@@ -314,11 +314,9 @@ inform him that he may apply to the High Court to be granted bail.
 
 *2000-26.*
 
-(2) Where in criminal proceedings, after hearing full argument on an application for bail from the defendant, a magistrate's court remands
-
 *Cap. 116A.*
 
-a person in custody under section 18, 32, 45 or 57 of the Magistrate's Courts Act, the court shall issue a certificate in the prescribed form that it has heard full argument on the application before it refused the application, if
+(2) Where in criminal proceedings, after hearing full argument on an application for bail from the defendant, a magistrate's court remands a person in custody under section 18, 32, 45 or 57 of the Magistrate's Courts Act, the court shall issue a certificate in the prescribed form that it has heard full argument on the application before it refused the application, if
 
 (a) the court has not previously heard such argument on that application from the defendant; or
 
@@ -336,21 +334,17 @@ a person in custody under section 18, 32, 45 or 57 of the Magistrate's Courts Ac
 
 (a) the court shall at each subsequent hearing consider whether the defendant should be granted bail if he is in custody;
 
-(b) the defendant may support an application with any argument
-
 *1998-23.*
 
-as to fact or law that he wishes;
+(b) the defendant may support an application with any argument as to fact or law that he wishes;
 
 (c) the court at subsequent hearings need not hear any argument as to fact or law that it has heard previously.
 
-**11.** (1) Notwithstanding any power of the High Court to admit or Powers of
+*Powers of the High Court in relation to bail. 1998-23.*
 
-*the High Court in relation to*
+**11.** (1) Notwithstanding any power of the High Court to admit or direct the admission of persons to bail,
 
-direct the admission of persons to bail,
-
-(a) the High Court may grant bail where a person has been bail. committed in custody to the High Court for trial or sentence; 1998-23. or
+(a) the High Court may grant bail where a person has been committed in custody to the High Court for trial or sentence; or
 
 (b) the High Court may grant bail or vary the conditions of bail where the magistrate's court withholds bail or imposes conditions in granting bail.
 
@@ -400,13 +394,13 @@ P ART III Conditions of Bail
 
 vary the conditions of bail or impose conditions in respect of bail that it has granted unconditionally.
 
-(7) This section is subject to section 57(2) of the Magistrate's Cap. 116A. Courts Act.
+*Cap. 116A.*
 
-**13.** Where the defendant is granted bail, the conditions mentioned Exceptions
+(7) This section is subject to section 57(2) of the Magistrate's Courts Act.
 
-*to section 12 conditions.*
+*Exceptions to section 12 conditions.*
 
-in section 12 shall not be imposed on him
+**13.** Where the defendant is granted bail, the conditions mentioned in section 12 shall not be imposed on him
 
 (a) on an application for bail; or
 
@@ -552,7 +546,9 @@ commit him in custody or on bail to the High Court for sentence.
 
 (b) is committed to the High Court for sentence or is dealt with for contempt is liable to imprisonment for a term of 12 months or to a fine or to both.
 
-(7) In any proceedings for an offence under subsection (1), a document purporting to be a copy of the part of the prescribed record that relates to the time and place appointed for the person specified in the record to surrender to custody and to be duly certified to be a true copy of that part of the record shall be evidence of the time and place appointed for that person to surrender to custody.
+*that the*
+
+(7) In any proceedings for an offence under subsection (1), a document purporting to be a copy of the part of the prescribed record relates to the time and place appointed for the person specified in record to surrender to custody and to be duly certified to be a true copy of that part of the record shall be evidence of the time and place appointed for that person to surrender to custody.
 
 (8) For the purposes of subsection (7),
 
@@ -600,17 +596,13 @@ but if not of that opinion shall grant him bail subject to the same conditions, 
 
 (7) Where the person brought before the magistrate is a child or young person and the magistrate does not grant him bail, subsection
 
-(6) shall have effect subject to the provisions of section 4 of the
-
 *Cap. 138.*
 
-Juvenile Offenders Act.
+(6) shall have effect subject to the provisions of section 4 of the Juvenile Offenders Act.
 
-**19.** (1) In proceedings before a magistrate's court in which a Prosecution
+*Prosecution right of appeal.*
 
-*of appeal.*
-
-person who is charged with an offence punishable by a term of right imprisonment of 5 years or more is granted bail, there shall be a right of appeal by the prosecution to a Judge of the High Court against the decision of the magistrate's court to grant bail, provided objection to
+**19.** (1) In proceedings before a magistrate's court in which a person who is charged with an offence punishable by a term of imprisonment of 5 years or more is granted bail, there shall be a right of appeal by the prosecution to a Judge of the High Court against the decision of the magistrate's court to grant bail, provided objection to
 
 the granting of bail is made by the prosecution before the magistrate's court grants such bail.
 
@@ -634,11 +626,9 @@ the granting of bail is made by the prosecution before the magistrate's court gr
 
 (b) for prescribing anything that is authorised or required to be prescribed by this Act.
 
-(2) For the purposes of this section, "the Rules Committee" means
-
 *Cap. 117A.*
 
-the Committee established under section 81 of the Supreme Court of Judicature Act.
+(2) For the purposes of this section, "the Rules Committee" means the Committee established under section 81 of the Supreme Court of Judicature Act.
 
 *Amendment of other Acts and transitional.*
 

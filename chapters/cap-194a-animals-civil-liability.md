@@ -14,7 +14,7 @@ retrieved: 2026-10-13
 
 # Animals (Civil Liability) Act
 
-L.R.O. 1985 LiubiZity)
+LiubiZity)
 
 ### WA CHAPTER ANIMALS (CIVIL LIABILITY)
 
@@ -60,9 +60,9 @@ Mnted by the Govrrnmcnt Pdntlng tkpnrtment, Bay Srreet, St. Michael, by tha Uhor
 
 An Act to rejhm the law respecting civilliabilityfor animals.
 
-[ 20th November, 19801 Commence-
+*Commencement. Short itle.*
 
-*ment. Short itle.*
+[ 20th November, 19801
 
 **1.** This Act may be cited as the Animals (CivilLiabifity)Act.
 
@@ -70,7 +70,9 @@ An Act to rejhm the law respecting civilliabilityfor animals.
 
 **2.** In this Act, “laud” includes all things of economic value growing thereon.
 
-u 3. (1) Where any damage is caused by an animal which belongs !;;;$;er-to a dangerous species, any person who is a keeper of the animal is ous animals. liable for the damage, unless he is exempted by this Act.
+*!;;;$;er-ous animals.*
+
+u 3. (1) Where any damage is caused by an animal which belongs to a dangerous species, any person who is a keeper of the animal is liable for the damage, unless he is exempted by this Act.
 
 (2) Where damage is caused by an animal which does not belong to a dangerous species, a keeper of the animal is liable for the damage, unless exempted by this Act, if
 
@@ -110,7 +112,9 @@ section 3.
 
 **5.** (1) Where livestock belonging to any person trespasses on to Trespass by
 
-livestock. land in ownership, occupation or control of another and
+livestock.
+
+land in ownership, occupation or control of another and
 
 (a) damage is done by the livestock to the land or to any property on it which is in the ownership, possession or control of the other person; or
 
@@ -119,6 +123,8 @@ livestock. land in ownership, occupation or control of another and
 the person to whom the livestock belongs is lid-de for the damage or expense thereby incurred.
 
 (2) A person whose land is damaged by livestock shall summon a Justice of the Peace for the purpose of appraising the damage and expense, if any, incurred.
+
+5 L.R.O. 1985
 
 (3) Damage appraised by a Justice of the Peace is of no effect unless it is in writing and signed by that Justice of the Peace.
 
@@ -170,7 +176,7 @@ s.8
 
 (6) The common law remedy of distress damage feasant is hereby abolished.
 
-Liability 8. (1) Subject to section 9, the owner of a dog is liable for any ~,$$~@c- damage caused by that dog.
+Liability 8. (1) Subject to section 9, the owner of a dog is liable for any ~,$$~@c-damage caused by that dog.
 
 (2) In an action under subsection (1)) it shall not be necessary for the aggrieved party to prove
 
@@ -198,11 +204,9 @@ Liability 8. (1) Subject to section 9, the owner of a dog is liable for any ~,$$
 
 (iii) he proves that the livestock was killed or injured on the land on to which it had trespassed and either the dog belonged to the occupier or its presence on the land was authorised by the occupier.
 
-**10.** (1) A person is entitled to act for the protection of any P+~C~~OII
+*P+~C~~OII restock doss*
 
-*restock*
-
-livestock if the livestock or the land on which it has trespassed belongs to him or to any person under whose expressed or implied doss authority he is acting.
+**10.** (1) A person is entitled to act for the protection of any livestock if the livestock or the land on which it has trespassed belongs to him or to any person under whose expressed or implied authority he is acting.
 
 (2) Subject to subsection (3), a person killing or causing injury to a dog shall be deemed to have acted for the protection of any livestock if
 
@@ -250,7 +254,9 @@ Animal
 
 (a) retain for his use the sum of $50 or a sum equivalent to 10% of, the proceeds of the sale, which ever is the greater together with any reasonable expenses incurred including the expenses incurred in advertising the sale and in conducting or transporting the livestock to the police station;
 
-(b) pay to the person who caused the sale to be made, the damages as appraised by a Justice of the Peace together with the reasonable cost, not exceeding $5 per day, for feeding the livestock pending the sale; and
+(b)
+
+pay to the person who caused the sale to be made, the damages as appraised by a Justice of the Peace together with the reasonable cost, not exceeding $5 per day, for feeding the livestock pending the sale; and
 
 (c) pay the balance of the proceeds of the sale to the Accountant-General within 7 days of that sale.
 

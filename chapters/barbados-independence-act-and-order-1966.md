@@ -49,21 +49,31 @@ An Act to make provision for, and in connection with, the attainment by r Barbad
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows-
 
-**1.** (1) On and after 30th November, 1966 (in this Act referred Fully responsible to as " the appointed day "), Her Majesty's Government in status of the United Kingdom shall have no responsibility for the Barbados. government of Barbados.
+*Fully responsible of status Barbados.*
+
+**1.** (1) On and after 30th November, 1966 (in this Act referred to as " the appointed day "), Her Majesty's Government in the United Kingdom shall have no responsibility for the government of Barbados.
 
 (2) No Act of the Parliament of the United Kingdom passed on or after the appointed day shall extend, or be deemed to extend, to Barbados as part of its law; and on and after that day the provisions of Schedule I to this Act shall have effect with respect to the legislative powers of Barbados.
 
-**2.** ( 1) On and after the appointed day the British Nationality Consequential Acts 1948 to 1965 shall have effect as if in section 1 (3) of the modifications British Nationality Act 1948 (Commonwealth countries having British of Nationality separate citizenship) there were added at the end the words Acts.
+*Consequential modifications of British Nationality Acts.*
+
+**2.** ( 1) On and after the appointed day the British Nationality Acts 1948 to 1965 shall have effect as if in section 1 (3) of the British Nationality Act 1948 (Commonwealth countries having separate citizenship) there were added at the end the words
 
 " and Barbados ".
 
 (2) Except as provided by section 3 of this Act, any person who immediately before the appointed day is a citizen of the United Kingdom and Colonies shall on that day cease to be such a citizen if he becomes on that day a citizen of Barbados.
 
-(3) Section 6(2) of the British Nationality Act 1948 (regis- 1948 c. 56. 1 tration as citizens of the United Kingdom and Colonies of women who have been married to such citizens) shall not apply
+*1948 c. 56.*
+
+(3) Section 6(2) of the British Nationality Act 1948 (regis- 1
+
+tration as citizens of the United Kingdom and Colonies of women who have been married to such citizens) shall not apply
 
 1 References throughout this Act are to United Kingdom legislation.
 
-THE LAWS OF BARBA.DOS Printed in England by Eyre and Spottiswoode Limited, 2 Serjeants' Inn, London EC.,
+### THE LAWS OF BARBA.DOS
+
+Printed in England by Eyre and Spottiswoode Limited, 2 Serjeants' Inn, London EC.,
 
 to a woman by virtue of her marriage to a person who on the appointed day ceases to be such a citizen under subsection (2) of this section, or who would have done so if living on the appointed day.
 
@@ -111,17 +121,23 @@ to Barbados; and subsection (I) of this section shall not apply to a person by v
 
 this section were included in that Act.
 
-**4.** 1 (1) Notwithstanding anything in the Interpretation Act Cons~- 1 1889, the expression " colony" in any Act of the Parliament of ~':ifi~ation the United Kingdom passed on or after the appointed day ofo~er ts ~~~~ ~eif3. · shall not include Barbados.
+*Cons~- 1 ~':ifi~ation ofo~er ts ~~~~ ~eif3. ·*
+
+**4.** 1 (1) Notwithstanding anything in the Interpretation Act 1889, the expression " colony" in any Act of the Parliament of the United Kingdom passed on or after the appointed day shall not include Barbados.
 
 (2) On and after the appointed day-
 
-( a) the expression "colony" in the Army Act 1955, the Air 1955 c. 18. Force Act 1955 and the Naval Discipline Act 1957 shall rn~~ ~: ~i: not include Barbados; and
+*1955 c. 18. rn~~ ~: ~i:*
+
+( a) the expression "colony" in the Army Act 1955, the Air Force Act 1955 and the Naval Discipline Act 1957 shall not include Barbados; and
 
 ( b) in the definitions of " Commonwealth force " in section 225(1) and 223(1) respectively of the said Acts of 1955, and in the definition of " Commonwealth country " in section 135 ( 1) of the said Act of 195 7, at the end there shall be added the words " or Barbados ,, .
 
 (3) If any enactment contained in an Act of the present Session passed before the appointed day (whether before or after the passing of this Act) provides for the continuance in force of the said Acts of 1955 after the end of the year 1966, no Order in Council made under that enactment which continues either of those Acts in force for a further period shall extend to Barbados as part of its law.
 
-(4) For the purposes of the making, on or after the appointed day, of Orders in Council under the West Indies Act 1962, and 1962 c. 19. for the purposes of the making on or after that day of grants under section 8 of that Act, Barbados shall be treated as not being a colony within the meaning of that Act.
+*1962 c. 19.*
+
+(4) For the purposes of the making, on or after the appointed day, of Orders in Council under the West Indies Act 1962, and for the purposes of the making on or after that day of grants under section 8 of that Act, Barbados shall be treated as not being a colony within the meaning of that Act.
 
 1 Subsections (5) and (6) which relate to Schedule 2 of this Act have been omitted: they expressed not to extend to Barbados as part of its law.
 
@@ -163,7 +179,9 @@ SCHEDULESl
 
 ### LEGISLATIVE POWERS OF BARBADOS
 
-I. The Colonial Laws Validity Act 1865 shall not apply to any law 1865 c. 63. made on or after the appointed day by the legislature of Barbados.
+*1865 c. 63.*
+
+I. The Colonial Laws Validity Act 1865 shall not apply to any law made on or after the appointed day by the legislature of Barbados.
 
 **2.** No law and no provision of any law made on or after the appointed day by that legislature shall be void or inoperative on the ground that it is repugnant to the law of England, or to the provisions of any Act of the Parliament of the United Kingdom, including this Act, or to any order, rule or regulation made under any such Act, and accordingly the powers of that legislature shall include the power to repeal or amend any such Act, order, rule or regulation in so far as it is part of the law of Barbados.
 
@@ -171,9 +189,13 @@ I. The Colonial Laws Validity Act 1865 shall not apply to any law 1865 c. 63. ma
 
 **4.** Without prejudice to the generality of the preceding provisions of this Schedule-
 
-( a) sections 735 and 736 of the Merchant Shipping Act 1894 shall be 1894 c. 60. construed as if references therein to the legislature of a British possession did not include references to the legislature of Barbados; and
+*1894 c. 60.*
 
-(b) section 4 of the Colonial Courts of Admiralty Act 1890 (which 1890 c. 27. requires certain laws to be reserved for the signification of Her Majesty's pleasure or to contain a suspending clause) and so much of section 7 of that Act as requires the approval of Her Majesty in Council to any rules of court for regulating the practice and procedure ofa Colonial Court of Admiralty shall cease to have effect in Barbados.
+( a) sections 735 and 736 of the Merchant Shipping Act 1894 shall be construed as if references therein to the legislature of a British possession did not include references to the legislature of Barbados; and
+
+*1890 c. 27.*
+
+(b) section 4 of the Colonial Courts of Admiralty Act 1890 (which requires certain laws to be reserved for the signification of Her Majesty's pleasure or to contain a suspending clause) and so much of section 7 of that Act as requires the approval of Her Majesty in Council to any rules of court for regulating the practice and procedure ofa Colonial Court of Admiralty shall cease to have effect in Barbados.
 
 1 Schedule 2 of this Act which makes amendments to United Kingdom legislation has been omitted: it is expressed not to affect the Jaw of Barbados.
 
@@ -195,9 +217,9 @@ The Queen's Most Excellent Majesty in Council
 
 Her Majesty, by virtue and in exercise of the powers vested in Her by section 5 of the Barbados Independence Act 1966 1 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows-
 
-*commencement and construction.*
+*Citation, commencement and construction.*
 
-**1.** ( 1) This Order may be cited as the Barbados Inde- Citation, pendence Order 1966.
+**1.** ( 1) This Order may be cited as the Barbados Independence Order 1966.
 
 (2) This Order shall come into operation on 30th November 1966 (in this Order referred to as "the appointed day"):
 
@@ -245,13 +267,13 @@ continuance on or after the appointed day before the British Caribbean Court of 
 
 " the Territories " in article 2 ( 1) ; but nothing in this subsection shall affect the operation on and after the appointed day of any law having effect as part of the law of Barbados immediately before that day by virtue of the provisions of article 15 or 16 of that Order.
 
-**3.** Subject to the provisions of this Order, the Constitution !5e~~:Ch·
+*!5e~~:Ch· Constitution.*
 
-*Constitution.*
+**3.** Subject to the provisions of this Order, the Constitution shall come into effect on the appointed day. 2
 
-shall come into effect on the appointed day. 2
+*Existing laws.*
 
-**4.** (I) Subject to the provisions of this section, the existing Existing laws. laws shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with the Barbados Independence Act 1966 and this Order.
+**4.** (I) Subject to the provisions of this section, the existing laws shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with the Barbados Independence Act 1966 and this Order.
 
 (2) Where any matter that falls to be prescribed or otherwise provided for under the Constitution by Parliament or by any other authority or person is prescribed or provided for by or under an existing law (including any amendment to any such law made under this section) or is otherwise prescribed or provided for immediately before the appointed day by or under the existing Order, that prescription or provision shall, as from ·, that day, have effect (with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with the Barbados Independence Act 1966 and this Order) as if it had been made under the Constitution by Parliament or, as the case may require, by the other authority or person.
 
@@ -285,7 +307,9 @@ the House of Assembly established by the Constitution as if elected as such in p
 
 (7) Notwithstanding anything contained in section 61 (3) of the Constitution (but subject to the provisions of subsections ( 4) and (5) of that section) Parliament shall, unless sooner dis-solved, stand dissolved on the expiration of five years from the first sitting of the existing Assembly after the general election of members of the Assembly last preceding the appointed day.
 
-**6.** (I) The person who immediately before the appointed ~~i~r~a day holds the office of Premier under the existing Order shall, mentary as from the appointed day, hold office as Prime Minister as if Secretaries. he had been appointed thereto under section 65(1) of the Constitution.
+*~~i~r~a mentary Secretaries.*
+
+**6.** (I) The person who immediately before the appointed day holds the office of Premier under the existing Order shall, as from the appointed day, hold office as Prime Minister as if he had been appointed thereto under section 65(1) of the Constitution.
 
 by authoTity of the Government of Barbados
 
@@ -311,7 +335,9 @@ S.I. 1964 I, p. 1211.
 
 Provided that for the purposes of subsection (3) of that section the date of appointment of any such person shall be the date on which the period of his last appointment under the said clause 3 commenced or was deemed to have commenced for the purposes of that clause.
 
-**9.** ( 1) Every person who immediately before the appointed ~disting d day holds or is acting in a public office shall, as from the ~~~f: an appointed day, hold or act in that office or the corresponding officers. office established by the Constitution as if he had been appointed to do so in accordance with the provisions of the Constitution:
+*~disting d ~~~f: an officers.*
+
+**9.** ( 1) Every person who immediately before the appointed day holds or is acting in a public office shall, as from the appointed day, hold or act in that office or the corresponding office established by the Constitution as if he had been appointed to do so in accordance with the provisions of the Constitution:
 
 Provided that any person who under any existing law would have been required to vacate his office on the attainment of any age or on the expiration of any period shall vacate his office on the attainment of that age or at the expiration of that period.
 
@@ -321,7 +347,9 @@ Provided that any person who under any existing law would have been required to 
 
 ( 4) In this section " existing law " has the same meaning as in section 4.
 
-**10.** ( 1) The Governor-General may by order make such fenting provision as may appear to him to be necessary or expedient ;;~eedings. for-
+*fenting ;;~eedings.*
+
+**10.** ( 1) The Governor-General may by order make such provision as may appear to him to be necessary or expedient for-
 
 ( a) the continuance on or after the appointed day before the High Court or the Court of Appeal established by the Constitution of any proceedings pending immediately before that day before the Supreme Court of Barbados;
 

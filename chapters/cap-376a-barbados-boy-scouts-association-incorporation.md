@@ -50,7 +50,9 @@ Printed in England by Eyre and Spottiswoode Limited, 2 Serjcants’ Inn, London 
 
 An Act to incorporate the Barbados Boy Scouts Association.
 
-[30th December, 19761 ze;tmence-
+*ze;tmence-*
+
+[30th December, 19761
 
 *short title.*
 
@@ -84,7 +86,9 @@ An Act to incorporate the Barbados Boy Scouts Association.
 
 Printed in England by Eyre and Spottiswoode Limited, 2 Serjeants’ Inn, London EC4.
 
-s.4 Boy Scouts Association L.R.O.
+*s.4*
+
+Boy Scouts Association L.R.O.
 
 (Incor-ora tion)
 
@@ -94,7 +98,9 @@ or bears any uniform, token, emblem, badge or other distinguishing mark or any i
 
 1
 
-is guilty of an offence and liable on summary conviction to a fine not exceeding five hundred dollars or imprisonment for a term not exceeding six months or both.
+*is fine term*
+
+guilty of an offence and liable on summary conviction to a not exceeding five hundred dollars or imprisonment for a not exceeding six months or both.
 
 d
 

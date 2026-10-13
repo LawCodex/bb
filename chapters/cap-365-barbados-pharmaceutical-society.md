@@ -50,7 +50,9 @@ Printed in England by Eyre and Spottiswoode Limited. I Serjeants’ IM, London E
 
 An Act to incor-orate the Barbados Pharmaceutical Society.
 
-[20th November, 19611 z;y-
+*z;y-*
+
+[20th November, 19611
 
 *short tide.*
 
@@ -70,7 +72,7 @@ An Act to incor-orate the Barbados Pharmaceutical Society.
 
 (iii) for any of the purposes aforesaid borrowing at any time or from time to time as occasion may require any sum or sums of money necessary for carrying into effect any of the objects aforesaid or for any purpose which may be beneficial for furthering any of the objects of the Society; and
 
-Printed in England by Eyre and Spottiswoode Limited, 2 Serjeants’ Inn, London EC&,
+2 Serjeants’ Inn, London EC&,
 
 (iv) giving such security by way of mortgage or otherwise for effectuating any such loan; and
 
@@ -110,14 +112,18 @@ bye-laws, ordinances, orders, rules and regulations-
 
 Provided always that no such bye-laws, ordinances, orders, rules and regulations be in anywise repugnant or contrary to Her Majesty’s prerogative royal or to the laws of this Island and shall not in any manner affect any other person or persons but those who are or may become members of the Society.
 
-**6.** (1) All fines, forfeitures and penalties incurred by virtue Fz;;;dyn of any bye-law, ordinance, order, rule or regulation so made, a summaV ordained and established and all sums of money becoming due manner. to the Society from any of the members of the Society shall be sued for and recovered in a summary way before any magistrate on the complaint of the Secretary or Treasurer of the Society and every magistrate is hereby authorised and required to take cognisance thereof accordingly.
+*Fz;;;dyn a summaV manner.*
+
+**6.** (1) All fines, forfeitures and penalties incurred by virtue of any bye-law, ordinance, order, rule or regulation so made, ordained and established and all sums of money becoming due to the Society from any of the members of the Society shall be sued for and recovered in a summary way before any magistrate on the complaint of the Secretary or Treasurer of the Society and every magistrate is hereby authorised and required to take cognisance thereof accordingly.
 
 (2) All fines, forfeitures and penalties when received or the over-plus thereof after deducting necessary charges shall be paid in to the Treasurer of the Society for the time being for the use of the Society.
 
-**7.** Every dispute between any member or members of the z;;z Society or any person claiming through or under a member or as direct& under the rules of the Society and any other member or by the rules. members of the Society shall be decided in the manner directed by the rules of the Society and the decisions so made shall be binding and conclusive on all the parties, provided the same be not contrary nor repugnant to the laws of this Island.
+*z;;z as direct& by the rules.*
 
-**8.** Nothing in this Act declared or expressed shall affect the ~~~~ rights rights of the Crown, all bodies politic and corporate and all Crown. others except such as are mentioned in this Act and those claim-
+**7.** Every dispute between any member or members of the Society or any person claiming through or under a member or under the rules of the Society and any other member or members of the Society shall be decided in the manner directed by the rules of the Society and the decisions so made shall be binding and conclusive on all the parties, provided the same be not contrary nor repugnant to the laws of this Island.
 
-ing by, from or under them.
+*~~~~ rights Crown.*
 
-Printed in England by Eyre and Spottiswoode Limited, 2 ScrjeantF’ Inn, London EC&
+**8.** Nothing in this Act declared or expressed shall affect the rights of the Crown, all bodies politic and corporate and all others except such as are mentioned in this Act and those claim-ing by, from or under them.
+
+2 ScrjeantF’ Inn, London EC&

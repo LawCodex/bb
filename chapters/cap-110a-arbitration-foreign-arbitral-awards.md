@@ -70,7 +70,9 @@ Citation 168.
 
 *short itle.*
 
-**1.** This Act may be cited as the Arbitration (Foreign Arbitraf Awards) Act.
+1.
+
+This Act may be cited as the Arbitration (Foreign Arbitraf Awards) Act.
 
 Interpretation
 
@@ -86,11 +88,9 @@ submit to arbitration a present or future difference that is capable of settleme
 
 (c) “New York Convention” means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted by the United Nations Conference on Inter-
 
-national Commercial Arbitration on 10th June, 1958 and
-
 *Schedule.*
 
-set out in the Schedule;
+national Commercial Arbitration on 10th June, 1958 and set out in the Schedule;
 
 (d) “state that is party to the New York Convention”, in the case of a federal state whose constituent political sub-
 
@@ -144,9 +144,7 @@ enforce. except in the circumstances set out in this section.
 
 *s.7*
 
-Arbitratiotl
-
-CAP.llOA .4rbitrd .-lwartls)
+Arbitratiotl CAP.llOA .4rbitrd .-lwartls)
 
 (2) Enforcement of a convention award may be refused if the person against whom it is invoked proves
 
@@ -166,13 +164,9 @@ cf, that the award has not yet become binding on the parties, or has been set as
 
 (4) A convention award that contains decisions on matters not submitted to arbitration may be enforced to the extent that it contains decisions on matters submitted to arbitration that can be separated from those on matters not so submitted.
 
-*Power to*
+*Power to adjourn E:sc’“dS .*
 
-**7.** (1) When an application for the setting aside or suspension of a convention award has been made to a competent authority of adjourn the state in which, or under the law of which, the award was E:sc’“dS
-
-*.*
-
-made, the court before which enforcement of the award is sought may, if it thinks fit, adjourn the proceedings.
+**7.** (1) When an application for the setting aside or suspension of a convention award has been made to a competent authority of the state in which, or under the law of which, the award was made, the court before which enforcement of the award is sought may, if it thinks fit, adjourn the proceedings.
 
 ME
 
@@ -310,11 +304,9 @@ In the case of a federal or non-unitary state. the following provisions shall ap
 
 Arbitrdtioli (Fowipn .4rbitral Awurds)
 
-**2.** For each state ratifying or acceding to this Convention after the deposit of the third instrument of ratification or accession, this Convention shall enter
-
 *ot*
 
-into force on the ninetieth day after deposit by such state of its instrument ratification or accession.
+**2.** For each state ratifying or acceding to this Convention after the deposit of the third instrument of ratification or accession, this Convention shall enter into force on the ninetieth day after deposit by such state of its instrument ratification or accession.
 
 ### ARTICLE XIII
 
@@ -352,10 +344,8 @@ Rlnred by the Government Prlntlng Department. Bay Sneet, St. Michael, by the aut
 
 *oi*
 
-1 Here follow the annexes and signatures on behalf of the Governments Antigua, Australia. Austria, Belgium, Benin, Botswana. Bulgaria.
-
 *.*
 
-Byelorussian SSR, Central African Empire, Chile, Costa Rica, Cuba. Czechoslovakia. Democratic. Kampuchea. Denmark. Ecuador. Egypt. El Salvador, Finland, France, German Democratic Republic. Germany, Federal Republic of. Ghana. Greece. Holy See. Hungary. India, Israel. Italy. Japan, Jordan, Kuwait, Luxembourg, Madagascar. Mexico, Monaco. Morocco. Netherlands. Niger, Nigeria. Norwav. Pakistan. Phillipines, Poland*. Republic of Korea, Romania, San Maiino. South Africa. Spain. Sri Lanka. Sweden, Switzerland. Syrian Arab Republic*. Thailand. Trinidad and Tobago, Tunisia *, Ukrainian SSR, Union ot‘ Soviet Socialist Republics. United Kingdom, United RepublicofTanzania. United Statesol’America.]
+1 Here follow the annexes and signatures on behalf of the Governments Antigua, Australia. Austria, Belgium, Benin, Botswana. Bulgaria. Byelorussian SSR, Central African Empire, Chile, Costa Rica, Cuba. Czechoslovakia. Democratic. Kampuchea. Denmark. Ecuador. Egypt. El Salvador, Finland, France, German Democratic Republic. Germany, Federal Republic of. Ghana. Greece. Holy See. Hungary. India, Israel. Italy. Japan, Jordan, Kuwait, Luxembourg, Madagascar. Mexico, Monaco. Morocco. Netherlands. Niger, Nigeria. Norwav. Pakistan. Phillipines, Poland*. Republic of Korea, Romania, San Maiino. South Africa. Spain. Sri Lanka. Sweden, Switzerland. Syrian Arab Republic*. Thailand. Trinidad and Tobago, Tunisia *, Ukrainian SSR, Union ot‘ Soviet Socialist Republics. United Kingdom, United RepublicofTanzania. United Statesol’America.]
 
 \*An asterisk beside the name of a country indicates that that country signed the convention with one or more reservations.

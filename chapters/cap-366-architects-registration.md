@@ -84,35 +84,39 @@ _______________
 
 ## SECOND SCHEDULE
 
-### CHAPTER 366
+*2003-5. 2004-24. 2005-28.*
 
-### ARCHITECTS REGISTRATION
+CHAPTER 366 ARCHITECTS REGISTRATION An Act to make provision respecting the registration of architects and for related matters.
 
-An Act to make provision respecting the registration of architects and 2003-5. for related matters. 2004-24. 2005-28.
+*Commencement.*
 
-[21st April, 2003] Commencement. CITATION
+[21st April, 2003] CITATION
 
-**1.** This Act may be cited as the Architects Registration Act. Short title.
+*Short title.*
 
-### INTERPRETATION
+**1.** This Act may be cited as the Architects Registration Act. INTERPRETATION
+
+*Interpretation.*
 
 **2.** (1) In this Act,
 
-Interpretation.
-
 "Board" means the Architects Registration Board established by section 3;
 
-"building" means a structure intended for use as shelter for human 2005-28. activities, excluding industrial and storage facilities, and usually consisting of foundations, floors, walls, windows, columns, beams, girders and roof, or a combination of any number of these parts with or without other parts;
+*2005-28.*
+
+"building" means a structure intended for use as shelter for human activities, excluding industrial and storage facilities, and usually consisting of foundations, floors, walls, windows, columns, beams, girders and roof, or a combination of any number of these parts with or without other parts;
 
 "certificate" means a certificate referred to in section 9(a);
 
-"Community" means the Caribbean Community established by 2004-24. Article 2 of the Treaty;
+*2004-24.*
 
-"Member State" means a Member State of the Community, excluding 2004-24. an Associate member within the meaning of Article 231 of the Treaty;
+"Community" means the Caribbean Community established by Article 2 of the Treaty;
+
+*2004-24.*
+
+"Member State" means a Member State of the Community, excluding an Associate member within the meaning of Article 231 of the Treaty;
 
 "national" means a person who
-
-2004-24.
 
 (a) is a citizen of a Member State; or
 
@@ -150,11 +154,9 @@ where expert knowledge, skill and experience are required in connection with the
 
 "Treaty" means the Revised Treaty of Chaguaramas establishing the Caribbean Community, including the CARICOM Single Market and Economy, that was signed in the Bahamas on 5th July, 2001;
 
-"work permit" means a work permit granted under section 17 of the
-
 *Cap. 190.*
 
-Immigration Act.
+"work permit" means a work permit granted under section 17 of the Immigration Act.
 
 (2) The Minister may by order amend the Schedules to this Act.
 
@@ -162,19 +164,21 @@ Immigration Act.
 
 ### ESTABLISHMENT OF BOARD
 
-**3.** (1) For the purposes of this Act, there is hereby established a Establish-Board, to be known as "the Architects Registration Board". ment of Board.
+*Establishment of Board.*
+
+**3.** (1) For the purposes of this Act, there is hereby established a Board, to be known as "the Architects Registration Board".
+
+*Cap. 1.*
 
 (2) The Board shall be a body corporate and, subject to this Act, section 21 of the Interpretation Act shall apply thereto.
 
-Cap. 1.
+*First Schedule.*
 
-(3) The provisions of the First Schedule shall have effect with First respect to the constitution of the Board and otherwise in relation thereto. Schedule.
+(3) The provisions of the First Schedule shall have effect with respect to the constitution of the Board and otherwise in relation thereto. P ART II ARCHITECTS
 
-### P ART II
+*Architects Register.*
 
-### ARCHITECTS
-
-**4.** (1) The Registrar shall keep a Register, to be known as "the Architects Architects Register", in which he shall cause to be entered the name of Register. every person entitled to be registered as an architect under section 5 or 6, together with the following particulars in respect of each person:
+**4.** (1) The Registrar shall keep a Register, to be known as "the Architects Register", in which he shall cause to be entered the name of every person entitled to be registered as an architect under section 5 or 6, together with the following particulars in respect of each person:
 
 (a) his full name and address;
 
@@ -228,13 +232,11 @@ Cap. 1.
 
 has had not less than 3 years of such practical experience in architecture as the Board approves.
 
-(3) An application for registration shall be made to the Secretary
+*Form A. Second Schedule.*
 
-*Form A. Second*
+(3) An application for registration shall be made to the Secretary of the Board in the Form A set out in the Second Schedule.
 
-of the Board in the Form A set out in the Second Schedule.
-
-(4) An applicant for registration shall furnish to the Secretary of Schedule. the Board
+(4) An applicant for registration shall furnish to the Secretary of the Board
 
 (a) evidence of his qualifications and experience;
 
@@ -242,13 +244,11 @@ of the Board in the Form A set out in the Second Schedule.
 
 (c) such further and other information as the Board requires in respect of the matters referred to in subsections (1) and (2).
 
-**5A.** Where in respect of an application for registration as an Power of
+*Power of Board to require examination. 2005-28.*
 
-*Board to require examination.*
+**5A.** Where in respect of an application for registration as an architect
 
-architect
-
-(a) the Board is satisfied as to the matters specified in 2005-28. paragraph (b) of section 5(1) but does not consider the qualifications which the applicant holds to be evidence of satisfactory training in architecture; or
+(a) the Board is satisfied as to the matters specified in paragraph (b) of section 5(1) but does not consider the qualifications which the applicant holds to be evidence of satisfactory training in architecture; or
 
 (b) a question arises with respect to the evidence presented by the applicant as to his training,
 
@@ -288,15 +288,17 @@ is entitled upon compliance with the requirements of this Act and on payment of 
 
 (d) that the applicant has obtained the necessary work permit to enable him to practise in Barbados.
 
-**8.** (1) In determining whether a person who applies for registra- Certain tion is duly qualified to be registered under this Act, the fact that the factors not to be taken person adopts or refrains from adopting, or intends to adopt or refrain into from adopting, the practice of any particular theory of architectural consideration in design shall not be taken into consideration.
+*Certain factors not to be taken into consideration in determining qualifica-tions for registration.*
 
-determining qualifica-
+**8.** (1) In determining whether a person who applies for registration is duly qualified to be registered under this Act, the fact that the person adopts or refrains from adopting, or intends to adopt or refrain from adopting, the practice of any particular theory of architectural design shall not be taken into consideration.
 
-(2) Where a person submits to examination in order to entitle him tions for to register under this Act, there shall not be imposed upon him any registration. obligation to adopt or refrain from adopting the practice of any particular theory of architecture as a test or condition of admitting him to examination or registration under this Act.
+(2) Where a person submits to examination in order to entitle him to register under this Act, there shall not be imposed upon him any obligation to adopt or refrain from adopting the practice of any particular theory of architecture as a test or condition of admitting him to examination or registration under this Act.
 
-**9.** A person registered under this Act shall be entitled, Registered architect
+*Registered architect entitled to practise. Form B. Second Schedule.*
 
-(a) on payment of the appropriate fee to receive from the Registrar entitled to practise. a certificate in the Form B set out in the Second Schedule to Form B. practise architecture in Barbados; Second Schedule.
+**9.** A person registered under this Act shall be entitled,
+
+(a) on payment of the appropriate fee to receive from the Registrar a certificate in the Form B set out in the Second Schedule to practise architecture in Barbados;
 
 (b) to demand and recover reasonable remuneration for architectural services rendered;
 
@@ -304,11 +306,13 @@ determining qualifica-
 
 **10.** Repealed by 2005-28.
 
-**11.** (1) A registered architect who has obtained a higher degree Additional or qualification, other than the qualifications in respect of which he qualifica-tions. has been registered may make application to the Registrar to have registered particulars of any higher degree or qualification inserted in the Register in substitution for, or in addition to, the qualifications previously registered.
+*Additional qualifica-tions.*
+
+**11.** (1) A registered architect who has obtained a higher degree or qualification, other than the qualifications in respect of which he has been registered may make application to the Registrar to have registered particulars of any higher degree or qualification inserted in the Register in substitution for, or in addition to, the qualifications previously registered.
+
+*Form C. Second Schedule.*
 
 (2) The application referred to in subsection (1) shall be in the Form C as set out in the Second Schedule.
-
-Form C. Second Schedule.
 
 *Practice of architecture by persons other than those registered under this Act.*
 
@@ -354,13 +358,21 @@ if those persons do not use the term "architect" in its unqualified form with in
 
 (b) for each subsequent offence, to a fine of $15 000 or to imprisonment for a term of 2 years.
 
-(4) Section 18(1)(c)(i) shall not apply to a person who by virtue of 2005-28. subsection (1) practises those aspect of architecture specified in that subsection.
+*2005-28.*
 
-**13.** After 21st April, 2003, no certification, drawing, valuation, Validity of declaration or other document required by an enactment to be signed architect's documenta-by an architect is valid unless the person signing it is registered under tion. this Act.
+(4) Section 18(1)(c)(i) shall not apply to a person who by virtue of subsection (1) practises those aspect of architecture specified in that subsection.
 
-**14.** A partnership, association or corporation may practise Partnerships, architecture in its own name where its principal and customary function associations or corpora-is to practise architecture, and where the work is done under the tions. responsibility and supervision of a partner or an associate or a director of a corporation, or under the responsibility and supervision of a full-time permanent employee of the partnership, association or corporation who is a registered architect.
+*Validity of architect's documentation.*
 
-**15.** (1) The Board may, where it considers that a person registered Improper as an architect has improperly obtained registration, require that the registration. person apply to have himself properly registered under the Act.
+**13.** After 21st April, 2003, no certification, drawing, valuation, declaration or other document required by an enactment to be signed by an architect is valid unless the person signing it is registered under this Act.
+
+*Partnerships, associations or corpora-tions.*
+
+**14.** A partnership, association or corporation may practise architecture in its own name where its principal and customary function is to practise architecture, and where the work is done under the responsibility and supervision of a partner or an associate or a director of a corporation, or under the responsibility and supervision of a full-time permanent employee of the partnership, association or corporation who is a registered architect.
+
+*Improper registration.*
+
+**15.** (1) The Board may, where it considers that a person registered as an architect has improperly obtained registration, require that the person apply to have himself properly registered under the Act.
 
 (2) Where after a period of 3 months, or such longer period as the Board allows, the person referred to in subsection (1) fails without reasonable excuse to apply to be properly registered, the Board may cause the name of that person to be struck off the Register.
 
@@ -396,7 +408,7 @@ if those persons do not use the term "architect" in its unqualified form with in
 
 (a) impose on that architect a fine of $5 000; and
 
-12A L.R.O. 2007
+12A
 
 (b) where the architect refuses to pay the fine referred to in paragraph (a), the Board may suspend his registration for a period not exceeding one year.
 
@@ -420,15 +432,15 @@ if those persons do not use the term "architect" in its unqualified form with in
 
 (iii) makes use of the name or title of architect or any other name, title, addition, designation or description implying that he is a registered architect or is entitled to be recognised or to practise as a registered architect,
 
-is guilty of an offence under this Act.
+*is*
+
+guilty of an offence under this Act.
 
 (2) A person who is guilty of an offence under this Act is liable on summary conviction,
 
-(a) for a first offence, to a fine of $10 000 or to imprisonment for 2005-28. 2 years; and
+(a) for a first offence, to a fine of $10 000 or to imprisonment for 2 years; and
 
 ### L.R.O. 2007 12B
-
-*2005-28.*
 
 (b) for each subsequent offence, to a fine of $25 000 or to imprisonment for 3 years.
 
@@ -456,15 +468,19 @@ is guilty of an offence under this Act.
 
 (g) prescribing the fees payable in respect of any examination and registration under this Act;
 
-(h) prescribing a code of professional conduct for architects;
-
-(i) providing for the stamping of drawings or other documents and the use of seals by an architect; and
+(h) prescribing a code of professional conduct for architects; (i) providing for the stamping of drawings or other documents and the use of seals by an architect; and
 
 (j) carrying into effect generally the purposes for which the Board is constituted.
 
-(2) The Board may, subject to the approval of the Minister responsible for Finance, by regulations prescribe the fees payable to its members and to any examiners appointed by the Board.
+*its*
 
-**20.** Any expenses incurred in the administration of this Act Expenses. shall be defrayed out of moneys voted for the purpose by Parliament.
+(2) The Board may, subject to the approval of the Minister responsible for Finance, by regulations prescribe the fees payable to members and to any examiners appointed by the Board.
+
+*Expenses.*
+
+*shall*
+
+**20.** Any expenses incurred in the administration of this Act be defrayed out of moneys voted for the purpose by Parliament.
 
 ## FIRST SCHEDULE
 
@@ -472,13 +488,11 @@ is guilty of an offence under this Act.
 
 Constitution and Procedure of the Board
 
-*Appointment of*
+*Appointment of members.*
 
 **1.** Subject to paragraph 3, the Board shall consist of
 
-(a)
-
-the Chief Technical Officer, Ministry of Public Works and Transport, members. ex officio or his nominee;
+(a) the Chief Technical Officer, Ministry of Public Works and Transport, ex officio or his nominee;
 
 (b) one person appointed by the Minister; and
 
@@ -518,19 +532,31 @@ The Board may
 
 (2) The secretary, officers and servants of the Board shall receive such pay and allowances as the Board with the approval of the Minister determines.
 
-**6.** The names of all members of the Board as first constituted and every change Publication in the membership of the Board shall be published in the Official Gazette. of member-ships in the Gazette.
+*Publication of member-ships in the Gazette.*
 
-**7.** At a meeting of the Board 4 members shall form a quorum. Quorum.
+**6.** The names of all members of the Board as first constituted and every change in the membership of the Board shall be published in the Official Gazette.
 
-**8.** (1) Any member of the Board other than the chairman may at any time Resignation resign his office by instrument in writing addressed to the Minister and transmitted of members through the chairman, and from the date of receipt by the Minister of such of the Board. instrument the member shall cease to be a member of the Board.
+*Quorum.*
+
+**7.** At a meeting of the Board 4 members shall form a quorum.
+
+*Resignation of members of the Board.*
+
+**8.** (1) Any member of the Board other than the chairman may at any time resign his office by instrument in writing addressed to the Minister and transmitted through the chairman, and from the date of receipt by the Minister of such instrument the member shall cease to be a member of the Board.
 
 (2) The chairman may at any time resign his office by instrument in writing addressed to the Minister, and the resignation shall take effect as from the date of receipt of the instrument by the Minister.
 
-**9.** In the absence or inability to act of any member, the Minister may appoint Temporary any person to act temporarily in place of the member; and the temporary appoint- appointment shall be made in the same manner and from the same categories of persons, ments. if any, as the appointment of the member.
+*Temporary appoint-ments.*
 
-**10.** Where a vacancy occurs in the membership of the Board, the vacancy shall Vacancies. be filled by the appointment of another member, who shall hold office for the remainder of the period for which the previous member was appointed.
+**9.** In the absence or inability to act of any member, the Minister may appoint any person to act temporarily in place of the member; and the temporary appointment shall be made in the same manner and from the same categories of persons, if any, as the appointment of the member.
 
-**11.** (1) The Board shall regulate its own proceedings. Procedure and meeting.
+*Vacancies.*
+
+**10.** Where a vacancy occurs in the membership of the Board, the vacancy shall be filled by the appointment of another member, who shall hold office for the remainder of the period for which the previous member was appointed.
+
+*Procedure and meeting.*
+
+**11.** (1) The Board shall regulate its own proceedings.
 
 (2) The Board shall meet at such times and places as may be necessary or expedient for the transition of its business.
 

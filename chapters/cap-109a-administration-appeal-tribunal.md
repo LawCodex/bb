@@ -164,11 +164,15 @@ CAP. 109A Administrative Appeal Tribunal L.R.O. 1997 4
 
 (3) An appeal to the Tribunal shall be heard and determined by the Division to which it is assigned by direction of the President.
 
-**8.** (1) A Division sitting to hear and determine an appeal shall, Sittings. subject to subsections (3) and (4), consist of such members as the President may assign to that Division for that appeal.
+*Sittings.*
+
+**8.** (1) A Division sitting to hear and determine an appeal shall, subject to subsections (3) and (4), consist of such members as the President may assign to that Division for that appeal.
 
 (2) The President or a legal member designated by him shall preside at each sitting of a Division.
 
-(3) Where an appeal to the Tribunal involves a question of national insurance, income tax, value added tax, severance payments, or of a 1996-15. retirement pension or funeral grant under the Sugar Workers Cap. 271. (Provident Fund) Act, the Division to which it is assigned shall consist of a legal member and 2 other members; and in the case of an appeal involving a question of national insurance, severance payment, or of a retirement pension or funeral grant, the 2 other members must be nominated by an organisation representative of employers and of employees.
+*1996-15. Cap. 271.*
+
+(3) Where an appeal to the Tribunal involves a question of national insurance, income tax, value added tax, severance payments, or of a retirement pension or funeral grant under the Sugar Workers (Provident Fund) Act, the Division to which it is assigned shall consist of a legal member and 2 other members; and in the case of an appeal involving a question of national insurance, severance payment, or of a retirement pension or funeral grant, the 2 other members must be nominated by an organisation representative of employers and of employees.
 
 (4) Where the President is satisfied that subsection (3) does not apply to an appeal and that the appeal can be heard and determined by a single member, whether or not a legal member, he may so direct, and for that appeal the Division shall consist of that member only.
 
@@ -208,71 +212,51 @@ Jurisdiction and Proceedings
 
 Appeal Tribunal
 
-(b) the National Insurance Board in respect of any retirement
-
 *Cap. 271.*
 
-pension or funeral grant under the Sugar Workers (provident Fund) Act.
+(b) the National Insurance Board in respect of any retirement pension or funeral grant under the Sugar Workers (provident Fund) Act.
 
 (2) Where an appeal lies to the Tribunal under paragraph (b) of subsection (l), the decision of the Tribunal is final.
 
 (3) Where before the commencement of this Act, an appeal lay directly to the High Court or to a referee, after such commencement, an appeal lies, in the first instance, in accordance with the rules, to the Tribunal in the following cases:
 
-(a) appeal from determinations of the National Insurance
-
 *Cap. 47.*
 
-Board made under section 35 of the National Insurance and SociaZ Security Act and rules made thereunder;
-
-(6) appeals from decisions of the Commissioner of Inland
+(a) appeal from determinations of the National Insurance Board made under section 35 of the National Insurance and SociaZ Security Act and rules made thereunder;
 
 *Cap. 69.*
 
-Revenue under section 8(3) of theEntertainment Tax Act;
-
-(c) appeals from decisions of the Commissioner of Estate
+(6) appeals from decisions of the Commissioner of Inland Revenue under section 8(3) of theEntertainment Tax Act;
 
 *Cap. 70.*
 
-Duty under section 36 of the Estate Duty Act;
-
-(d) appeals from decisions of the Collector of Taxes under
+(c) appeals from decisions of the Commissioner of Estate Duty under section 36 of the Estate Duty Act;
 
 *Cap. 78A.*
 
-section 14 of the Land Tax Act;
-
-(e) appeals from decisions of the Commissioner of Inland
+(d) appeals from decisions of the Collector of Taxes under section 14 of the Land Tax Act;
 
 *Cap. 73.*
 
-Revenue under section 60 of the Income Tax Act; cf, appeals from decisions of the Commissioner of Valuations
-
 *Cap. 229A.*
 
-under section 21 of the Land Valuation Act;
-
-(9) applications to the High Court and references to a referee appointed by the Minister under section 132 of the
+(e) appeals from decisions of the Commissioner of Inland Revenue under section 60 of the Income Tax Act; cf, appeals from decisions of the Commissioner of Valuations under section 21 of the Land Valuation Act;
 
 *Cap. 66.*
 
-Customs Act,
+(9) applications to the High Court and references to a referee appointed by the Minister under section 132 of the Customs Act,
 
 and, accordingly, no appeal lies directly to the High Court or to a referee in those cases after the commencement of this Act.
 
 (4) Where an appeal formerly lay to the Minister, after the commencement of this Act, such appeal lies to the Tribunal in accordance with the rules in the following cases:
 
-(a) appeals from determinations of the Betting and Gaming
-
 *Cap. 60.*
 
-Committee under section 17 of the Betting and Gaming Duties Act:
-
-(b) appeals from decisions of the Board under section 4 of the
+(a) appeals from determinations of the Betting and Gaming Committee under section 17 of the Betting and Gaming Duties Act:
 
 *Cap. 299.*
 
-Cinematograph Film Censorship Act:
+(b) appeals from decisions of the Board under section 4 of the Cinematograph Film Censorship Act:
 
 by the Government Prlntlnp Department. Bay Street. St. Micbel.
 
@@ -296,15 +280,23 @@ except where the decision of the Tribunal is by law made final, appeal to the Hi
 
 (2) On an appeal under subsection (l), the High Court may make any order or give any decision which might have been made or given by the Tribunal, and may, if it thinks fit, remit the case to the Tribunal with directions as to its determination by the Tribunal.
 
-CAP. 109A ss.13-16 Tribunal.
+*ss.13-16*
 
-**13.** (1) The Tribunal may, if it thinks fit, receive oral or Evidence written evidence, and under oath or otherwise, but is not bound zita?;-by the legal rules of evidence.
+Tribunal.
+
+*Evidence zita?;-*
+
+**13.** (1) The Tribunal may, if it thinks fit, receive oral or written evidence, and under oath or otherwise, but is not bound by the legal rules of evidence.
 
 (2) The Tribunal shall allow every party to an appeal to appear in person or by representative, and, where the Tribunal receives oral evidence, to examine and cross-examine witnesses.
 
-**14.** The Tribunal shall receive evidence in public except where pubtic and it is of opinion that evidence may be disclosed relating to Pr’v;tfe financial or other personal circumstances of any person and that heanngsV the balance of advantage is in favour of preventing the disclosure of the evidence in public, having regard both to the public interest and to the interest of the person concerned.
+*pubtic and Pr’v;tfe heanngsV*
 
-**15.** (1) The Tribunal may in relation to its own procedure Procedure determine any matter that is not prescribed by this Act or the @nerallY-rules.
+**14.** The Tribunal shall receive evidence in public except where it is of opinion that evidence may be disclosed relating to financial or other personal circumstances of any person and that the balance of advantage is in favour of preventing the disclosure of the evidence in public, having regard both to the public interest and to the interest of the person concerned.
+
+*Procedure @nerallY-*
+
+**15.** (1) The Tribunal may in relation to its own procedure determine any matter that is not prescribed by this Act or the rules.
 
 (2)
 
@@ -320,7 +312,9 @@ prescribe the periods of time within which any appeal or (4
 
 class of appeal to the Tribunal shall be lodged.
 
-**16.** (1) The Tribunal may issue subpoenas, make orders;and subp-as give directions to such persons and in such manner as it thinks Eidties fit for the purpose of summoning witnesses, requiring the . disclosure of documents or other evidence, requiring parties or witnesses to answer questions, and of conducting its proceedings in a proper and orderly manner.
+*subp-as Eidties .*
+
+**16.** (1) The Tribunal may issue subpoenas, make orders;and give directions to such persons and in such manner as it thinks fit for the purpose of summoning witnesses, requiring the disclosure of documents or other evidence, requiring parties or witnesses to answer questions, and of conducting its proceedings in a proper and orderly manner.
 
 (2) The Tribu na 1 may report to the High Court the conduct of any person who disobeys any subpoena order or direction properly issued under subsection (l), or says or does any other thing that would, if the Tribunal were a superior court of law, be contempt of court.
 
@@ -404,19 +398,15 @@ by thr authority of the Governmen of Barbados
 
 Amendments
 
-*Interpretation*
-
-*Act. Cap. I*
+*Interpretation Act. Cap. I*
 
 In section 46, insert in its appropriate aipha-betical order the following definition:
 
 “Administrative Appeal Tribunal” or
 
-“Tribunal” means the tribunal established
-
 *Cap. 109A*
 
-under section 3 of the Administrative Appeal Tribunal Act.
+“Tribunal” means the tribunal established under section 3 of the Administrative Appeal Tribunal Act.
 
 *National Insurance and Social Security Act, Cap. 47*
 
@@ -430,11 +420,9 @@ persons appointed or constituted in accordance with the regulations, of any ques
 
 (b) delete subsection (2) and substitute therefor the following:
 
-“(2) An appeal shall lie to the Administrative Appeal Tribunal as provided by
-
 *Cap. 109A*
 
-the Administrutive Appeal Tribunal Act in respect of any question or claim to benefit determined by the Board, or by such persons as are appointed or constituted in accordance with subsection (1):‘.
+“(2) An appeal shall lie to the Administrative Appeal Tribunal as provided by the Administrutive Appeal Tribunal Act in respect of any question or claim to benefit determined by the Board, or by such persons as are appointed or constituted in accordance with subsection (1):‘.
 
 *Airline Service Business Tax Act, Cap. 59A.*
 
@@ -442,9 +430,7 @@ In section 12, delete the words “Income Tax Appeal Board” and “Board” wh
 
 109A
 
-*and Gaming*
-
-*Betting Duties Act, Cap. 60.*
+*and Gaming Betting Duties Act, Cap. 60.*
 
 In section 17, delete subsection (7) and substitute therefor the following:
 
@@ -466,15 +452,9 @@ In section 132.
 
 (c) delete the words “the referee or Court” appearing in the first and second lines of subsection (2) and substitute therefor the words “the Administrative Appeal Tribunal”.
 
-*Entertainment*
+*Entertainment Tax Act. Cap. 69.*
 
-*Tax Act.*
-
-In section 8, delete the words “the High Court
-
-*Cap. 69.*
-
-and the decision of the Court shall be final.” appearing in subsection (3) and substitute therefor the words “the Administrative Appeal Tribunal.“.
+In section 8, delete the words “the High Court and the decision of the Court shall be final.” appearing in subsection (3) and substitute therefor the words “the Administrative Appeal Tribunal.“.
 
 *ME*
 
@@ -542,15 +522,9 @@ In section 79,
 
 In section 84, delete paragraph (h).
 
-*Land Development*
+*Land Development Duty Act, Cap. 78.*
 
-*Duty*
-
-In section 2, delete the definition “Income Tax
-
-*Act, Cap. 78.*
-
-Appeal Board”;
+In section 2, delete the definition “Income Tax Appeal Board”;
 
 In section 17, delete the words “the Income Tax Appeal Board” appearing in subsection (1) and substitute therefor the words “the Administrative Appeal Tribunal”.
 
@@ -572,15 +546,9 @@ PrInted by the Government Prlntlnp Department. Bay Street, St. Michael, by the r
 
 *CAP.109A*
 
-*Land Development*
+*Land Development Duty Act, Cap. 78.*
 
-*Duty*
-
-tute therefor the words “the Administra-
-
-*Act, Cap. 78.*
-
-tive Appeal Tribunal”;
+tute therefor the words “the Administrative Appeal Tribunal”;
 
 (b) delete the words “The Land Valuation Board and the Court of Appeal” appearing in the first line of subsection (3) and substitute therefor the words “The Administrative Appeal Tribunal”.
 
@@ -618,17 +586,9 @@ In section 37, delete the words “Income Tax Appeal Board” and “Board” wh
 
 In section 38, delete the words “Income Tax Appeal Board” appearing in subsection (1) and substitute therefor the words “Administrative Appeal Tribunal”.
 
-*Property*
+*Property Transfer Tax Act, Cap. 84A.*
 
-*Transfer*
-
-*Tax*
-
-In section 11, delete the words “Land
-
-*Act, Cap. 84A.*
-
-Valuation Board”, “Board” and “Board’s” wherever they appear in subsections (1) to (5) and substitute therefor the words “Administrative Appeal Tribunal”, “Tribunal”, or
+In section 11, delete the words “Land Valuation Board”, “Board” and “Board’s” wherever they appear in subsections (1) to (5) and substitute therefor the words “Administrative Appeal Tribunal”, “Tribunal”, or
 
 “Tribunal’s”, as the case may be.
 
@@ -648,9 +608,11 @@ In section 37, delete all the words beginning “to theLand Valuation Board” i
 
 In section 38, delete the words”the Boardor” appearing in the secondlineofparagraph (c).
 
-OF BARBADOS by the Government Prlntlng Department. Bay Street, St. Michael.
+*by the by the*
 
-by the authority 01 the Government of Barbados
+OF BARBADOS Government Prlntlng Department. Bay Street, St. Michael.
+
+authority 01 the Government of Barbados
 
 Zi-ibunal
 
@@ -660,15 +622,11 @@ Ameridments
 
 In section 42, delete the words “the Land Valuation Board” appearing in subsection (4) and substitute therefor the words “the Administrative AppealTribunal”.
 
-*Film*
+*Film Cinematograph*
 
-*Cinematograph Censorship*
+*Censorship Act, Cap.*
 
-In section 4, delete the words “to the Minister
-
-*Act, Cap.*
-
-whose decision shall be final” appearing in the
+In section 4, delete the words “to the Minister whose decision shall be final” appearing in the
 
 **299.** thirdandfourthlinesandsubstitutethereforthe words “to the Administrative Appeal Tribunal”,
 
@@ -730,15 +688,9 @@ Sections 132(3) and (4) arerepealed.
 
 Sections 58, 59(2) to (lo), 60, 61 and 62 are repealed.
 
-*Land Development*
+*Land Development Duty Act, Cap. 78.*
 
-*Duty*
-
-Sections17(2)to(9)andsections18. 19.21 and
-
-*Act, Cap. 78.*
-
-27(6) are repealed.
+Sections17(2)to(9)andsections18. 19.21 and 27(6) are repealed.
 
 *Land Tax Act, Cap. 78A.*
 

@@ -104,19 +104,27 @@ General
 
 Form
 
-### CHAPTER 252
+*1905-2. 1973-28. L.N. 168/*
 
-AGRICULTURAL AIDS An Act to consolidate and amend the Acts to facilitate the raising of 1905-2. money on loan by owners and others legally authorised to carry 1973-28. L.N. 168/ on the cultivation of land in Barbados to enable them to carry 1967. on such cultivation. 1981-50. 1988-12. 1992-17. 2000-24. [28th February, 1905] Commencement. P ART I
+CHAPTER 252 AGRICULTURAL AIDS An Act to consolidate and amend the Acts to facilitate the raising of money on loan by owners and others legally authorised to carry on the cultivation of land in Barbados to enable them to carry
+
+*1981-50. 1988-12. 1992-17. 2000-24.*
+
+**1967.** on such cultivation.
+
+*Commencement.*
+
+[28th February, 1905] P ART I
 
 Preliminary
 
+*Short title.*
+
 **1.** This Act may be cited as the Agricultural Aids Act.
 
-Short title.
+*Interpretation.*
 
 **2.** For the purposes of this Act
-
-Interpretation.
 
 "land" means sugar plantations and all other real estate or property usually or about to be cultivated for producing an annual crop;
 
@@ -124,11 +132,13 @@ Interpretation.
 
 "person" includes any body corporate or politic;
 
-"receiver" means any person appointed by any court to take charge of, L.N. 168/ manage and cultivate, or receive the rents and profits of, land in 1967. Barbados;
+*L.N. 168/*
+
+"receiver" means any person appointed by any court to take charge of, manage and cultivate, or receive the rents and profits of, land in 1967. Barbados;
+
+*1988-12.*
 
 "Registrar" means the Registrar of Titles.
-
-1988-12.
 
 ### P ART II
 
@@ -148,33 +158,39 @@ Loans to Owners
 
 *1973-28. 1981-50.*
 
-together with interest on such loans not exceeding such rate as the Central Bank of Barbados may determine shall become, subject to this
-
 *2000-24.*
 
-Act and subject to the Barbados National Bank (Transfer and Vesting of Assets) Act, 2000, a charge in preference to all other charges on the then current year's crop or crops on such land or such of them as may have been pledged, and shall be paid thereout in the first place and in priority to all other claims or liens affecting the said crop, including any receiver's account, where proceedings are taken against the land on which the crop is growing before the reaping or sale thereof; but the owner shall be personally liable for such loans or advances except where it is agreed between himself and the person making such loans and advances that he shall not be so liable.
-
-(2) Notwithstanding subsection (1), where a loan is raised by means
+together with interest on such loans not exceeding such rate as the Central Bank of Barbados may determine shall become, subject to this Act and subject to the Barbados National Bank (Transfer and Vesting of Assets) Act, 2000, a charge in preference to all other charges on the then current year's crop or crops on such land or such of them as may have been pledged, and shall be paid thereout in the first place and in priority to all other claims or liens affecting the said crop, including any receiver's account, where proceedings are taken against the land on which the crop is growing before the reaping or sale thereof; but the owner shall be personally liable for such loans or advances except where it is agreed between himself and the person making such loans and advances that he shall not be so liable.
 
 *1981-50. 1973-28.*
 
-of promissory notes through any bank, the usual bank charges may be allowed as interest thereon in addition to the rate of interest determined by the Central Bank of Barbados.
+(2) Notwithstanding subsection (1), where a loan is raised by means of promissory notes through any bank, the usual bank charges may be allowed as interest thereon in addition to the rate of interest determined by the Central Bank of Barbados.
 
 (3) No loan under this Act shall be made to any owner on the security of any cane crop prior to the 1st June in the year preceding the reaping of such crop but a loan under the Act may be made for the purchase of manure between the 1st January and the 1st June of any such year.
 
-**4.** It shall not be incumbent on any person making a loan or advance Lender not to an owner of land under this Act to see to the due application of $‘fo” to the loan, and the misapplication or non-application of such loan application of loan. shall not affect the security for the same.
+*Lender not $‘fo” to application of loan.*
 
-**5.** For the purposes of this Act, a constituted attorney of any owner when having authority by deed to carry on the cultivation of land shall be able ~~~~~,“‘,‘~~r to exercise for the owner all the powers conferred by this Act on such under this owner in the same manner as such owner could exercise them for Act. himself.
+**4.** It shall not be incumbent on any person making a loan or advance to an owner of land under this Act to see to the due application of the loan, and the misapplication or non-application of such loan shall not affect the security for the same.
 
-**6.** (1) The owner shall execute and give to the person or persons qwner to making such loan or loans a certificate or certificates in the Form A in ~‘“$?~~:~ the Schedule, or as near thereto as the circumstances of the case permit. be recorded by Registrar.
+*when ~~~~~,“‘,‘~~r under this Act.*
 
-(2) On production of such certificate or certificates to the Registrar, schedule. he shall enter the particulars of such loan or loans, in the order in regard to time in which they are produced to him, in a book to be kept for that purpose and to be called “The Owners’ Loan Book” and shall certify on such certificate or certificates that the particulars thereof have been so entered.
+**5.** For the purposes of this Act, a constituted attorney of any owner having authority by deed to carry on the cultivation of land shall be able to exercise for the owner all the powers conferred by this Act on such owner in the same manner as such owner could exercise them for himself.
+
+*qwner to ~‘“$?~~:~ be recorded by Registrar. schedule.*
+
+**6.** (1) The owner shall execute and give to the person or persons making such loan or loans a certificate or certificates in the Form A in the Schedule, or as near thereto as the circumstances of the case permit.
+
+(2) On production of such certificate or certificates to the Registrar, he shall enter the particulars of such loan or loans, in the order in regard to time in which they are produced to him, in a book to be kept for that purpose and to be called “The Owners’ Loan Book” and shall certify on such certificate or certificates that the particulars thereof have been so entered.
 
 (3) All such loans when so entered shall be and become liens on the current year’s crop orcrops of the land or such of them as may have been pledged ranking and payable in the manner hereinbefore specified but as between several loans of the same nature, if more than one, the same shall rank according to their priority of entry in the Owners’ Loan Book.
 
-**7.** (1) Before any loan is effected under this Act between an owner Owner to and any person and unless the owner first obtains the consent in writing $Yt”$rn of the several encumbrancers against the plantation, such owner shall to borrow cause an advertisement to be inserted in three consecutive issues of the ;;;Ttyder Ojjkial Gazette and one daily newspaper of Barbados, giving notice to the persons holding liens against such land of his intention to obtain such loan.
+*Owner to $Yt”$rn to borrow ;;;Ttyder*
 
-(2) Every such advertisement shall state what sum, if any, has been already borrowed on the crop and the sum then proposed to be borrowed and shall be in the Form B in the Schedule or as near thereto schedule. as circumstances permit.
+**7.** (1) Before any loan is effected under this Act between an owner and any person and unless the owner first obtains the consent in writing of the several encumbrancers against the plantation, such owner shall cause an advertisement to be inserted in three consecutive issues of the Ojjkial Gazette and one daily newspaper of Barbados, giving notice to the persons holding liens against such land of his intention to obtain such loan.
+
+*schedule.*
+
+(2) Every such advertisement shall state what sum, if any, has been already borrowed on the crop and the sum then proposed to be borrowed and shall be in the Form B in the Schedule or as near thereto as circumstances permit.
 
 Prlned by tk Care-nt Pnntcr. Bay Stmt. St. M,chacl.
 
@@ -228,7 +244,9 @@ warrant under his hand, authorise the complainant or his agent to enter upon the
 
 (4) Any owner or other person obstructing such agent shall be guilty of a misdemeanour and on conviction thereof shall be liable to be imprisoned for 6 months.
 
-**11.** (1) Every owner or his attorney whdobtains a loan against his Owner to crop undei- this Act shall keep, in,the books relating to the land on which l‘F:GFFy’ such crop is growing, a particular account in writing of the amount of tion of loans. money so borrowed and the application thereof, showing the balance in hand unapplied from time to time.
+*Owner to l‘F:GFFy’ tion of loans.*
+
+**11.** (1) Every owner or his attorney whdobtains a loan against his crop undei- this Act shall keep, in,the books relating to the land on which such crop is growing, a particular account in writing of the amount of money so borrowed and the application thereof, showing the balance in hand unapplied from time to time.
 
 (2) Where proceedings are taken against such land before all such moneys are applied, the owner or attorney of such owner shall hand over to the Registrar or the Chief Marshal such particular account with the vouchers for the expenditure mentioned therein and shall pay over any unapplied balance to the Registrar or the Chief Marshal, as the case may be, to be applied by him in accordance with the order of a Judge to be obtained on motion at chambers to be made by the attomey-at-law for the proceeding creditor.
 
@@ -268,19 +286,21 @@ value thereof, then the appraisers shall ascertain approximately the amount of m
 
 (5) Nothing in subsection (4) shall prevent a sale of the said crop along with the land at any time after such proceedings have been taken.
 
-**14.** It shall not be lawful for the purchaser of any land in the High Conditions Court to raise money against the crop or crops of such land under this under which purchaser of Act until he has obtained a conveyance or transfer therefor from the land sold by Registrar or has obtained the consent in writing of the lien-holders High Court may raise coming within the purchase money to obtain such loan or has paid or loan. given security for the payment of the whole of the purchase money. 1988-12. P ART III
+*Conditions under which purchaser of land sold by High Court may raise loan. 1988-12.*
 
-Loans to Receivers
+**14.** It shall not be lawful for the purchaser of any land in the High Court to raise money against the crop or crops of such land under this Act until he has obtained a conveyance or transfer therefor from the Registrar or has obtained the consent in writing of the lien-holders coming within the purchase money to obtain such loan or has paid or given security for the payment of the whole of the purchase money. P ART III Loans to Receivers
 
-**15.** (1) Any receiver of land may from time to time obtain on Receivers loan from any person, ready and willing to lend the same, such sum or with sanction of sums of money as may be necessary for carrying on the management court may and cultivation of such land and the general business thereof, the borrow money for amount of such loan to be first approved by the High Court in upkeep of accordance with this Part. plantation.
+*Receivers with sanction of court may borrow money for upkeep of plantation.*
 
-(2) Such loan shall carry interest at the rate determined by the 1981-50. Central Bank of Barbados and shall be upon such terms and payable at such times as shall be agreed upon between the receiver and the person lending or advancing the same.
-
-(3) Notwithstanding subsection (2), where such a loan is raised by means of promissory notes through any bank, the bank charges shall be allowed as interest thereon in addition to the rate determined by the
+**15.** (1) Any receiver of land may from time to time obtain on loan from any person, ready and willing to lend the same, such sum or sums of money as may be necessary for carrying on the management and cultivation of such land and the general business thereof, the amount of such loan to be first approved by the High Court in accordance with this Part.
 
 *1981-50.*
 
-Central Bank of Barbados.
+(2) Such loan shall carry interest at the rate determined by the Central Bank of Barbados and shall be upon such terms and payable at such times as shall be agreed upon between the receiver and the person lending or advancing the same.
+
+*1981-50.*
+
+(3) Notwithstanding subsection (2), where such a loan is raised by means of promissory notes through any bank, the bank charges shall be allowed as interest thereon in addition to the rate determined by the Central Bank of Barbados.
 
 *Order of court first to be obtained.*
 
@@ -294,37 +314,41 @@ Central Bank of Barbados.
 
 (2) On production of such certificate to the Registrar, he shall enter the particulars of such loan, in the order as regards time in which they are produced to him, in a book to be kept for that purpose at his office to be called "The Receivers' Loan Book"; and the Registrar shall certify on such certificate that the particulars thereof have been so entered.
 
-(3) All such loans when so entered and the interest thereon shall, subject to any charges against the crop created under the foregoing
-
 *2000-24.*
 
-sections of this Act and subject to the Barbados National Bank (Transfer and Vesting of Assets) Act, 2000, be a first charge or lien on such land; but as between the several loans, if more than one, the same shall rank according to their priority of entry by the Registrar.
+(3) All such loans when so entered and the interest thereon shall, subject to any charges against the crop created under the foregoing sections of this Act and subject to the Barbados National Bank (Transfer and Vesting of Assets) Act, 2000, be a first charge or lien on such land; but as between the several loans, if more than one, the same shall rank according to their priority of entry by the Registrar.
 
 *Receivers to apply loan in upkeep of plantation, and to apply proceeds of crops in payment of such loans.*
 
 **18.** (1) The receiver shall apply the moneys borrowed under this Part towards the management and cultivation of such land and carrying on the business thereof in the usual course and, on receipt of the rents, issues, proceeds and profits of such land, shall apply the same after payment of all charges against the crop created under the foregoing sections of this Act in payment
 
-ss. 19-22
+*ss. 19-22*
 
 and liquidation of the several loans against the said land and interest thereon, according to their priority.
 
-(2) Any receiver wilfully or fraudulently misapplying the moneys received from any such loan or from the rents, issues, proceeds or profits of such land shall be guilty of an offence and on being convicted 1992-17. thereof shall be liable to be imprisoned for 2 years.
+*1992-17.*
+
+(2) Any receiver wilfully or fraudulently misapplying the moneys received from any such loan or from the rents, issues, proceeds or profits of such land shall be guilty of an offence and on being convicted thereof shall be liable to be imprisoned for 2 years.
 
 ### IV PART
 
 General
 
-**19.** An owner or receiver may at any time on obtaining a loan and A 10an IIV giving a certificate thereof arrange that the same shall form part of a FEEei larger loan to be then named, and in that case it shah be stated on the in instat-face of such certificate that the same forms part of such greater loan, and merits. all certificates issued by the owner or receiver to the extent of and forming part of such greater loans and the moneys, principal and interest thereby secured shall in that case rank pari passu, notwith-
+*A 10an IIV FEEei in instat-merits.*
 
-standing the date of issue or entry of such certificate.
+**19.** An owner or receiver may at any time on obtaining a loan and giving a certificate thereof arrange that the same shall form part of a larger loan to be then named, and in that case it shah be stated on the face of such certificate that the same forms part of such greater loan, and all certificates issued by the owner or receiver to the extent of and forming part of such greater loans and the moneys, principal and interest thereby secured shall in that case rank pari passu, notwithstanding the date of issue or entry of such certificate.
 
-**20.** The Owners’ Loan Book and the Receivers’ Loan Book shall be nooks open to public. open for reference to any person desiring to see the same.
+*nooks open to public.*
 
-**21.** The Registrar shall keep an index to the said various charges Index to be and loans and shall index each charge or loan under the initial letter of $?&, the name, if any, of the land and also under the initial letter of the name of the owner of such land and, in case of a receiver, also under the name of such receiver obtaining the loan or creating the charge.
+**20.** The Owners’ Loan Book and the Receivers’ Loan Book shall be open for reference to any person desiring to see the same.
 
-**22.** (1) On payment of any such loan or charge as aforesaid, the Repayment owner or receiver or other person paying the same shall obtain from the ~~o~~~~~ person, entitled to such loan or charge a receipt for the money so paid, the which receipt shall be endorsed on the said certificate and shall be in the ;yiLzre?’ by Registrar. Form D in the Schedule or as near thereto as circumstances permit.
+*Index to be $?&,*
 
-Schedule.
+**21.** The Registrar shall keep an index to the said various charges and loans and shall index each charge or loan under the initial letter of the name, if any, of the land and also under the initial letter of the name of the owner of such land and, in case of a receiver, also under the name of such receiver obtaining the loan or creating the charge.
+
+*Repayment ~~o~~~~~ the ;yiLzre?’ by Registrar. Schedule.*
+
+**22.** (1) On payment of any such loan or charge as aforesaid, the owner or receiver or other person paying the same shall obtain from the person, entitled to such loan or charge a receipt for the money so paid, which receipt shall be endorsed on the said certificate and shall be in the Form D in the Schedule or as near thereto as circumstances permit.
 
 (2) Such owner or receiver shall produce such receipt to the Registrar, who shall enter the particulars thereof in the Owners’ Loan Book or the Receivers’ Loan Book, as the case may be, against the entry of the certificate of loan or charge.
 

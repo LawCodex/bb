@@ -28,23 +28,35 @@ retrieved: 2026-10-13
 
 **5.** Recovery of fees.
 
-ss.1-4
+*ss.1-4*
 
 ### CHAPTER 252A AGRICULTURAL, DIAGNOSTIC AND OTHER SERVICES (FEES)
 
-An Act to provide for the imposition and collection of fees for services 1995-21. provided by the Ministry of Agriculture and Rural Development. [7th December, 1995] Commencement.
+*1995-21.*
 
-**1.** This Act may be cited as the Agricultural, Diagnostic and Other Short title. Services (Fees) Act.
+An Act to provide for the imposition and collection of fees for services provided by the Ministry of Agriculture and Rural Development.
 
-**2.** For the purpose of this Act "service" includes the sale of any Definition. commodity to the public by the Ministry of Agriculture and Rural Development.
+*Commencement. Short title.*
 
-**3.** (1) Unless otherwise specifically provided by any other Payment enactment, the Minister may by order prescribe the fee payable for of fees. any agricultural, diagnostic or other service performed by the Ministry of Agriculture and Rural Development.
+[7th December, 1995]
+
+**1.** This Act may be cited as the Agricultural, Diagnostic and Other Services (Fees) Act.
+
+*Definition.*
+
+**2.** For the purpose of this Act "service" includes the sale of any commodity to the public by the Ministry of Agriculture and Rural Development.
+
+*Payment of fees.*
+
+**3.** (1) Unless otherwise specifically provided by any other enactment, the Minister may by order prescribe the fee payable for any agricultural, diagnostic or other service performed by the Ministry of Agriculture and Rural Development.
 
 (2) All fees collected pursuant to this Act shall be paid into the Consolidated Fund.
 
 (3) Any person who satisfies the Minister that he has in respect of a service referred to in subsection (1), paid an amount in excess of the amount that is payable by him in respect of that service is entitled to have the amount so paid in excess refunded, and the Accountant-General shall make the refund accordingly.
 
-**4.** The Minister may waive, remit or refund any amount payable Waiver or or paid where he considers it equitable to do so. refund of fees.
+*Waiver or refund of fees.*
+
+**4.** The Minister may waive, remit or refund any amount payable or paid where he considers it equitable to do so.
 
 *s.5*
 

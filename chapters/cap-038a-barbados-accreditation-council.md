@@ -84,11 +84,11 @@ ______________
 
 ## THIRD SCHEDULE
 
-### CHAPTER 38A
+*An*
 
-### BARBADOS ACCREDITATION COUNCIL
+*2004-11. 2008/7.*
 
-An Act to provide for the establishment of a body to be known as the 2004-11. Barbados Accreditation Council with responsibility for 2008/7.
+CHAPTER 38A BARBADOS ACCREDITATION COUNCIL Act to provide for the establishment of a body to be known as the Barbados Accreditation Council with responsibility for
 
 (a) the registration of institutions offering post-secondary and tertiary education and programmes of study;
 
@@ -96,17 +96,25 @@ An Act to provide for the establishment of a body to be known as the 2004-11. Ba
 
 (c) the examination and verification of Certificates of Recognition of Caribbean Community Skills granted to Community nationals by their own country for the purpose of giving effect to Article 46 of the Revised Treaty of Chaguaramas; and
 
-(d) the granting of Certificates of Recognition of Caribbean Community Skills in accordance with the provisions of the Caribbean Community (Movement of Skilled Nationals) Cap. 186A. Act; and
+*Cap. 186A.*
+
+(d) the granting of Certificates of Recognition of Caribbean Community Skills in accordance with the provisions of the Caribbean Community (Movement of Skilled Nationals) Act; and
 
 for related purposes.
 
-[15th November, 2004] Commencement. 2004/141.
+*Commencement. 2004/141.*
 
-**1.** This Act may be cited as the Barbados Accreditation Council Short title. Act.
+[15th November, 2004]
+
+*Short title.*
+
+**1.** This Act may be cited as the Barbados Accreditation Council
+
+*Act.*
+
+*Interpretation.*
 
 **2.** In this Act,
-
-Interpretation.
 
 "accreditation" means the process whereby the standard of
 
@@ -124,21 +132,17 @@ is assessed by the Council to determine whether the institution or the programme
 
 "Board" means the Board of Directors established by section 9;
 
-"Certificate of Recognition" means a Certificate of Recognition of Caribbean Community Skills issued by the Council in the form
-
 *Third Schedule.*
 
-specified in the Third Schedule;
+"Certificate of Recognition" means a Certificate of Recognition of Caribbean Community Skills issued by the Council in the form specified in the Third Schedule;
 
 "college" means a post-secondary or tertiary institution that offers a range of programmes and grants qualifications mainly at the sub-baccalaureate level;
 
 "community college" means a post-secondary or tertiary institution that offers a wide variety of programmes geared to meet the needs of the community in which it exists and grants qualifications mainly at the sub-baccalaureate level;
 
-"Community national" has the meaning assigned to it in section 2 of
-
 *Cap. 186A.*
 
-the Caribbean Community (Movement of Skilled Nationals) Act;
+"Community national" has the meaning assigned to it in section 2 of the Caribbean Community (Movement of Skilled Nationals) Act;
 
 "Council" means the Barbados Accreditation Council established by section 3;
 
@@ -152,15 +156,21 @@ the Caribbean Community (Movement of Skilled Nationals) Act;
 
 "post-secondary or tertiary education" means education that is provided for persons over the age of 16 years;
 
-"programme of study" means a course offered by a private or public educational institution as defined in section 2 of the Education Cap. 41. Act;
+*Cap. 41.*
+
+"programme of study" means a course offered by a private or public educational institution as defined in section 2 of the Education Act;
 
 "re-accreditation" means the process of evaluation to determine whether an institution and its programmes of study that have been accredited, continue to meet the recognized standards for accreditation;
 
-"registration" means the process outlined in Part III of the Education Cap. 41. Act;
+*Cap. 41.*
+
+"registration" means the process outlined in Part III of the Education Act;
 
 "technical university" means a post-secondary or tertiary institution that offers programmes that prepare graduates for technological occupations and grants, as its major qualifications, baccalaureate and post-graduate degrees and also conducts research with an emphasis on applied research;
 
-"Treaty" has the meaning assigned to it by section 2 of the Caribbean Cap. 15. Community Act;
+*Cap. 15.*
+
+"Treaty" has the meaning assigned to it by section 2 of the Caribbean Community Act;
 
 "university" means a tertiary educational institution that grants, as its major qualifications, baccalaureate and post-graduate degrees and conducts pure and applied research;
 
@@ -172,11 +182,9 @@ the Caribbean Community (Movement of Skilled Nationals) Act;
 
 **3.** (1) There is hereby established a Council to be known as the Barbados Accreditation Council.
 
-(2) The Council is a body corporate to which section 21 of the
-
 *Cap. 1.*
 
-Interpretation Act applies.
+(2) The Council is a body corporate to which section 21 of the Interpretation Act applies.
 
 *Functions of the Council*
 
@@ -220,7 +228,9 @@ Interpretation Act applies.
 
 (n) examine and verify Certificates of Recognition issued to a Community national;
 
-(o) grant Certificates of Recognition in accordance with sections 6(1) and 7 of the Caribbean Community (Movement Cap. 186A. of Skilled Nationals) Act;
+*Cap. 186A.*
+
+(o) grant Certificates of Recognition in accordance with sections 6(1) and 7 of the Caribbean Community (Movement of Skilled Nationals) Act;
 
 (p) discharge such other related functions as the Minister may assign to the Council; and
 
@@ -246,7 +256,9 @@ Interpretation Act applies.
 
 **6.** An institution may be exempted by the Council from undergoing the accreditation process required by the Council where that institution satisfies the Council that an internal or independent assessment exercise has been undertaken by persons who are qualified to assess the institution.
 
-**7.** (1) The Council may withdraw any approval, recognition or Withdrawal title granted to or conferred upon an institution or programme of study of approval, recognition for reasons which the Council may deem to be good and sufficient or title. including
+*Withdrawal of approval, recognition or title.*
+
+**7.** (1) The Council may withdraw any approval, recognition or title granted to or conferred upon an institution or programme of study for reasons which the Council may deem to be good and sufficient including
 
 (a) the failure of an institution or its programmes of study to meet the standard required by the Council after undergoing a re-accreditation process; or
 
@@ -254,23 +266,27 @@ Interpretation Act applies.
 
 (2) Where the Council makes a determination to withdraw any approval, recognition or title granted to or conferred upon any institution, the Council shall give written reasons for its decision; and that institution may appeal in accordance with the provisions of section 23.
 
-**8.** (1) The Council shall examine and verify the Certificates of Examination Recognition of Community nationals who enter Barbados and seek of Certifi-cates of employment pursuant to the provisions of Article 46 of the Treaty. Recognition.
+*Examination of Certifi-cates of Recognition.*
 
-(2) A Community national shall pursuant to section 4(2)(c) of the Caribbean Community (Movement of Skilled Nationals) Act Cap. 186A.
+**8.** (1) The Council shall examine and verify the Certificates of Recognition of Community nationals who enter Barbados and seek employment pursuant to the provisions of Article 46 of the Treaty.
+
+*Cap. 186A.*
+
+(2) A Community national shall pursuant to section 4(2)(c) of the Caribbean Community (Movement of Skilled Nationals) Act
+
+*Second Schedule.*
 
 (a) apply to the Minister for a Certificate of Recognition in the form set out in Part I of the Second Schedule; and
 
-Second Schedule.
-
 (b) pay the application fee set out in Part II of the Second Schedule.
 
-(3) Where the Council is satisfied that the Community national referred to in subsection (1) satisfies the requirements for recognition as a Community national pursuant to section 6(1) of the Caribbean Cap. 186A. Community (Movement of Skilled Nationals) Act, the Council shall so inform the Minister and the Council shall issue a Certificate of Recognition to the Community national.
+*Cap. 186A.*
 
-(4) The Certificate of Recognition referred to in subsection (3)
+(3) Where the Council is satisfied that the Community national referred to in subsection (1) satisfies the requirements for recognition as a Community national pursuant to section 6(1) of the Caribbean Community (Movement of Skilled Nationals) Act, the Council shall so inform the Minister and the Council shall issue a Certificate of Recognition to the Community national.
 
 *Third Schedule.*
 
-shall be in the form set out in the Third Schedule.
+(4) The Certificate of Recognition referred to in subsection (3) shall be in the form set out in the Third Schedule.
 
 *Establishment of Board of Directors.*
 
@@ -304,11 +320,11 @@ shall be in the form set out in the Third Schedule.
 
 (b) an officer of the Council is transferred to an office in the public service,
 
-the Pensions Act shall apply to him as if his service with the Council Cap. 25. were other public service within the meaning of that Act, and the
+*Cap. 25.*
 
 *1947/20.*
 
-Pensions Regulations, 1947 shall apply to him accordingly.
+the Pensions Act shall apply to him as if his service with the Council were other public service within the meaning of that Act, and the Pensions Regulations, 1947 shall apply to him accordingly.
 
 (3) Except where the Board may otherwise decide, a period of secondment shall not exceed 2 years.
 
@@ -336,7 +352,9 @@ Pensions Regulations, 1947 shall apply to him accordingly.
 
 (d) the meeting of obligations and the performance of any of the functions of the Council and matters incidental thereto.
 
-**16.** The Council may, with the approval in writing of the Minister Borrowing responsible for Finance, borrow money from the Government or any powers. person by way of loan, overdraft or otherwise upon such terms with respect to the borrowing, issue, transfer and interest as the Minister approves for
+*Borrowing powers.*
+
+**16.** The Council may, with the approval in writing of the Minister responsible for Finance, borrow money from the Government or any person by way of loan, overdraft or otherwise upon such terms with respect to the borrowing, issue, transfer and interest as the Minister approves for
 
 (a) the provision of working capital; or
 
@@ -370,11 +388,9 @@ Pensions Regulations, 1947 shall apply to him accordingly.
 
 (3) The Minister shall lay a copy of the report referred to in subsection (1) before Parliament.
 
-**21.** (1) An institution must be registered with the Council in Registration
+*Registration and accreditation.*
 
-*and accreditation.*
-
-order to be recognised by the Council.
+**21.** (1) An institution must be registered with the Council in order to be recognised by the Council.
 
 (2) An institution may seek accreditation from the Council in respect of
 
@@ -390,7 +406,9 @@ order to be recognised by the Council.
 
 (b) annually publish in the Official Gazette a list of accredited programmes and institutions pursuant to section 4(k).
 
-**22.** (1) An officer of the Council who communicates or reveals Offences.
+*Offences.*
+
+**22.** (1) An officer of the Council who communicates or reveals
 
 (a) any information, thing or matter concerned with or related to the operations of the Council;
 
@@ -430,31 +448,35 @@ shall be heard by the Minister.
 
 **25.** The Minister shall undertake a review of the Council every 3 years to determine its effectiveness and efficiency.
 
-**26.** (1) The Council with the approval of the Minister may make Regulations. regulations generally for the purpose of giving effect to this Act.
+*Regulations.*
 
-(2) Regulations made under this Act are subject to negative resolution.
+**26.** (1) The Council with the approval of the Minister may make regulations generally for the purpose of giving effect to this Act. (2) Regulations made under this Act are subject to negative resolution.
 
-**27.** The Minister may by order amend any of the Schedules to this Amendment of Act.
+*Amendment of*
 
-Schedules. ____________
+**27.** The Minister may by order amend any of the Schedules to this
 
-## FIRST SCHEDULE
+*Act.*
 
-(Section 9(2)) Constitution, Functions and Procedure of the Board of Directors
+*Schedules.*
 
-**1.** (1) The Board of the Council shall comprise Constitution of Board. (a) 7 persons appointed by the Minister by instrument in writing as follows: 2008/7. (i) two representatives of the Ministry of Education with at least 10 years experience in tertiary education;
+____________
+
+## FIRST SCHEDULE (Section 9(2)) Constitution, Functions and Procedure of the Board of Directors
+
+*Constitution of Board. 2008/7.*
+
+**1.** (1) The Board of the Council shall comprise (a) 7 persons appointed by the Minister by instrument in writing as follows: (i) two representatives of the Ministry of Education with at least 10 years experience in tertiary education;
 
 (ii) one human resource management professional;
 
 (iii) one representative from the Congress of Trade Unions and Staff Associations;
 
-(iv) one representative from the employers' organisation; and
+(iv) one representative from the employers' organisation; and (v) two persons, at the Minister's discretion;
 
-(v) two persons, at the Minister's discretion;
+*the*
 
-(b) the Head of the Public Service and the Executive Director, ex officio; and (c) a secretary, who shall be chosen by the Directors from amongst themselves.
-
-(2) The Minister shall appoint a Chairman and Deputy Chairman from among the Directors.
+(b) the Head of the Public Service and the Executive Director, ex officio; and (c) a secretary, who shall be chosen by the Directors from amongst themselves. (2) The Minister shall appoint a Chairman and Deputy Chairman from among Directors.
 
 *Tenure.*
 
@@ -494,19 +516,27 @@ Schedules. ____________
 
 (3) All documents or instruments, other than those required by law to be under seal, made by the Council, and all decisions of the Council, may be signed under the hand of the Chairman or Deputy Chairman.
 
-**7.** The Board shall regulate its own procedure and shall meet at least once every Meetings. quarter and at such other times as may be necessary or expedient for the transaction of the business of the Council.
+*Meetings.*
 
-**8.** The Chairman or, in his absence, the Deputy Chairman shall preside at all Presiding at meetings of the Board and, in the case of the absence of both, the Directors present meetings. and constituting a quorum shall elect a temporary Chairman from among their number who shall preside at the meeting.
+**7.** The Board shall regulate its own procedure and shall meet at least once every quarter and at such other times as may be necessary or expedient for the transaction of the business of the Council.
+
+*Presiding at meetings.*
+
+**8.** The Chairman or, in his absence, the Deputy Chairman shall preside at all meetings of the Board and, in the case of the absence of both, the Directors present and constituting a quorum shall elect a temporary Chairman from among their number who shall preside at the meeting.
+
+*Quorum.*
 
 **9.** A majority of the Board of Directors shall constitute a quorum.
 
-Quorum.
+*Decisions.*
 
-**10.** The decisions of the Board shall be by a majority of votes and, in any case in Decisions. which the voting is equal, the Chairman, the Deputy Chairman or the temporary Chairman presiding at the meeting has, in addition to an original vote, a second or casting vote.
+**10.** The decisions of the Board shall be by a majority of votes and, in any case in which the voting is equal, the Chairman, the Deputy Chairman or the temporary Chairman presiding at the meeting has, in addition to an original vote, a second or casting vote.
+
+*Disclosure of director's interest.*
 
 **11.** (1) A Director who
 
-Disclosure of director's (a) has any interest in a company with which the Board proposes to make a interest. contract or otherwise transact business; or
+(a) has any interest in a company with which the Board proposes to make a contract or otherwise transact business; or
 
 (b) has a vested interest in a matter under consideration by the Board or its committees,
 
@@ -514,7 +544,9 @@ shall disclose to the Board the particulars of that interest; and details of tha
 
 (2) A Director referred to in sub-paragraph (1) shall not take part in any deliberation or discussion of the Board or vote on any question relating to that matter.
 
-**12.** (1) Minutes of each meeting shall be kept by the secretary and shall be Minutes. confirmed by the Chairman or Deputy Chairman at the next meeting of the Board.
+*Minutes.*
+
+**12.** (1) Minutes of each meeting shall be kept by the secretary and shall be confirmed by the Chairman or Deputy Chairman at the next meeting of the Board.
 
 (2) A certified copy of the confirmed minutes of each meeting shall be forwarded to the Minister within 14 days after the meeting at which they were confirmed.
 

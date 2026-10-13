@@ -76,33 +76,35 @@ ________________
 
 ## SECOND SCHEDULE
 
-### CHAPTER 59C
+*1984-45. 1994-6. 2001-29. 2007-26.*
 
-### BARBADOS FOREIGN SALES CORPORATION
+CHAPTER 59C BARBADOS FOREIGN SALES CORPORATION An Act to make provision for income tax and other concessions to foreign sales corporations established in Barbados.
 
-An Act to make provision for income tax and other concessions to 1984-45. 1994-6. foreign sales corporations established in Barbados.
+*Commencement.*
 
-2001-29. 2007-26. [17th December, 1984] Commencement. P ART I
+[17th December, 1984] P ART I
 
 Preliminary
 
-**1.** This Act may be cited as the Barbados Foreign Sales Short title. Corporation Act.
+*Short title.*
+
+**1.** This Act may be cited as the Barbados Foreign Sales Corporation Act.
+
+*Interpretation. 1994-6.*
 
 **2.** (1) In this Act,
 
-Interpretation.
+*Cap. 308.*
 
-(a) ["foreign sales corporation" means [a] corporation which 1994-6.
-
-(i) is incorporated under the Companies Act; and
-
-Cap. 308.
+(a) ["foreign sales corporation" means [a] corporation which (i) is incorporated under the Companies Act; and
 
 (ii) either
 
+*First Schedule.*
+
 (A) is qualified to be regarded as a foreign sales corporation under the laws of a state specified in the First Schedule; or
 
-First Schedule. (B) has elected within a period indicated to the Minister by the corporation to be so regarded in [such a] state;]
+(B) has elected within a period indicated to the Minister by the corporation to be so regarded in [such a] state;]
 
 (b) "foreign trade transaction" means any transaction
 
@@ -110,11 +112,9 @@ First Schedule. (B) has elected within a period indicated to the Minister by the
 
 *s.3*
 
-(ii) which, pursuant to any legislation of any country
-
 *First Schedule.*
 
-mentioned in the First Schedule, is the source from which foreign trade income is derived for the purposes of establishing the tax liability of a foreign sales corporation in that country;
+(ii) which, pursuant to any legislation of any country mentioned in the First Schedule, is the source from which foreign trade income is derived for the purposes of establishing the tax liability of a foreign sales corporation in that country;
 
 (c) "Minister" means the Minister responsible for Finance.
 
@@ -130,11 +130,9 @@ mentioned in the First Schedule, is the source from which foreign trade income i
 
 (a) a person licensed under the Off-Shore Banking Act or the Exempt Insurance Act;
 
-(b) any body corporate that is entitled to income tax or other
-
 *Cap. 77. Cap. 90A. Cap. 93B. 1994-6.*
 
-exemptions under the International Business Companies Act, the Shipping (Incentives) Act, the Caribbean Finance Corporation Act or such other enactment as the Minister by order specifies.
+(b) any body corporate that is entitled to income tax or other exemptions under the International Business Companies Act, the Shipping (Incentives) Act, the Caribbean Finance Corporation Act or such other enactment as the Minister by order specifies.
 
 ### P ART II
 
@@ -146,7 +144,9 @@ Licensing of Foreign Sales Corporations
 
 "foreign sales corporation"), may engage in foreign trade trans-actions from within Barbados without a licence under this Act.
 
-(2) No licence may be issued under this Act to a person other than a body corporate that satisfies the following requirements:
+*a*
+
+(2) No licence may be issued under this Act to a person other than body corporate that satisfies the following requirements:
 
 (a) it is incorporated under the Companies Act;
 
@@ -154,31 +154,41 @@ Licensing of Foreign Sales Corporations
 
 (c) none of its shareholders is a resident of Barbados.
 
-**4.** (1) A company wishing to obtain a licence under this Act must Application apply to the Minister in such form as the Minister approves. require-ments.
+*Application require-ments.*
+
+**4.** (1) A company wishing to obtain a licence under this Act must apply to the Minister in such form as the Minister approves.
+
+*Second Schedule.*
 
 (2) An application for a licence must be accompanied by the application fee specified in paragraph 1 of the Second Schedule.
 
-Second Schedule.
-
 (3) On the receipt of an application the Minister may issue a licence under this Act.
 
-(3A) The Minister may, by instrument in writing, delegate the 1994-6. power conferred on him by subsection (3) to any public officer in the Ministry of Finance.
+*1994-6.*
 
-(4) The issue of a licence under this section is subject to the pay- Second ment of the fee specified in paragraph 2 of the Second Schedule in Schedule. respect of the category of foreign sales corporation specified therein.
+(3A) The Minister may, by instrument in writing, delegate the power conferred on him by subsection (3) to any public officer in the Ministry of Finance.
 
-**5.** A licence issued under this Act remains valid until revoked, and Validity of is renewable annually on payment of the fee specified in paragraph 3 licence. 1994-6. of the Second Schedule.
+*Second Schedule.*
 
-Second Schedule.
+(4) The issue of a licence under this section is subject to the payment of the fee specified in paragraph 2 of the Second Schedule in respect of the category of foreign sales corporation specified therein.
 
-**6.** (1) A licensee may by notice in writing to the Minister Surrender or surrender its licence from such date as may be specified in the notice, revocation of licence. and from the date so specified the licensee ceases to be a foreign sales 1994-6. corporation.
+*Validity of licence. 1994-6. Second Schedule. Surrender or revocation of licence. 1994-6.*
 
-(2) Subject to subsection (3), the Minister may revoke a licence 2001-29.
+**5.** A licence issued under this Act remains valid until revoked, and is renewable annually on payment of the fee specified in paragraph 3 of the Second Schedule.
+
+**6.** (1) A licensee may by notice in writing to the Minister surrender its licence from such date as may be specified in the notice, and from the date so specified the licensee ceases to be a foreign sales corporation.
+
+*2001-29.*
+
+(2) Subject to subsection (3), the Minister may revoke a licence
 
 (a) if a licensee
 
 (i) fails to comply with a condition of its licence,
 
-(ii) ceases to be a foreign sales corporation under the laws of First a country mentioned in the First Schedule, or Schedule.
+*First Schedule.*
+
+(ii) ceases to be a foreign sales corporation under the laws of a country mentioned in the First Schedule, or
 
 (iii) is in breach of any duty or obligation imposed upon it by this Act; or
 
@@ -216,17 +226,23 @@ P ART III Special Tax and Other Exemptions
 
 (3) A foreign sales corporation is exempt from the payment of ad valorem stamp duty but is liable to pay a fixed duty as specified in the Schedule to the Stamp Duty Act.
 
-**10.** Subject to section 11, a foreign sales corporation may import Exemptions into Barbados, free of customs duties or consumption tax, articles that from customs are certified by the corporation to the satisfaction of the Comptroller duty etc. of Customs that are necessary to enable the corporation to conduct its foreign trade transactions from within Barbados.
+*Exemptions from customs duty etc.*
 
-**11.** No articles acquired by a foreign sales corporation under Disposal of section 10 shall be disposed of, except with the permission of the duty free articles. Minister of Finance, unless
+**10.** Subject to section 11, a foreign sales corporation may import into Barbados, free of customs duties or consumption tax, articles that are certified by the corporation to the satisfaction of the Comptroller of Customs that are necessary to enable the corporation to conduct its foreign trade transactions from within Barbados.
 
-ss.12-12A
+*Disposal of duty free articles.*
+
+**11.** No articles acquired by a foreign sales corporation under section 10 shall be disposed of, except with the permission of the Minister of Finance, unless
+
+*ss.12-12A*
 
 (a) the corporation pays to the Comptroller of Customs or gives security to the satisfaction of the Comptroller for the payment of such duties or imposts as were exempted from payment; or
 
 (b) 5 years have elapsed since the importation of the articles.
 
-**12.** Where the Minister is satisfied that a foreign sales corporation Salary requires the services of specially qualified persons in order to carry on concessions. its business effectively from within Barbados and such services are unavailable in Barbados and cannot be obtained from outside Barbados without special tax benefits being made available, the Minister may grant in respect of such specially qualified individuals a tax concession which allows a prescribed percentage of the salary or fees of director, employee or contractor
+*Salary concessions.*
+
+**12.** Where the Minister is satisfied that a foreign sales corporation requires the services of specially qualified persons in order to carry on its business effectively from within Barbados and such services are unavailable in Barbados and cannot be obtained from outside Barbados without special tax benefits being made available, the Minister may grant in respect of such specially qualified individuals a tax concession which allows a prescribed percentage of the salary or fees of director, employee or contractor
 
 (a) to be exempt from income tax in Barbados;
 
@@ -236,11 +252,13 @@ ss.12-12A
 
 (d) to be paid in some other prescribed manner in another currency or otherwise without being liable to income tax in Barbados,
 
-notwithstanding any provisions of the Income Tax Act or the Exchange Cap. 73. Control Act. Cap. 71.
+*Cap. 73. Cap. 71.*
 
-**12A.** (1) Subject to this Act and the regulations, the Minister Exemption may by order grant benefits under this Act to a licensee for a period of foreign sales not exceeding 30 years.
+notwithstanding any provisions of the Income Tax Act or the Exchange Control Act.
 
-corporation. 1994-6.
+*Exemption of foreign sales corporation. 1994-6.*
+
+**12A.** (1) Subject to this Act and the regulations, the Minister may by order grant benefits under this Act to a licensee for a period not exceeding 30 years.
 
 (2) An order made under subsection (1) shall be subject to negative resolution and may contain such terms and conditions as the Minister considers appropriate.
 
@@ -248,25 +266,19 @@ corporation. 1994-6.
 
 **13.** (1) Subject to this section, a foreign sales corporation may, with the permission of the Exchange Control Authority invest funds in Barbados.
 
-(2) No permission is required for the deposit of funds in a bank
-
 *Cap. 325.*
-
-licensed under the Off-Shore Banking Act, or with the Caribbean Financial Services Corporation established under the Caribbean
 
 *Cap. 93B.*
 
-Financial Services Corporation Act.
+(2) No permission is required for the deposit of funds in a bank licensed under the Off-Shore Banking Act, or with the Caribbean Financial Services Corporation established under the Caribbean Financial Services Corporation Act.
 
 (3) Where funds are invested in Barbados for a period of not less than 5 years, the Minister may by order grant concessions in respect of taxes on income, duties, levies or other imposts payable on such transactions.
 
 *Returns.*
 
-**14.** A foreign sales corporation is not required to file annual returns with the Commissioner of Inland Revenue by virtue of the
-
 *Cap. 73.*
 
-Income Tax Act, but section 76 of that Act applies, notwithstanding that the corporation is exempt from the payment of income tax in respect of certain of its operations.
+**14.** A foreign sales corporation is not required to file annual returns with the Commissioner of Inland Revenue by virtue of the Income Tax Act, but section 76 of that Act applies, notwithstanding that the corporation is exempt from the payment of income tax in respect of certain of its operations.
 
 *Income tax deductions.*
 
@@ -293,8 +305,6 @@ Miscellaneous
 Amendment of Schedules.
 
 **19.** A person, other than a person described in section 17, who Offences. carries on the business of a foreign sales corporation without a licence under this Act is guilty of an offence and is liable on summary conviction to a fine of $50 000.
-
-### L.R.O. 2002
 
 ## FIRST SCHEDULE (Section 2) United States of America including the Commonwealth of Puerto Rico.
 

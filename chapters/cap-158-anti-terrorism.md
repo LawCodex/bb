@@ -72,15 +72,13 @@ P ART VI Miscellaneous
 
 ## SECOND SCHEDULE
 
-### CHAPTER 158
+*2002-6.*
 
-ANTI-TERRORISM An Act to implement the United Nations Convention respecting the 2002-6. Suppression of the Financing of Terrorism and the United Nations Security Council Resolution 1373 on terrorism; generally to make provision for preventing and combatting terrorism; and to amend the Constitution to the extent necessary to give effect to the provision respecting capital punishment.
+CHAPTER 158 ANTI-TERRORISM An Act to implement the United Nations Convention respecting the Suppression of the Financing of Terrorism and the United Nations Security Council Resolution 1373 on terrorism; generally to make provision for preventing and combatting terrorism; and to amend the Constitution to the extent necessary to give effect to the provision respecting capital punishment.
 
-[30th May, 2002] Commence-
+*Commencement.*
 
-*ment.*
-
-### P ART I
+[30th May, 2002] P ART I
 
 Preliminary
 
@@ -92,11 +90,9 @@ Preliminary
 
 **2.** In this Act,
 
-"Convention" means the International Convention for the Suppression of the Financing of Terrorism adopted by the General Assembly of the United Nations on 9th December, 1999
-
 *First Schedule.*
 
-set out in the First Schedule;
+"Convention" means the International Convention for the Suppression of the Financing of Terrorism adopted by the General Assembly of the United Nations on 9th December, 1999 set out in the First Schedule;
 
 "Commissioner" means the Commissioner of Police;
 
@@ -110,7 +106,7 @@ set out in the First Schedule;
 
 (a) assets of every kind, whether tangible or intangible, movable or immovable, however acquired; and
 
-(b) legal documents or instruments in any form, including electronic or digital, evidencing title to or interest in such assets as bank credits, travellers' cheques, bank cheques, money orders, shares, securities, bonds, drafts, letters of credit;
+legal documents or instruments in any form, including electronic or digital, evidencing title to or interest in such assets as bank credits, travellers' cheques, bank cheques, money orders, shares, securities, bonds, drafts, letters of credit;
 
 "proceeds" means any funds derived from or obtained, directly or indirectly, through the commission of an offence set out in section 3 or 4;
 
@@ -124,11 +120,9 @@ Terrorism
 
 **3.** (1) A person who in or outside Barbados carries out
 
-(a) an act that constitutes an offence under or defined in any of the
-
 *Second Schedule.*
 
-Treaties listed in the Second Schedule; or
+(a) an act that constitutes an offence under or defined in any of the Treaties listed in the Second Schedule; or
 
 (b) any other act
 
@@ -138,7 +132,7 @@ Treaties listed in the Second Schedule; or
 
 (A) death or serious bodily harm to a civilian or, in a situation of armed conflict, to any other person not taking an active part in the hostilities;
 
-(B) serious risk to the health or safety of the public or any segment of the public;
+serious risk to the health or safety of the public or any segment of the public;
 
 (C) substantial property damage, whether to public or private property, where the damage involves a risk of the kind mentioned in sub-paragraph (B) or an interference or disruption of the kind mentioned in sub-paragraph (D); or
 
@@ -146,19 +140,27 @@ Treaties listed in the Second Schedule; or
 
 is guilty of the offence of terrorism and on conviction on indictment
 
-(c) where death ensues, and where that act would have constituted the offence of murder or treason prior to 30th May, 2002, shall be sentenced to death; or
+*(c) where the be*
+
+death ensues, and where that act would have constituted offence of murder or treason prior to 30th May, 2002, shall sentenced to death; or
 
 (d) in any other case, is liable to imprisonment for life.
 
 (2) A person who
 
-(a) aids, abets, counsels, procures, incites or solicits the commission of an offence; or
+*(a) aids, of an*
+
+abets, counsels, procures, incites or solicits the commission offence; or
 
 (b) conspires with another or others to commit an offence
 
-under subsection (1) is liable on conviction on indictment to be punished as a principal offender under that subsection.
+*under*
 
-(3) For the avoidance of doubt, section 12(1) of the Constitution is amended by paragraph (c) of subsection (1) to the extent necessary to give effect to that paragraph.
+subsection (1) is liable on conviction on indictment to be punished as a principal offender under that subsection.
+
+*amended by give effect to*
+
+(3) For the avoidance of doubt, section 12(1) of the Constitution is paragraph (c) of subsection (1) to the extent necessary to that paragraph.
 
 Financing of Terrorism
 
@@ -172,11 +174,9 @@ Financing of Terrorism
 
 with the intention that the funds or services are to be used, or with the knowledge that the funds or services are to be used, in full or in part in order to carry out
 
-(i) an act that constitutes an offence under or defined in any
-
 *Second Schedule.*
 
-of the Treaties listed in the Second Schedule; or
+(i) an act that constitutes an offence under or defined in any of the Treaties listed in the Second Schedule; or
 
 (ii) any other act
 
@@ -200,7 +200,9 @@ is guilty of an offence and is liable on conviction on indictment to imprisonmen
 
 under subsection (1), is liable on conviction on indictment to be punished as a principal offender under that subsection.
 
-**5.** Where an offence referred to under section 3 or 4 is committed Liability of a by a person responsible for the management or control of an entity legal entity. located or registered in Barbados or in any other way organised under the laws of Barbados, that entity, in circumstances where the person committed the offence while acting in that capacity, is guilty of an offence and is liable on conviction on indictment to a fine of $2 000 000 notwithstanding
+*Liability of a legal entity.*
+
+**5.** Where an offence referred to under section 3 or 4 is committed by a person responsible for the management or control of an entity located or registered in Barbados or in any other way organised under the laws of Barbados, that entity, in circumstances where the person committed the offence while acting in that capacity, is guilty of an offence and is liable on conviction on indictment to a fine of $2 000 000 notwithstanding
 
 (a) any criminal liability that may have been incurred by an individual that was directly involved in the commission of the offence; or
 
@@ -210,7 +212,9 @@ under subsection (1), is liable on conviction on indictment to be punished as a 
 
 Investigatory Provisions
 
-**6.** (1) Where any person has reasonable grounds to suspect that Investiga-funds or financial services are related to or are to be used to facilitate tion. an offence under this Act, it shall be the duty of that person to report the matter to the Commissioner.
+*Investigation.*
+
+**6.** (1) Where any person has reasonable grounds to suspect that funds or financial services are related to or are to be used to facilitate an offence under this Act, it shall be the duty of that person to report the matter to the Commissioner.
 
 (2) Where information is received from any source in or outside Barbados that a person who has committed or who is alleged to have committed an offence under this Act may be present in Barbados, the Commissioner shall take such measures as may be necessary to investigate the facts contained in the information.
 
@@ -270,6 +274,8 @@ make an order, in this Part referred to as a "freezing order", freezing the fund
 
 (3) Where the Court makes an order under subsection (1), the Court shall require that
 
+CAP.
+
 (a) the order be published within such time and manner as the Court directs;
 
 (b) the applicant, within 21 days of the making of the order, serve notice of the order together with a copy of the order on any person who, in the opinion of the Court, appears to have an interest in the funds referred to in subsection (2); and
@@ -278,7 +284,9 @@ make an order, in this Part referred to as a "freezing order", freezing the fund
 
 unless in respect of paragraph (b) the Court is of the opinion that giving such notice would result in the disappearance, dissipation or reduction in the value of the funds.
 
-(4) Where an application for a freezing order made under subsection (1) is made as a result of a request from another State, the Court shall not make the order unless it is satisfied that reciprocal arrangements exist between Barbados and that other State whereby that other State is empowered to make a similar order in respect of a request for a freezing order from Barbados.
+*that*
+
+(4) Where an application for a freezing order made under subsection (1) is made as a result of a request from another State, the Court shall not make the order unless it is satisfied that reciprocal arrangements exist between Barbados and that other State whereby other State is empowered to make a similar order in respect of a request for a freezing order from Barbados.
 
 (5) The Court may, in making an order under subsection (1), give directions with regard to
 
@@ -304,7 +312,9 @@ unless in respect of paragraph (b) the Court is of the opinion that giving such 
 
 (9) Where the Court makes an order for the administration of frozen funds the person charged with the administration of the funds is not liable for any loss or damage to the funds or for the costs of proceedings taken to establish a claim to the funds or to an interest in the funds unless the court in which the claim is made is of the opinion that the person has been guilty of negligence in respect of the taking of custody and control of the funds.
 
-**9.** (1) Where a person is convicted of an offence under section 3 Forfeiture or 4, the Director of Public Prosecutions may apply to the Court for a order. forfeiture order against the funds that are the subject of the offence.
+*Forfeiture order.*
+
+**9.** (1) Where a person is convicted of an offence under section 3 or 4, the Director of Public Prosecutions may apply to the Court for a forfeiture order against the funds that are the subject of the offence.
 
 (2) The Court may upon application by the Director of Public Prosecutions forfeit any funds of or in the possession or under the control of any person who is convicted of an offence of terrorism or any funds of that person that are the subject of a freezing order, unless it is proved that the funds did not derive from the commission by that person of an offence under section 3 or 4.
 
@@ -340,7 +350,9 @@ Extradition
 
 Miscellaneous
 
-**12.** Where a person is alleged to have committed an offence under Jurisdiction. this Act, proceedings in respect of that offence may be commenced in Barbados where the alleged offence
+*Jurisdiction.*
+
+**12.** Where a person is alleged to have committed an offence under this Act, proceedings in respect of that offence may be commenced in Barbados where the alleged offence
 
 (a) is committed by a national of Barbados;
 
@@ -384,25 +396,27 @@ Miscellaneous
 
 (4) Unless the Attorney-General otherwise directs, all expenses incurred in respect of any requests made under this section, must be paid by the State making the request.
 
-**15.** The Attorney-General is the competent Authority in Barbados Attorney-
+*Attorney-General to be the competent authority.*
 
-*to*
+**15.** The Attorney-General is the competent Authority in Barbados for the exchange of information relating to criminal investigations or extradition proceedings in respect of an offence under this Act.
 
-for the exchange of information relating to criminal investigations or General be the extradition proceedings in respect of an offence under this Act.
+*Application of Cap.*
 
-competent authority.
-
-**16.** Section 27 of the Mutual Assistance in Criminal Matters Act Application applies to the procedure to be adopted in respect of a request made of Cap.
+**16.** Section 27 of the Mutual Assistance in Criminal Matters Act applies to the procedure to be adopted in respect of a request made
 
 **140A.** from another State for mutual assistance in obtaining a freezing or forfeiture order under this Act with such modifications as are necessary to give effect to such requests.
 
-**17.** (1) The Attorney-General may, subject to affirmative Regulations, orders. resolution, make regulations to give effect to this Act.
+*Regulations, orders.*
+
+**17.** (1) The Attorney-General may, subject to affirmative resolution, make regulations to give effect to this Act.
 
 (2) The Attorney-General may by order amend
 
 (a) the Annex to the Convention in accordance with the terms of Article 23 of the Convention; or
 
-(b) the Second Schedule. Second Schedule.
+*Second Schedule.*
+
+(b) the Second Schedule.
 
 ## FIRST SCHEDULE
 
@@ -448,7 +462,11 @@ For the purposes of this Convention:
 
 **1.** "Funds" means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, drafts, letters of credit.
 
-**2.** "State or governmental facility" means any permanent or temporary facility or conveyance that is used or occupied by representatives of a State, members of Government, the legislature or the judiciary or by officials or employees of a State or any other public authority or entity or by employees or officials of an intergovernmental organisation in connection with their official duties.
+*or*
+
+*any other*
+
+**2.** "State or governmental facility" means any permanent or temporary facility conveyance that is used or occupied by representatives of a State, members of Government, the legislature or the judiciary or by officials or employees of a State or public authority or entity or by employees or officials of an intergovernmental organisation in connection with their official duties.
 
 **3.** "Proceeds" means any funds derived from or obtained, directly or indirectly, through the commission of an offence set forth in Article 2.
 
@@ -464,7 +482,9 @@ Article 2
 
 (b) when a State Party ceases to be a party to a treaty listed in the annex, it may make a declaration as provided for in this Article, with respect to that treaty.
 
-**3.** For an act to constitute an offence set forth in paragraph 1, it shall not be necessary that the funds were actually used to carry out an offence referred to in paragraph 1, sub-paragraph (a) or (b).
+*necessary*
+
+**3.** For an act to constitute an offence set forth in paragraph 1, it shall not be that the funds were actually used to carry out an offence referred to in paragraph 1, sub-paragraph (a) or (b).
 
 **4.** Any person also commits an offence if that person attempts to commit an offence as set forth in paragraph 1 of this Article.
 
@@ -482,7 +502,11 @@ Article 2
 
 Article 3
 
-This Convention shall not apply where the offence is committed within a single State, the alleged offender is a national of that State and is present in the territory of that State and no other State has a basis under Article 7, paragraph 1, or Article 7, paragraph 2, to exercise jurisdiction, except that the provisions of Articles 12 to 18 shall, as appropriate, apply in those cases.
+*single*
+
+*Article 12 to*
+
+This Convention shall not apply where the offence is committed within a State, the alleged offender is a national of that State and is present in the territory of that State and no other State has a basis under Article 7, paragraph 1, or 7, paragraph 2, to exercise jurisdiction, except that the provisions of Articles 18 shall, as appropriate, apply in those cases.
 
 Article 4
 
@@ -494,7 +518,13 @@ Each State Party shall adopt such measures as may be necessary:
 
 Article 5
 
-**1.** Each State Party, in accordance with its domestic legal principles, shall take the necessary measures to enable a legal entity located in its territory or organised under its laws to be held liable when a person responsible for the management or control of that legal entity has, in that capacity, committed an offence set forth in Article 2. Such liability may be criminal, civil or administrative.
+*the under control Article*
+
+**1.** Each State Party, in accordance with its domestic legal principles, shall take necessary measures to enable a legal entity located in its territory or organised its laws to be held liable when a person responsible for the management or of that legal entity has, in that capacity, committed an offence set forth in
+
+**2.** Such liability may be criminal, civil or administrative.
+
+CAP.
 
 **2.** Such liability is incurred without prejudice to the criminal liability of individuals having committed the offences.
 
@@ -506,7 +536,9 @@ Each State Party shall adopt such measures as may be necessary, including, where
 
 Article 7
 
-**1.** Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in Article 2 when:
+*its*
+
+**1.** Each State Party shall take such measures as may be necessary to establish jurisdiction over the offences set forth in Article 2 when:
 
 (a) the offence is committed in the territory of that State;
 
@@ -622,6 +654,8 @@ Article 16
 
 (b) the State to which the person is transferred shall without delay implement its obligation to return the person to the custody of the State from which the person was transferred as agreed beforehand, or as otherwise agreed, by the competent authorities of both States;
 
+CAP.
+
 (c) the State to which the person is transferred shall not require the State from which the person was transferred to initiate extradition proceedings for the return of the person;
 
 (d) the person transferred shall receive credit for service of the sentence being served in the State from which he or she was transferred for time spent in the custody of the State to which he or she was transferred.
@@ -654,11 +688,13 @@ Article 18
 
 (b) feasible measures to detect or monitor the physical cross-border transportation of cash and bearer negotiable instruments, subject to strict safeguards to ensure proper use of information and without impeding in any way the freedom of capital movements.
 
-**3.** States Parties shall further co-operate in the prevention of the offences set forth in Article 2 by exchanging accurate and verified information in accordance with their domestic law and coordinating administrative and other measures taken, as appropriate, to prevent the commission of offences set forth in Article 2, in particular by:
+*forth in with their as*
+
+**3.** States Parties shall further co-operate in the prevention of the offences set Article 2 by exchanging accurate and verified information in accordance domestic law and coordinating administrative and other measures taken, appropriate, to prevent the commission of offences set forth in Article 2, in particular by:
 
 (a) establishing and maintaining channels of communication between their competent agencies and services to facilitate the secure and rapid exchange of information concerning all aspects of offences set forth in Article 2;
 
-(b) co-operating with one another in conducting inquiries, with respect to the offences set forth in Article 2, concerning:
+co-operating with one another in conducting inquiries, with respect to the offences set forth in Article 2, concerning:
 
 (i) the identity, whereabouts and activities of persons in respect of whom reasonable suspicion exists that they are involved in such offences; (ii) the movement of funds relating to the commission of such offences.
 
@@ -674,7 +710,7 @@ Article 23
 
 **1.** The annex may be amended by the addition of relevant treaties that: (a) are open to the participation of all States;
 
-(b) have entered into force;
+have entered into force;
 
 (c) have been ratified, accepted, approved or acceded to by at least twenty-two States Parties to the present Convention.
 

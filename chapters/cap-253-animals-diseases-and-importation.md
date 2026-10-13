@@ -60,9 +60,9 @@ III PART Importation of Birds, Animals, etc. Prohibition of importation of birds
 
 **15.** Import licence for birds, etc.
 
-**16.** Quarantine depots.
+Quarantine depots.
 
-Imported animals, etc., to be quarantined. 17.
+Imported animals, etc., to be quarantined.
 
 and Spottiswoode 2 Scrjeants’
 
@@ -90,23 +90,29 @@ PART General
 
 **25.** Saving with respect to bees.
 
-3 L.R.O. 2007
+### CHAPTER 253 ANIMALS (DISEASES AND IMPORTATION)
 
-### CHAPTER 253
+*1949-38. 1973-21. L.N. 168/*
 
-### ANIMALS (DISEASES AND IMPORTATION)
+An Act to control the importation of animals, birds, reptiles and insects and to regulate the treatment and disposal of animals which are suffering or are suspected to be suffering from any
 
-An Act to control the importation of animals, birds, reptiles and 1949-38. insects and to regulate the treatment and disposal of animals 1973-21. L.N. 168/ which are suffering or are suspected to be suffering from any 1967. disease; and for related matters. 1995/8. 2004/88.
+*1995/8. 2004/88.*
 
-[15th November, 1951] Commencement. P ART I
+**1967.** disease; and for related matters.
+
+*Commencement.*
+
+[15th November, 1951] P ART I
 
 Preliminary
 
-**1.** This Act may be cited as the Animals (Diseases and Short title. Importation) Act.
+*Short title.*
+
+**1.** This Act may be cited as the Animals (Diseases and Importation) Act.
+
+*Interpretation.*
 
 **2.** For the purposes of this Act,
-
-Interpretation.
 
 "animal" includes cattle, horses, mules, asses, sheep, swine, goats, dogs, cats and all animals of whatsoever kind, whether similar to the foregoing or not;
 
@@ -122,15 +128,11 @@ Interpretation.
 
 *s.2A*
 
-distemper, equine infectious anaemia (swamp fever), epizootic Lymphangitis, equine encephalomyelitis, foot and mouth disease,
-
 *2004/88.*
-
-glanders (farcy), Highly Pathogenic Avian Influenza, hog cholera (swine fever), John's disease, Newcastle disease, psittacosis (ornithosis), pullorum disease, rabies, rinderpest,
 
 *1995/8.*
 
-surra, tuberculosis (Bovine and Avian), amblyomma variegatum, heart-water, dermatophilosis and such other diseases as the Minister may from time to time, by order made under section 11, declare to be a disease within the meaning of this Act;
+distemper, equine infectious anaemia (swamp fever), epizootic Lymphangitis, equine encephalomyelitis, foot and mouth disease, glanders (farcy), Highly Pathogenic Avian Influenza, hog cholera (swine fever), John's disease, Newcastle disease, psittacosis (ornithosis), pullorum disease, rabies, rinderpest, surra, tuberculosis (Bovine and Avian), amblyomma variegatum, heart-water, dermatophilosis and such other diseases as the Minister may from time to time, by order made under section 11, declare to be a disease within the meaning of this Act;
 
 "defined port" means a port as defined by any regulation made under section 14;
 
@@ -160,33 +162,33 @@ surra, tuberculosis (Bovine and Avian), amblyomma variegatum, heart-water, derma
 
 (2) Persons appointed under subsection (1) shall be paid such remuneration as the Minister determines out of moneys voted for the purpose by Parliament.
 
-4A L.R.O. 2007
+4A
 
-**3.** It shall be the duty of the Senior Veterinary Officer and every Duties of Veterinary Officer to carry out this Act and any regulations, and for Veterinary Officers. such purpose every Veterinary Officer shall have, subject to the directions, either general or particular, of the Senior Veterinary Officer, all the rights, powers and duties given to the Senior Veterinary Officer under this Act.
+*Duties of Veterinary Officers.*
 
-**3A.** Where the Minister appoints any person to be an inspector of Duties of
+**3.** It shall be the duty of the Senior Veterinary Officer and every Veterinary Officer to carry out this Act and any regulations, and for such purpose every Veterinary Officer shall have, subject to the directions, either general or particular, of the Senior Veterinary Officer, all the rights, powers and duties given to the Senior Veterinary Officer under this Act.
 
-*of*
+*Duties of inspectors of animals.*
 
-animals for the purposes of this Act, such inspector shall have all the inspectors animals. rights, powers and duties of a Veterinary Officer under this Act.
+**3A.** Where the Minister appoints any person to be an inspector of animals for the purposes of this Act, such inspector shall have all the rights, powers and duties of a Veterinary Officer under this Act.
 
 ### P ART II
 
 Control of Diseased or Suspected Animals
 
-**4.** (1) Every person having in his possession or under his charge Segregation any diseased animal shall and notification of diseased
+*Segregation and notification of diseased animals etc.*
 
-(a) as far as practicable, keep that animal separate from animals animals etc. not so diseased; and
+**4.** (1) Every person having in his possession or under his charge any diseased animal shall
+
+(a) as far as practicable, keep that animal separate from animals not so diseased; and
 
 (b) with all practicable speed give notice of the fact of the animal being so diseased to the Senior Veterinary Officer or to the person in charge of the nearest police station.
 
 (2) The person to whom notice under subsection (1) is given, if not the Senior Veterinary Officer, shall forthwith give information thereof to the Senior Veterinary Officer.
 
-**5.** (1) Where the Senior Veterinary Officer suspects that $F$d
+*$F$d ’*
 
-*’*
-
-any disease exists in any stable, pen, shed, field, pasture or other similar place, he shall forthwith sign a notice to that effect and such notice shall contain a declaration that such i
+**5.** (1) Where the Senior Veterinary Officer suspects that any disease exists in any stable, pen, shed, field, pasture or other similar place, he shall forthwith sign a notice to that effect and such notice shall contain a declaration that such i
 
 place, the limits whereof shall be therein specified, is an infected place and a copy of such notice shall be served upon the occupier of such place.
 
@@ -202,7 +204,9 @@ Provided that the Senior Veterinary Officer may, at any time within seven days o
 
 time specified in that behalf by such order, the stable, pen, shed, field, pasture or other place shall cease to be an infected place.
 
-**6.** The Minister, whenever it appears necessary or expedient Infected to do so by reason of the existence of any disease, may by order areas* declare any area in the Island to be infected with disease, and such order shall specify the limits of such infected area.
+*Infected areas\**
+
+**6.** The Minister, whenever it appears necessary or expedient to do so by reason of the existence of any disease, may by order declare any area in the Island to be infected with disease, and such order shall specify the limits of such infected area.
 
 I Serjeants’ Lomlon EC.+,
 
@@ -228,31 +232,35 @@ I Serjeants’ Lomlon EC.+,
 
 (3) No compensation shall be payable in respect of any animal compulsorily slaughtered when in a quarantine depot, if, in the opinion of the Senior Veterinary Officer, such animal was diseased at the time of importation.
 
-CAP. 253 ss.ll-12
+*C’;zGg d&&,n of disease.*
 
-**11.** The Minister may, from time to time, by order add any C’;zGg particular disease to, or remove any particular disease from, d&&,n of the definition of disease contained in section 2, and as from the disease. date of any such order such particular disease shall be, or shall cease to be, as the case may be, a disease within the meaning of this Act.
+The Minister may, from time to time, by order add any particular disease to, or remove any particular disease from, definition of disease contained in section 2, and as from the date of any such order such particular disease shall be, or shall cease to be, as the case may be, a disease within the meaning of this Act.
 
 *Regulations.*
 
 **12.** (1) The Minister may make regulations generally for the control and treatment of diseased or suspected animals and for the prevention and spread of disease.
 
-(2) Such regulations may make provision with regard to- (4 the adaptation and modification of the provisions of this Act in relation to any animals suffering from any particular disease ;
+Such regulations may make provision with regard to- (2)
+
+the adaptation and modification of the provisions of this (4
+
+Act in relation to any animals suffering from any particular disease ;
 
 (4 the notices to be given by persons in possession or in charge of diseased animals in the case of any particular disease or in the case of illness of any such animal, and the persons to whom such notices are to be given;
 
 (4 the notification to the public of infected places or infected areas and the removal of anything into, within or out of such places or areas, and the cleansing or disinfecting of such places or areas;
 
-(4 the movement of persons into, within or out of infected places or infected areas and the prevention of the spread of disease by persons in contact with diseased or suspected animals ;
+the movement of persons into, within or out of infected (4
 
-(4 the treatment, disinfecting, destruction, burial, disposal and digging up of anything in or removal from an infected place or an infected area;
+places or infected areas and the prevention of the spread of disease by persons in contact with diseased or suspected animals ;
+
+the treatment, disinfecting, destruction, burial, disposal (4
+
+and digging up of anything in or removal from an infected place or an infected area;
 
 f
 
-(f> the movement, isolation, segregation, treatment, slaughter, destruction, disposal, burial, seizure, detention and exposure for sale of diseased or suspected animals;
-
-cd the removal, transport, treatment, isolation, examination, testing, cleansing, disinfecting, protection from suffering, exposure for sale, exhibition or marking of animals;
-
-(4 the removal, transport, treatment, examination, cleans-
+(f> the movement, isolation, segregation, treatment, slaughter, destruction, disposal, burial, seizure, detention and exposure for sale of diseased or suspected animals; cd the removal, transport, treatment, isolation, examination, testing, cleansing, disinfecting, protection from suffering, exposure for sale, exhibition or marking of animals; the removal, transport, treatment, examination, cleans-
 
 Spottiwoode EC&,
 
@@ -300,17 +308,21 @@ poultry or carcasses, fodder, litter, dung or similar things may be landed;
 
 (4 the fees and expenses incurred for any purposes for which regulations under this section may be made and the persons to whom they are to be paid and the manner in which they may be recovered.
 
-**15.** (1) The Senior Veterinary Officer may grant to any Import person .a. licence to import any bird, reptile or insect into thk Ef:reF Island and may, notwithstanding anything contained in any ’ . regulations made under section 14, for the purposes of any exhibition, performance or circus, grant a licence to import any particular animal into the Island.
+*Import Ef:reF ’ .*
+
+**15.** (1) The Senior Veterinary Officer may grant to any person .a. licence to import any bird, reptile or insect into thk Island and may, notwithstanding anything contained in any regulations made under section 14, for the purposes of any exhibition, performance or circus, grant a licence to import any particular animal into the Island.
 
 (2) Any licence granted under this section may contain such terms and conditions as the Senior Veterinary Officer may think necessary.
 
 (3) Every person desirous of applying for a licence shall make application in such form as the Senior Veterinary Officer may require.
 
-**16.** The Minister may appoint quarantine depots in such Quarantine places as he deems necessary and all animals, birds, reptiles or depo*s. insects required to be quarantined under this Act or any regula-
+*Quarantine depo\*s.*
 
-tions or any licence granted thereunder shall be placed within such depots in accordance with the orders of the Senior Veterinary Officer.
+**16.** The Minister may appoint quarantine depots in such places as he deems necessary and all animals, birds, reptiles or insects required to be quarantined under this Act or any regulations or any licence granted thereunder shall be placed within such depots in accordance with the orders of the Senior Veterinary Officer.
 
-**17.** All animals, birds, reptiles and insects imported into this Imported Island shall, subject to any regulations or to the terms and Frrlsy e*c. conditions of any licence granted under this Act, be placed in quarantined.
+*Imported Frrlsy e\*c. quarantined.*
+
+**17.** All animals, birds, reptiles and insects imported into this Island shall, subject to any regulations or to the terms and conditions of any licence granted under this Act, be placed in
 
 EC4.
 
@@ -342,27 +354,35 @@ P (ii) that the carcass of any diseased or suspected animal is or has been kept 
 
 *s.20*
 
-(4 any vehicle, vessel or boat in which or in respect whereof he has reasonable grounds for believing that this Act or any regulation has not been or is not being complied with.
+any vehicle, vessel or boat in which or in respect whereof he has reasonable grounds for believing that this Act or any regulation has not been or is not being complied with.
 
 *Offences.*
 
 **20.** Any person who-
 
-when required by this Act or by any regulation to keep (4
+*(4*
 
-any animal separate as far as practicable or to give any notice of disease with all practicable speed, fails to do so; or
+when required by this Act or by any regulation to keep any animal separate as far as practicable or to give any notice of disease with all practicable speed, fails to do so; or
 
-(4
+*(4*
 
-contravenes or fails to comply with any directions given by the Senior Veterinary Officer under section 8 ; or refuses to the Senior Veterinary Officer, acting in the (4
+contravenes or fails to comply with any directions given by the Senior Veterinary Officer under section 8 ; or
 
-execution of this Act or of any regulations, admission to any pen, building, land, place, vehicle, vessel or boat, which the Senior Veterinary Officer is entitled to enter or examine, or obstructs or impedes him from so entering or examining, or otherwise in any respect obstructs or impedes the Senior Veterinary Officer or any constable in the execution of his duty or assists in any such obstructing or impeding; or
+*(4*
 
-(4 throws or places or causes to be thrown or placed into or in any river, stream, drain or other water or into or in the sea within three miles of the shore the carcass of an animal which has died of disease or has been slaughtered as diseased or suspected; or
+refuses to the Senior Veterinary Officer, acting in the execution of this Act or of any regulations, admission to any pen, building, land, place, vehicle, vessel or boat, which the Senior Veterinary Officer is entitled to enter or examine, or obstructs or impedes him from so entering or examining, or otherwise in any respect obstructs or impedes the Senior Veterinary Officer or any constable in the execution of his duty or assists in any such obstructing or impeding; or
 
-(4 takes or allows to be taken, unless otherwise required by this Act or by any regulations, or allows to stray any diseased animal jn or upon any common, public road or public place; or
+*(4*
 
-(f) digs up, or causes or allows to be dug up, the buried carcass of any animal which has been slaughtered under this Act as diseased or suspected or which has died or is suspected of having died from any disease; or
+throws or places or causes to be thrown or placed into or in any river, stream, drain or other water or into or in the sea within three miles of the shore the carcass of an animal which has died of disease or has been slaughtered as diseased or suspected; or
+
+*(4*
+
+takes or allows to be taken, unless otherwise required by this Act or by any regulations, or allows to stray any diseased animal jn or upon any common, public road or public place; or
+
+(f)
+
+digs up, or causes or allows to be dug up, the buried carcass of any animal which has been slaughtered under this Act as diseased or suspected or which has died or is suspected of having died from any disease; or
 
 (g) takes or moves, or allows to be taken or moved, any animal, carcass, fodder, litter, dung or other thing into or out of any infected place or infected area otherwise
 

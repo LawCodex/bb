@@ -62,11 +62,9 @@ An Act to repeal and replace the Barbados Chamber of 1983-10. Commerce (Incorpor
 
 WHEREAS the Barbados Chamber of Commerce was incorporated by the Barbados Chamber of Commerce (Incorporation) Act, 1868;
 
-AND WHEREAS it is thought expedient to widen the objectives and functions of that Association in the interest inter alia of promoting and encouraging in Barbados of manufac-
-
 *of*
 
-turing operations suitable to the country and capable making contributions to the economic development of the country:
+AND WHEREAS it is thought expedient to widen the objectives and functions of that Association in the interest inter alia of promoting and encouraging in Barbados of manufac-turing operations suitable to the country and capable making contributions to the economic development of the country:
 
 *Short title.*
 
@@ -80,11 +78,9 @@ I. This Act may be cited as the Barbados Chamber of Commerce and Industry Act.
 
 “the Council” means the governing body of the Chamber established under section 5;
 
-“the former Chamber” means the Barbados Chamber of Commerce established under the Barbados Chamber of
-
 *1868-7.*
 
-Commerce (Incorporation) Act, 1868.
+“the former Chamber” means the Barbados Chamber of Commerce established under the Barbados Chamber of Commerce (Incorporation) Act, 1868.
 
 ‘ME
 
@@ -132,7 +128,7 @@ v) to promote and encourage the use by consumers, by advertising trade fairs or 
 
 (h) to consult together as to problems affecting local manu-facturing industries and to take such action as it thinks fit;
 
-sss-7
+*sss-7*
 
 (i) to collect and disseminate statistical or other information relating to trade and industry, imports and exports, manufacturing processes and developments, wages and labour conditions, and any other matters that may be in the interest of the Chamber;
 
@@ -150,19 +146,25 @@ sss-7
 
 (p) to do such other things as may be conducive or incidental to the attainment of any of the purposes of the Chamber in the exercise of any of its functions.
 
-**5.** The governing body of the Chamber shall be the Coun- Governhi cil consisting in the first instance of those persons who at ~~m~~~ e of the Council of the for- 4th April, 1983 are members . mer Chamber and thereafter of such members to be elected or appointed in the manner specified in the rules.
+*Governhi ~~m~~~ e .*
 
-**6.** The Council may delegate any of its functions to such Delegation committees as it may appoint for the purposes of this Act and the $,~~c’” rules.
+**5.** The governing body of the Chamber shall be the Council consisting in the first instance of those persons who at of the Council of the for- 4th April, 1983 are members
 
-**7.** No act done or proceedings taken under this Act shall be pe;% :; questioned on the ground
+mer Chamber and thereafter of such members to be elected or appointed in the manner specified in the rules.
 
-Coun OR
+*Delegation $,~~c’”*
+
+**6.** The Council may delegate any of its functions to such committees as it may appoint for the purposes of this Act and the rules.
+
+*pe;% :;*
+
+*Coun OR*
+
+**7.** No act done or proceedings taken under this Act shall be questioned on the ground
 
 (a) of the existence of any vacancy in the membership of, or any defect in the constitution of the Council; or
 
-### OF BARBADOS
-
-by thr Government Print& Depatment. Bay Street, St. MlcM, by th authority of thr Government of Barbados
+OF BARBADOS by thr Government Print& Depatment. Bay Street, St. MlcM, by th authority of thr Government of Barbados
 
 Chamber of Commerce L. R.O. 1985
 
@@ -214,7 +216,9 @@ ber.
 
 3745~
 
-(2) All liabilities incurred by or on behalf of the former Chamber in respect of its functions under the Barbados Chamber of Commerce Act, 1868 and the rules and regulations made 1868-7. thereunder, and which by this Act are to be performed by the Chamber and subsisting immediately before 4th April, 1983 shall, as from that date, have effect as if they had been incurred by the Chamber.
+*1868-7.*
+
+(2) All liabilities incurred by or on behalf of the former Chamber in respect of its functions under the Barbados Chamber of Commerce Act, 1868 and the rules and regulations made thereunder, and which by this Act are to be performed by the Chamber and subsisting immediately before 4th April, 1983 shall, as from that date, have effect as if they had been incurred by the Chamber.
 
 (3) All books, records, furniture, equipment and other things relating thereto in the possession of the former Chamber immediately before 4th April, 1983 shall immediately be delivered to the Chamber.
 
@@ -224,16 +228,12 @@ ber.
 
 (6) All civil proceedings commenced before 4th April 1983 in any Court in Barbados by or against the former Chamber in respect of the functions to be transferred to the Chamber may be continued by or against the Chamber, and any such proceedings may be amended accordingly.
 
-**11.** Any person who immediately before 4th April 1983 was Transfer of employed in the service of the former Chamber shall, as from that $‘f:AF
+*Transfer of $‘f:AF chamber.*
 
-*chamber.*
-
-date be transferred to the service of the Chamber.
+**11.** Any person who immediately before 4th April 1983 was employed in the service of the former Chamber shall, as from that date be transferred to the service of the Chamber.
 
 ### ‘IME
 
 Rbwd by the Covwnmen~ Prlnt~ Depnrtment. by Start. SI. MlsLrl.
 
-tlw authority of lhe Gomnmtnt
-
-by of hrbrdol
+tlw authority of lhe Gomnmtnt by of hrbrdol

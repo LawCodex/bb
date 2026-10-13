@@ -48,9 +48,9 @@ Appointment of Chief Executive. 9.
 
 **14.** Fees.
 
-**15.** Funds and resources of Corporation.
+Funds and resources of Corporation.
 
-**16.** Application of funds of Corporation.
+Application of funds of Corporation.
 
 hrd by th: Gwemmcnt Primer. Bay Stma. St. Michael.
 
@@ -88,17 +88,25 @@ bv the autbc.riW of dx Gcwmnneot of Blrbndce
 
 ### BARBADOS AGRICULTURAL DEVELOPMENT AND MARKETING CORPORATION
 
-An Act to provide for the establishment of the Barbados Agricultural 1993-12. and Marketing Corporation and for related Development
+*1993-12.*
+
+An Act to provide for the establishment of the Barbados Agricultural and Marketing Corporation and for related Development
 
 matters.
 
-[ 1 st September, 19931 commencement.
+*commencement.*
+
+[ 1 st September, 19931
 
 1993182.
 
-**1.** This Act may be cited as the Barbados Agricultural Sholttitle. Development and Marketing Corporation Act.
+*Sholttitle.*
 
-**2.** In this Act Intefpreta-tion.
+**1.** This Act may be cited as the Barbados Agricultural Development and Marketing Corporation Act.
+
+*Intefpreta-tion.*
+
+**2.** In this Act
 
 “agent” means an agent of the Corporation and includes any Government agency acting for or on behalf of the Corporation;
 
@@ -110,11 +118,15 @@ matters.
 
 “producer” means the grower, breeder or rearer of any produce or any person who has the right to dispose of such produce, the right having been acquired other than by purchase of produce.
 
-**3.** (1) There is established a Corporation to be known as the Establish-Barbados Agricultural Development and Marketing Corporation. ~~$~~~
+*~~$~~~*
+
+**3.** (1) There is established a Corporation to be known as the Barbados Agricultural Development and Marketing Corporation.
 
 Prinkdby ,k Gov-ot Prin.x,Bay Sheet, St.Mishrl.
 
 by ik dmiry of ths Govemnent of Babdm
+
+*CAP.*
 
 The Corporation is a body corporate to which section 21 of the Interpretation Act applies.
 
@@ -160,9 +172,9 @@ to assist farmers in securing the most favourable arrangements for the storage o
 
 on the request of the Minister, to make recommendations on any matter directly or indirectly related to the production and marketing of produce.
 
-*Establishment of BoBrdof*
+*ment of which BoBrdof Dimcton.*
 
-**5.** (1) There is established a Board of Directors of the Corporation - _ which is responsible for the policy and general administration of the Dimcton. Corporation.
+(1) There is established a Board of Directors of the Corporation - _ is responsible for the policy and general administration of the
 
 ss.6 10
 
@@ -186,7 +198,9 @@ director.
 
 (2) The Chief Executive Officer is subject to the directions of the Board and is responsible to the Board for the execution of its policy and the management of its affairs.
 
-**10.** (1) The Corporation shall have power to carry out all activi- powers of ties in connection with the discharge of its duties under this Act, and ~~Poration. shall have power
+**10.** (1) The Corporation shall have power to carry out all activi-
+
+powers of ties in connection with the discharge of its duties under this Act, and ~~Poration. shall have power
 
 (a) to buy and sell produce;
 
@@ -226,11 +240,19 @@ of this Act, at such remuneration and on such terms and conditions as the Minist
 
 (4) The officers and other employees who, on the 1st September, 1993, are members of staff of the Barbados Marketing Corporation and the Barbados Agricultural Development Corporation shall upon that date comprise the staff of the Corporation.
 
-**12.** (1) Where the service of a person referred to in subsection Pension 11(4) has been transferred to the Corporation, that person shall retain fe$,t,“wti all rights in respect of pension, gratuity or other like benefit accruing Corporation. to him at the time of his transfer to the service of the Corporation and any period of service with the Barbados Marketing Corporation or the Barbados Agricultural Development Corporation shall be taken into account for the purpose of calculating qualifying service within the meaning of the Statutory Boards (Pensions) Act. cap. 384.
+*Pension fe$,t,“wti Corporation.*
 
-(2) Where a public officer is seconded or temporarily transferred from a pensionable office within the meaning of section 2(l) of the Pensions Act to perform any service with the Corporation, his service Cap. 25. with the Corporation shall, unless the Governor-General otherwise decides count for pension under that Act as if the officer had not been so seconded or transferred.
+*cap. 384.*
 
-(3) If the services of a person employed by the Corporation are on loan to the Government he is entitled to such benefits and terms of employment as are applicable to the post which he occupies, and the service with the Corporation shall be taken into account as continuous service with the Government and the Pensions Act and the Pensions cap. 25. Regulations, 1947 shall apply to him as if his service with the Corporation were service within the meaning of that Act.
+**12.** (1) Where the service of a person referred to in subsection 11(4) has been transferred to the Corporation, that person shall retain all rights in respect of pension, gratuity or other like benefit accruing to him at the time of his transfer to the service of the Corporation and any period of service with the Barbados Marketing Corporation or the Barbados Agricultural Development Corporation shall be taken into account for the purpose of calculating qualifying service within the meaning of the Statutory Boards (Pensions) Act.
+
+*Cap. 25.*
+
+(2) Where a public officer is seconded or temporarily transferred from a pensionable office within the meaning of section 2(l) of the Pensions Act to perform any service with the Corporation, his service with the Corporation shall, unless the Governor-General otherwise decides count for pension under that Act as if the officer had not been so seconded or transferred.
+
+*cap. 25.*
+
+(3) If the services of a person employed by the Corporation are on loan to the Government he is entitled to such benefits and terms of employment as are applicable to the post which he occupies, and the service with the Corporation shall be taken into account as continuous service with the Government and the Pensions Act and the Pensions Regulations, 1947 shall apply to him as if his service with the Corporation were service within the meaning of that Act.
 
 (4) Where a public officer is seconded or transferred to the service of the Corporation in accordance with subsection (2), the Corporation shall refund to the Consolidated Fund all moneys payable in respect of the service of that officer with the Corporation.
 
@@ -282,9 +304,9 @@ gratuities or similar benefits to persons employed or formerly employed by the C
 
 tc) the creation of a reserve fund of such an amount as the deems expedient.
 
-ss. 17-20
+*ss. 17-20*
 
-(2) The Board may not, except with the prior approval of the Minister in writing
+The Board may not, except with the prior approval of the Minister in writing
 
 (a) invest the funds of the Corporation in securities;
 
@@ -294,17 +316,23 @@ ss. 17-20
 
 (d) lend money, charge any of the Corporation’s actual or future assets or guarantee the performance of any obligation by another person.
 
-**17.** Any sum standing to the credit of the reserve fund provided for Reserve under section 16 may be invested in securities approved either gener- Fund. ally or specifically by the Minister, and the Corporation may, with the like approval, sell all or any of its securities.
+*Reserve Fund.*
 
-**18.** The Corporation
+**17.** Any sum standing to the credit of the reserve fund provided for under section 16 may be invested in securities approved either generally or specifically by the Minister, and the Corporation may, with the like approval, sell all or any of its securities.
 
-is exempt from Exemption.
+*Exemption.*
+
+18.
+
+The Corporation is exempt from
 
 (a) the payment of income tax and other tax imposed on the income or profits of persons; and
 
 (b) the payment of stamp duty on any document.
 
-**19.** The Corporation may with the consent, in writing, of the Powerto Minister responsible for Finance, borrow money from Government or Eo”yand any person by way of loan, overdraft or otherwise or raise capital by the issue stock issue of debenture stock upon such terms with respect to the borrowing, and shares. issue, transfer, interest and redemption as the Minister responsible for Finance approves for
+*Powerto Eo”yand issue stock and shares.*
+
+**19.** The Corporation may with the consent, in writing, of the Minister responsible for Finance, borrow money from Government or any person by way of loan, overdraft or otherwise or raise capital by the issue of debenture stock upon such terms with respect to the borrowing, issue, transfer, interest and redemption as the Minister responsible for Finance approves for
 
 (a) the provision of working capital;
 
@@ -312,7 +340,9 @@ is exempt from Exemption.
 
 (c) the redemption of any stock that it is required or entitled to redeem.
 
-**20.** (1) The Government may guarantee in such manner and Guarantee. on such conditions as Parliament thinks fit the satisfaction of
+*Guarantee.*
+
+(1) The Government may guarantee in such manner and on such conditions as Parliament thinks fit the satisfaction of
 
 Printed by ibz Govcmnrnr Printer. Bay Shut. St. Michpl, by the auhmity of ths Govenmrm of Barbadon
 
@@ -356,33 +386,49 @@ Barbados Agriculturql Development
 
 *Financial year.*
 
-**24.** The financial year of the Corporation shah coincide with the calendar year.
+The financial year of the Corporation shah coincide with the calendar year.
 
 *Regulations.*
 
 **25.** The Corporation may make regulations generally for the carrying out of the purposes of this Act.
 
-*Pensionable service and ~~e~~of ’*
+*Pensionable service and*
 
-**26.** With effect from the 1st September,
+26.
 
-1993
+With effect from the 1st September, 1993
 
-(4
+*(4*
+
+*~~e~~of ’*
 
 any contract entered into, by or on behalf of the Barbados Marketing Corporation or the Barbados Agricultural Development Corporation before that date shall be deemed to have been entered into, by or on behalf of the Barbados Agricultural Development and Marketing Corporation.
 
-tb) any right, privilege, duty or obligation conferred or imposed upon the Barbados Marketing Corporation or the Barbados Agricultural Development Corporation existing immediately before that date shall be deemed to be conferred or imposed on the Barbados Agricultural Development and Marketing Corporation;
+*tb)*
+
+any right, privilege, duty or obligation conferred or imposed upon the Barbados Marketing Corporation or the Barbados Agricultural Development Corporation existing immediately before that date shall be deemed to be conferred or imposed on the Barbados Agricultural Development and Marketing Corporation;
 
 the services of a person who immediately before that date was employed by the Barbados Agricultural Development Corporation or the Barbados Marketing Corporation and who is employed by the Corporation established under this Act shall be treated as continuous for purposes of calculating pensionable service; and
 
-Cd) all assets and liabilities of the Barbados Agricultural Development Corporation and of the Barbados Marketing Corporation are deemed to be transferred to the Barbados Agricultural Development and Marketing Corporation.
+*Cd)*
 
-**27.** All the land described in the Second Schedule and transferred Transfer to to and vested in the Barbados Agricultural Development Corporation ~~~,~ by the Barbados Agricultural Development Corporation Act’ is landin
+all assets and liabilities of the Barbados Agricultural Development Corporation and of the Barbados Marketing Corporation are deemed to be transferred to the Barbados Agricultural Development and Marketing Corporation.
 
-*Corporation.*
+*Transfer to*
 
-’ Repealed by this Act.
+*to and*
+
+*~~~,~*
+
+*by the*
+
+*landin*
+
+**27.** All the land described in the Second Schedule and transferred vested in the Barbados Agricultural Development Corporation Barbados Agricultural Development Corporation Act’ is
+
+*’ Repealed*
+
+by this Act.
 
 Rioted by d,z Govrmnrnt Primer. Bay Sosct. St. -1.
 

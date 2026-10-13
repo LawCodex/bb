@@ -650,27 +650,31 @@ COURTS AND PROCEDURE Jurisdiction of Courts
 
 19 L.R.O. 2003
 
-### CHAPTER 303
+*2001-34. 2003-17.*
 
-### BANKRUPTCY AND INSOLVENCY
+CHAPTER 303 BANKRUPTCY AND INSOLVENCY An Act to revise the law relating to bankruptcy and insolvency; to make provision for corporate and individual insolvency; to 1 provide for the rehabilitation of the insolvent debtor; and to create the office of Supervisor of Insolvency.
 
-An Act to revise the law relating to bankruptcy and insolvency; to 2001-34. make provision for corporate and individual insolvency; to 2003-17. 1 provide for the rehabilitation of the insolvent debtor; and to create the office of Supervisor of Insolvency.
+*Commencement. 2002/18.*
 
-[1st March, 2002] Commencement. 2002/18. P ART I
+[1st March, 2002] P ART I
 
 ### PRELIMINARY
 
-**1.** This Act may be cited as the Bankruptcy and Insolvency Act. Citation.
+*Citation.*
+
+**1.** This Act may be cited as the Bankruptcy and Insolvency Act.
+
+*Interpretation.*
 
 **2.** (1) In this Act,
-
-Interpretation.
 
 "affidavit" includes statutory declaration and solemn affirmation;
 
 "assignment" means an assignment filed with the Supervisor of Insolvency;
 
-"bank" means every bank to which the Financial Institutions Act Cap. 342A. applies;
+*Cap. 342A.*
+
+"bank" means every bank to which the Financial Institutions Act applies;
 
 "bankrupt" means a person who has made an assignment, or against whom a receiving order has been made under section 4(10);
 
@@ -680,11 +684,9 @@ Act 2003-17 has not been proclaimed.
 
 "claim provable in bankruptcy", "provable claim" or "claim provable" includes any claim or liability provable in proceedings under this Act by a creditor;
 
-"corporation" means any incorporated company, wherever or however incorporated, that is authorized to carry on business in Barbados or that has an office or property in Barbados, but does
-
 *Cap. 324A.*
 
-not include financial institutions to which the Financial Institutions Act applies or insurance companies;
+"corporation" means any incorporated company, wherever or however incorporated, that is authorized to carry on business in Barbados or that has an office or property in Barbados, but does not include financial institutions to which the Financial Institutions Act applies or insurance companies;
 
 "Court", means the High Court and includes a judge sitting in chambers on matters of bankruptcy;
 
@@ -802,7 +804,7 @@ of a debtor that was acquired for, or is used in relation to, a business carried
 
 (b) where a related group is in a position to control a corporation, it shall be deemed to be a related group that controls the corporation whether or not it is part of a larger group by whom the corporation is in fact controlled;
 
-(c) a person who has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently, to, or to acquire, shares in a corporation, or to control the voting rights in shares of a corporation, shall, except where the contract provides that the right is not exercisable until the death of an individual designated therein, be deemed to have the same position in relation to the control of the corporation as if he owned the shares;
+a person who has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently, to, or to acquire, shares in a corporation, or to control the voting rights in shares of a corporation, shall, except where the contract provides that the right is not exercisable until the death of an individual designated therein, be deemed to have the same position in relation to the control of the corporation as if he owned the shares;
 
 (d) where a person owns shares in 2 or more corporations, he shall, as a shareholder of one of the corporations, be deemed to be related to himself as shareholder of each of the other corporations;
 
@@ -812,11 +814,15 @@ of a debtor that was acquired for, or is used in relation to, a business carried
 
 (g) persons are connected by adoption if one has been adopted, either legally or in fact, as the child of the other or as the child of a person who is connected by blood relationship, otherwise than as a brother or sister, to the other.
 
-(5) A person who has entered into a transaction with another person otherwise than at arm's length shall be deemed to have entered into a reviewable transaction.
+*person into a*
+
+(5) A person who has entered into a transaction with another otherwise than at arm's length shall be deemed to have entered reviewable transaction.
 
 (6) It is a question of fact whether persons not related to one another within the meaning of subsection (3) were at a particular time dealing with each other at arm's length.
 
-(7) Persons related to each other within the meaning of subsection (3) shall be deemed not to deal with each other at arm's length while so related.
+*length*
+
+(7) Persons related to each other within the meaning of subsection (3) shall be deemed not to deal with each other at arm's while so related.
 
 ### ACTS OF BANKRUPTCY
 
@@ -854,7 +860,9 @@ of a debtor that was acquired for, or is used in relation to, a business carried
 
 Petition for Receiving Order
 
-**4.** (1) Subject to this section, one or more creditors may file in Filing of Court a petition for a receiving order against a debtor where it is petition. alleged in the petition that
+*Filing of petition.*
+
+**4.** (1) Subject to this section, one or more creditors may file in Court a petition for a receiving order against a debtor where it is alleged in the petition that
 
 (a) the debt owing to the petitioning creditor amounts to not less than $4 000; and
 
@@ -930,17 +938,17 @@ on such terms as it may see fit to impose on the petitioner as to costs, or on t
 
 (22) Where a debtor against whom a petition has been filed dies, the proceedings shall, unless the Court otherwise orders, be continued as if he were alive.
 
-**5.** (1) Subject to section 4, a petition for a receiving order may be Petition
+*Petition against estate of deceased.*
 
-*against estate of deceased.*
-
-filed against the estate of a deceased debtor.
+**5.** (1) Subject to section 4, a petition for a receiving order may be filed against the estate of a deceased debtor.
 
 (2) After service of a petition for a receiving order on the legal representative of a deceased debtor, he shall not make payment of any monies or transfer any property of the deceased debtor, except as required for payment of the proper funeral and testamentary expenses, until the petition is disposed of, otherwise, in addition to any penalties to which he may be subject, he is personally liable.
 
 (3) Nothing in this section invalidates any payment or transfer of property made or any act or thing done by the legal personal representative in good faith before the service of a petition referred to in subsection (2).
 
-**6.** (1) Where a receiving order is made, the costs of the petitioner Costs of shall be taxed and be payable out of the estate unless the Court petitioner. otherwise orders.
+*Costs of petitioner.*
+
+**6.** (1) Where a receiving order is made, the costs of the petitioner shall be taxed and be payable out of the estate unless the Court otherwise orders.
 
 (2) Where the proceeds of the estate are not sufficient for the payment of any costs incurred by the trustee, the Court may order the costs to be paid by the petitioner.
 
@@ -972,17 +980,9 @@ Appointment of interim receiver
 
 10B.
 
-**9.** (1) Where a notice of intention has been filed under section 16 Appoint-
+*Appointment of interim receiver where notice of intention or proposal filed.*
 
-*of*
-
-or a proposal has been filed under section 30(1), the Court may at any ment interim time thereafter, subject to subsection (3), appoint as interim receiver receiver
-
-*notice*
-
-of all or part of the debtor's property, for such term as the Court may where of intention determine,
-
-or proposal filed.
+**9.** (1) Where a notice of intention has been filed under section 16 or a proposal has been filed under section 30(1), the Court may at any time thereafter, subject to subsection (3), appoint as interim receiver of all or part of the debtor's property, for such term as the Court may determine,
 
 (a) the trustee under the notice of intention or proposal;
 
@@ -1148,15 +1148,21 @@ of a debtor that was acquired for, or is used in relation to, a business carried
 
 ss.10I-10K
 
-**10I.** Where the Court, on the application of the Supervisor, the Court order debtor, the trustee in the case of a bankrupt, a receiver or a creditor, is in respect of non-satisfied that the secured creditor, the receiver or the debtor is failing performance or has failed to carry out any duty imposed in this Part, the Court may of duties. make an order, on such terms as it considers proper,
+*Court order in respect of nonperformance of duties.*
+
+**10I.** Where the Court, on the application of the Supervisor, the debtor, the trustee in the case of a bankrupt, a receiver or a creditor, is satisfied that the secured creditor, the receiver or the debtor is failing or has failed to carry out any duty imposed in this Part, the Court may make an order, on such terms as it considers proper,
 
 (a) directing the secured creditor, receiver or debtor, as the case may be, to carry out that duty; or
 
 (b) restraining the secured creditor or receiver, as the case may be, from realizing or otherwise dealing with the property of the debtor until that duty has been carried out, or both.
 
-**10J.** On the application of the Supervisor, the debtor, the trustee Court may (in the case of a bankrupt) or a creditor, made within 6 months after order statement of the statement of accounts was provided to the Supervisor pursuant to accounts to section 10C(g), the Court may order the receiver to submit the state- be submitted for review. ment of accounts to the Court for review, and the Court may adjust, in such manner and to such extent as it considers proper, the fees and charges of the receiver as set out in the statement of accounts.
+*Court may order statement of accounts to be submitted for review.*
 
-**10K.** A receiver may apply to the Court for directions in relation Receiver to any provision of this Part, and the Court shall give, in writing, such may apply to Court for directions, if any, as it considers proper in the circumstances directions. including
+**10J.** On the application of the Supervisor, the debtor, the trustee (in the case of a bankrupt) or a creditor, made within 6 months after the statement of accounts was provided to the Supervisor pursuant to section 10C(g), the Court may order the receiver to submit the statement of accounts to the Court for review, and the Court may adjust, in such manner and to such extent as it considers proper, the fees and charges of the receiver as set out in the statement of accounts.
+
+*Receiver may apply to Court for directions.*
+
+**10K.** A receiver may apply to the Court for directions in relation to any provision of this Part, and the Court shall give, in writing, such directions, if any, as it considers proper in the circumstances including
 
 (a) an order appointing, replacing or discharging a receiver or receiver-manager and approving his accounts;
 
@@ -1306,7 +1312,7 @@ person making the proposal, reviewed for its reasonableness by the trustee and s
 
 (a) file a report on the state of the business and financial affairs of the insolvent person containing any prescribed information
 
-(i) with the Supervisor forthwith after ascertaining any material adverse change in the insolvent person's projected cash-flow or financial circumstances of the insolvent person; and
+with the Supervisor forthwith after ascertaining any material adverse change in the insolvent person's projected cash-flow or financial circumstances of the insolvent person; and
 
 (ii) with the Court at such other times as the Court may order; and
 
@@ -1340,11 +1346,9 @@ relating to the proposal, in respect of that entire claim, and sections 101 to 1
 
 (5) Where no secured creditor having a secured claim of a particular class files a proof of secured claim at or before the meeting of creditors, the secured creditors having claims of that class shall be deemed to have voted for the refusal of the proposal.
 
-**14.** A secured creditor to whom a proposal has not been made in Where
+*Where secured creditors may not vote.*
 
-*creditors may not vote.*
-
-respect of a particular secured claim may not file a proof of secured secured claim in respect of that claim.
+**14.** A secured creditor to whom a proposal has not been made in respect of a particular secured claim may not file a proof of secured claim in respect of that claim.
 
 *Secured claims upon bankruptcy.*
 
@@ -1392,7 +1396,9 @@ and attaching to the proposal a copy of the consent referred to in paragraph (b)
 
 (ii) with the Court at or before the hearing by the Court of any application under subsection (9) and at such other times as the Court may order.
 
-(8) Where an insolvent person fails to comply with subsection (2), or where the trustee fails to file a proposal with the Supervisor under section 30(1) within a period of 30 days after the day the notice of intention was filed under subsection (1), or within any extension of that period granted under subsection (9),
+*or*
+
+(8) Where an insolvent person fails to comply with subsection (2), where the trustee fails to file a proposal with the Supervisor under section 30(1) within a period of 30 days after the day the notice of intention was filed under subsection (1), or within any extension of that period granted under subsection (9),
 
 (a) the insolvent person is, on the expiration of that period or that extension, as the case may be, deemed to have made an assignment;
 
@@ -1420,9 +1426,13 @@ and attaching to the proposal a copy of the consent referred to in paragraph (b)
 
 and where the Court declares the period in question terminated, paragraphs (a) to (c) of subsection (8) thereupon apply as if that period had expired.
 
-**17.** The trustee under a notice of intention shall, between the filing Trustee to of the notice of intention and the filing of a proposal, advise on and assist in preparation participate in the preparation of the proposal, including negotiations of proposal. thereon.
+*Trustee to assist in preparation of proposal.*
 
-**18.** (1) The trustee shall call a meeting of creditors, to be held Meeting of within 21 days after the filing of the proposal with the Supervisor creditors. under section 30(1), by sending in the prescribed manner to every known creditor and to the Supervisor, at least 10 days before the meeting,
+**17.** The trustee under a notice of intention shall, between the filing of the notice of intention and the filing of a proposal, advise on and participate in the preparation of the proposal, including negotiations thereon.
+
+*Meeting of creditors.*
+
+**18.** (1) The trustee shall call a meeting of creditors, to be held within 21 days after the filing of the proposal with the Supervisor under section 30(1), by sending in the prescribed manner to every known creditor and to the Supervisor, at least 10 days before the meeting,
 
 (a) a notice of the date, time and place of the meeting;
 
@@ -1512,11 +1522,11 @@ and at either meeting the creditors may by ordinary resolution, notwithstanding 
 
 interests of the creditors to do so, appoint a trustee in lieu of the trustee appointed under the notice of intention or proposal that was filed.
 
-**26.** On acceptance of a proposal by the creditors, the trustee shall Trustee to apply to
+*Trustee to apply to Court for approval of proposal.*
 
-*for*
+**26.** On acceptance of a proposal by the creditors, the trustee shall
 
-(a) within 5 days after the acceptance, apply to the Court for an Court approval of appointment for a hearing of the application for the approval proposal. by the Court of the proposal;
+(a) within 5 days after the acceptance, apply to the Court for an appointment for a hearing of the application for the approval by the Court of the proposal;
 
 (b) send a notice of the hearing of the application, in the prescribed manner and at least 15 days before the date of the hearing, to the debtor, to every creditor who has proved a claim, whether secured or unsecured, to the person making the proposal and to the Supervisor;
 
@@ -1524,7 +1534,9 @@ interests of the creditors to do so, appoint a trustee in lieu of the trustee ap
 
 (d) at least 2 days before the date of the hearing, file with the Court, in the prescribed form, a report on the proposal.
 
-**27.** (1) The Court shall, before approving the proposal, hear a Trustee to report of the trustee in the prescribed form respecting the terms of the prepare report to proposal and the conduct of the debtor, and, in addition, shall hear the Court. trustee, the debtor, the person making the proposal, any opposing, objecting or dissenting creditor and such further evidence as the Court may require.
+*Trustee to prepare report to Court.*
+
+**27.** (1) The Court shall, before approving the proposal, hear a report of the trustee in the prescribed form respecting the terms of the proposal and the conduct of the debtor, and, in addition, shall hear the trustee, the debtor, the person making the proposal, any opposing, objecting or dissenting creditor and such further evidence as the Court may require.
 
 (2) Where the Court is of the opinion that the terms of the proposal are not reasonable or are not calculated to benefit the general body of creditors, the Court shall refuse to approve the proposal.
 
@@ -1550,7 +1562,9 @@ interests of the creditors to do so, appoint a trustee in lieu of the trustee ap
 
 (7) Subject to subsections (1) to (3), the Court may either approve or refuse to approve the proposal.
 
-**29.** (1) The approval by the Court of a proposal made after Where bankruptcy operates to annul the bankruptcy and to revest in the debtor, proposal approved by or in such other person as the Court may approve, all the right, title Court made and interest of the trustee in the property of the debtor, unless the by bankrupt. terms of the proposal otherwise provide.
+*Where proposal approved by Court made by bankrupt.*
+
+**29.** (1) The approval by the Court of a proposal made after bankruptcy operates to annul the bankruptcy and to revest in the debtor, or in such other person as the Court may approve, all the right, title and interest of the trustee in the property of the debtor, unless the terms of the proposal otherwise provide.
 
 (2) Where the Court refuses to approve a proposal in respect of an insolvent person a copy of which has been filed under section 30,
 
@@ -1562,19 +1576,25 @@ interests of the creditors to do so, appoint a trustee in lieu of the trustee ap
 
 (3) No costs incurred by a debtor on or incidental to an application to approve a proposal, other than the costs incurred by the trustee, shall be allowed out of the estate of the debtor if the Court refuses to approve the proposal.
 
-**30.** (1) Where a proposal is made in respect of an insolvent Trustee to person, the trustee shall file a copy of the proposal with the file proposal with Supervisor.
+*Trustee to file proposal with Supervisor.*
 
-Supervisor.
+**30.** (1) Where a proposal is made in respect of an insolvent person, the trustee shall file a copy of the proposal with the Supervisor.
 
-(2) Except in respect of claims referred to in section 178(11), where a proposal is made in respect of an insolvent person, the time with respect to which the claims of creditors shall be determined is the time of the filing of
+*a*
+
+(2) Except in respect of claims referred to in section 178(11), where proposal is made in respect of an insolvent person, the time with respect to which the claims of creditors shall be determined is the time of the filing of
 
 (a) the notice of intention; or
 
 (b) the proposal, if no notice of intention was filed.
 
-(3) Except in respect of claims referred to in section 178(11), where a proposal is made in respect of a bankrupt, the time with respect to which the claims of creditors shall be determined is the date on which the bankrupt became bankrupt.
+*a*
 
-(4) A proposal accepted by the creditors and approved by the Court is binding on the creditors in respect of
+(3) Except in respect of claims referred to in section 178(11), where proposal is made in respect of a bankrupt, the time with respect to which the claims of creditors shall be determined is the date on which the bankrupt became bankrupt.
+
+*is*
+
+(4) A proposal accepted by the creditors and approved by the Court binding on the creditors in respect of
 
 (a) all unsecured claims; and
 
@@ -1598,11 +1618,9 @@ Supervisor.
 
 the trustee shall, within such time and in such form and manner as are prescribed, so inform all the creditors and the Supervisor.
 
-**32.** (1) Where default is made in the performance of any Court may
+*Court may annul the proposal.*
 
-*the proposal.*
-
-provision in a proposal, or where it appears to the Court that the annul proposal cannot continue without injustice or undue delay or that the approval of the Court was obtained by fraud, the Court may, on application with such notice as the Court may direct to the debtor, and if applicable to the trustee and to the creditors, annul the proposal.
+**32.** (1) Where default is made in the performance of any provision in a proposal, or where it appears to the Court that the proposal cannot continue without injustice or undue delay or that the approval of the Court was obtained by fraud, the Court may, on application with such notice as the Court may direct to the debtor, and if applicable to the trustee and to the creditors, annul the proposal.
 
 (2) An order made under subsection (1) shall be made without prejudice to the validity of any sale, disposition of property or payment duly made, or anything done under or in pursuance of the proposal, and notwithstanding the annulment of the proposal, a guarantee given pursuant to the proposal remains in full force and effect in accordance with its terms.
 
@@ -1744,7 +1762,9 @@ is terminated on or after that filing, the setting off of the obligations betwee
 
 ### PROPERTY OF THE BANKRUPT
 
-**38.** The property of a bankrupt divisible among his creditors shall Property of not comprise a bankrupt.
+*Property of a bankrupt.*
+
+**38.** The property of a bankrupt divisible among his creditors shall not comprise
 
 (a) property held by the bankrupt in trust for any other person; or
 
@@ -1756,15 +1776,15 @@ but it shall comprise
 
 (d) such powers in or over or in respect of the property as might have been exercised by the bankrupt for the benefit of the bankrupt.
 
-**39.** (1) Standards for determining the portion of the total income Excess
+*Excess income of individual bankrupts to be as prescribed.*
 
-*of*
-
-of an individual bankrupt that exceed that which is necessary to income individual enable the bankrupt to maintain a reasonable standard of living shall bankrupts to be as prescribed. be as prescribed.
+**39.** (1) Standards for determining the portion of the total income of an individual bankrupt that exceed that which is necessary to enable the bankrupt to maintain a reasonable standard of living shall be as prescribed.
 
 (2) The trustee shall
 
-(a) having regard to the Bankruptcy Rules and to the personal and 2001/ family situation of the bankrupt, fix the amount that the bankrupt is required to pay to the estate of the bankrupt;
+*2001/*
+
+(a) having regard to the Bankruptcy Rules and to the personal and family situation of the bankrupt, fix the amount that the bankrupt is required to pay to the estate of the bankrupt;
 
 (b) inform the Supervisor in writing of the amount fixed under paragraph (a); and
 
@@ -1876,25 +1896,19 @@ from enforcing that security; or
 
 (b) in the case of a security for a debt that does not become due until more than 6 months after the date the bankrupt became bankrupt, that right shall not be postponed for more than 6 months from that date, unless all instalments of interest that are more than 6 months in arrears are paid and all other defaults of more than 6 months standing are cured, and then only so long as no instalment of interest remains in arrears or defaults remain uncured for more than 6 months, but, in any event, not beyond the date at which the debt secured by the security becomes payable under the instrument or law creating the security.
 
-**43.** A creditor who is affected by the operation of section 41 or 42 Aggrieved
+*Aggrieved creditor may apply to Court for removal of stay.*
 
-*may*
-
-may apply to the Court for a declaration that those sections no longer creditor apply to operate in respect of that creditor, and the Court may make such a Court for
-
-*of*
-
-declaration, subject to any qualifications that the Court considers removal stay. proper, if it is satisfied
+**43.** A creditor who is affected by the operation of section 41 or 42 may apply to the Court for a declaration that those sections no longer operate in respect of that creditor, and the Court may make such a declaration, subject to any qualifications that the Court considers proper, if it is satisfied
 
 (a) that the creditor or person is likely to be materially prejudiced by the continued operation of those sections; or
 
 (b) that it is equitable on other grounds to make such a declaration.
 
-**44.** (1) Sections 41 and 42 do not apply in respect of a claim Stay ineffectual referred to in section 98(4).
+*Stay ineffectual against certain parties and claims.*
 
-against certain
+**44.** (1) Sections 41 and 42 do not apply in respect of a claim referred to in section 98(4).
 
-(2) Notwithstanding subsection (1), no creditor with a claim parties and referred to in section 98(4) has any remedy, or shall commence or claims. continue any action, execution or other proceeding, against
+(2) Notwithstanding subsection (1), no creditor with a claim referred to in section 98(4) has any remedy, or shall commence or continue any action, execution or other proceeding, against
 
 (a) property of a bankrupt that has vested in the trustee; or
 
@@ -1918,13 +1932,17 @@ General Provisions
 
 **47.** The provisions of this Act shall not be deemed to abrogate or supersede the substantive provisions of any other law or statute that are not in conflict with this Act, and the trustee is entitled to avail himself of all rights and remedies provided by that law or statute as supplementary to and in addition to the rights and remedies provided by this Act.
 
-**48.** (1) Where an assignment or a receiving order has been made, Delivery of the Marshal or other officer of any Court or other person having seized seized property to property of the bankrupt under execution or attachment or any other trustee. process shall, on receiving a copy of the assignment or the receiving order certified by the trustee as a true copy, forthwith deliver to the trustee all that property.
+*Delivery of seized property to trustee.*
+
+**48.** (1) Where an assignment or a receiving order has been made, the Marshal or other officer of any Court or other person having seized property of the bankrupt under execution or attachment or any other process shall, on receiving a copy of the assignment or the receiving order certified by the trustee as a true copy, forthwith deliver to the trustee all that property.
 
 (2) Where the Marshal has sold the property of a bankrupt or any part of that property, he shall deliver to the trustee the money so realised.
 
 (3) Any property of a bankrupt under seizure for rent or taxes shall on production of a copy of the receiving order or the assignment certified by the trustee as a true copy be delivered forthwith to the trustee, but the costs of distress are a first charge on the property, and, if the property or any part thereof has been sold, the money realised from the sale less the costs of distress and sale shall be paid to the trustee.
 
-**49.** (1) Where the bankrupt is a lessee of premises, the trustee, Trustee may notwithstanding a condition, covenant or agreement in the lease, has surrender lease or deal the right to hold and retain the leased premises until the with expiration of the tenancy on the same terms and conditions as the leasehold interests. lessee might have held the premises had no bankruptcy occurred.
+*Trustee may surrender lease or deal with leasehold interests.*
+
+**49.** (1) Where the bankrupt is a lessee of premises, the trustee, notwithstanding a condition, covenant or agreement in the lease, has the right to hold and retain the leased premises until the expiration of the tenancy on the same terms and conditions as the lessee might have held the premises had no bankruptcy occurred.
 
 (2) The tenancy of the leased premises shall terminate upon the trustee disclaiming the lease, but nothing shall prevent the trustee from transferring or disposing of a lease, leasehold property, or any interest of the lessee for the unexpired term to as full an extent as could have been done by the lessee had the bankruptcy not occurred.
 
@@ -1970,17 +1988,25 @@ the bankrupt and which after the execution of the deed, conveyance, assignment, 
 
 **52.** Notwithstanding anything in this Act, a deed, conveyance, transfer, agreement for sale, mortgage, or charge made to or in favour of a bona fide purchaser or mortgagee for adequate valuable consideration and covering any real property affected by a receiving order or an assignment under this Act is valid and effectual according to the tenor thereof as fully and effectually and to all intents and purposes as if no receiving order or assignment had been made under this Act, unless the receiving order or assignment, or notice, or caution, has been registered against the property in the appropriate registry prior to the registration of the deed, conveyance, transfer, agreement for sale, mortgage, or charge in accordance with the laws pertaining.
 
-**53.** (1) Every shareholder or member of a bankrupt corporation Where is liable to contribute the amount unpaid on his shares of the capital or contributory on his liability to the corporation, its members or creditors, as the case indebted to may be, under the Act, charter, or instrument of incorporation of the bankrupt. company or otherwise.
+*Where contributory indebted to bankrupt.*
+
+**53.** (1) Every shareholder or member of a bankrupt corporation is liable to contribute the amount unpaid on his shares of the capital or on his liability to the corporation, its members or creditors, as the case may be, under the Act, charter, or instrument of incorporation of the company or otherwise.
 
 (2) The amount that the contributory is liable to contribute under subsection (1) shall be deemed an asset of the corporation and a debt payable to the trustee forthwith on the bankruptcy of the corporation.
 
-**54.** (1) Where a banker has ascertained that a person having an Banker to account with the banker is an undischarged bankrupt, it is his duty to advise trustee of inform the trustee of the existence of the account, and the banker shall existence of not make any payments out of the account, except under an order of account. the Court or in accordance with instructions from the trustee, unless on the expiration of one month from the date of giving the information no instructions have been received from the trustee.
+*Banker to advise trustee of existence of account.*
+
+**54.** (1) Where a banker has ascertained that a person having an account with the banker is an undischarged bankrupt, it is his duty to inform the trustee of the existence of the account, and the banker shall not make any payments out of the account, except under an order of the Court or in accordance with instructions from the trustee, unless on the expiration of one month from the date of giving the information no instructions have been received from the trustee.
 
 (2) Notwithstanding anything contained in any other Act, a deposit-taking institution shall on application of the trustee disclose what deposits of money, if any, of the bankrupt are remaining to the bankrupt's credit, and the deposit-taking institution shall, upon request of the trustee, pay the same to the trustee.
 
-**55.** Where property of a bankrupt is held as a pledge, pawn or Trustee may other security, the trustee may give notice in writing of the trustee's inspect property. intention of the trustee to inspect the property, and the person so notified is not thereafter entitled to realise the security until the person has given the trustee a reasonable opportunity of inspecting the property and of exercising the right of redemption of the trustee.
+*Trustee may inspect property.*
 
-**56.** Where the trustee has seized or disposed of property in the Where possession or on the premises of a bankrupt without notice of any trustee disposes claim in respect of the property and it is made to appear that the property property was not at the date of the bankruptcy the property of the subject to an encum-bankrupt or was subject to an unregistered lien, a right of retention, a brance. pledge or a charge, the trustee is not personally liable for any loss or
+**55.** Where property of a bankrupt is held as a pledge, pawn or other security, the trustee may give notice in writing of the trustee's intention of the trustee to inspect the property, and the person so notified is not thereafter entitled to realise the security until the person has given the trustee a reasonable opportunity of inspecting the property and of exercising the right of redemption of the trustee.
+
+*Where trustee disposes property subject to an encumbrance.*
+
+**56.** Where the trustee has seized or disposed of property in the possession or on the premises of a bankrupt without notice of any claim in respect of the property and it is made to appear that the property was not at the date of the bankruptcy the property of the bankrupt or was subject to an unregistered lien, a right of retention, a pledge or a charge, the trustee is not personally liable for any loss or
 
 damage arising from the seizure or disposal sustained by any person claiming the property or an interest in the property or for the costs of proceedings taken to establish a claim to the property, unless the Court is of the opinion that the trustee has been guilty of negligence with respect to the duties of the trustee in relation to the property.
 
@@ -1996,9 +2022,15 @@ damage arising from the seizure or disposal sustained by any person claiming the
 
 (5) No proceedings shall be instituted to establish a claim to, or to recover any right or interest in, any property in the possession of a bankrupt at the time of the bankruptcy, except as provided in this section.
 
-(6) Nothing in this section shall be construed as extending the rights of any person other than the trustee.
+*of any*
 
-**58.** (1) Subject to this section, where a person, in this section Unpaid referred to as the "supplier", has sold and delivered goods to another suppliers may prove person, in this section referred to as the "purchaser", for use in relation for certain to the business of the purchaser, and the purchaser has not fully paid goods. for the goods, the supplier may have access to and repossess the goods at the expense of the supplier, and the purchaser, trustee or receiver shall release the goods, if
+Nothing in this section shall be construed as extending the rights person other than the trustee.
+
+*Unpaid suppliers may prove for certain goods.*
+
+*to the for the at the shall*
+
+**58.** (1) Subject to this section, where a person, in this section referred to as the "supplier", has sold and delivered goods to another person, in this section referred to as the "purchaser", for use in relation business of the purchaser, and the purchaser has not fully paid goods, the supplier may have access to and repossess the goods expense of the supplier, and the purchaser, trustee or receiver release the goods, if
 
 (a) the supplier presents a written demand for repossession to the purchaser, trustee or receiver, in prescribed form and containing the details of the transaction, within a period of 30 days after the delivery of the goods to the purchaser;
 
@@ -2056,11 +2088,11 @@ than the right of a bona fide subsequent purchaser of the goods for value withou
 
 (10) A supplier who repossesses goods pursuant to this section is not entitled to be paid for those goods.
 
-*Claim of farmer or*
+*Claim of farmer or fisherman.*
 
 **59.** (1) Where
 
-(a) a farmer has sold and delivered products of agriculture, or a fisherman. fisherman has sold and delivered products of the sea, to another person, in this section referred to as the "purchaser", for use in relation to the business of the purchaser;
+(a) a farmer has sold and delivered products of agriculture, or a fisherman has sold and delivered products of the sea, to another person, in this section referred to as the "purchaser", for use in relation to the business of the purchaser;
 
 (b) the products were delivered to the purchaser within the 15-day period preceding
 
@@ -2112,11 +2144,9 @@ comprises that thing in any form or state and any part thereof and any product o
 
 (7) Nothing in this section precludes a farmer or fisherman from exercising the right that that person may have under section 58 to repossess products of agriculture or products of the sea.
 
-**60.** (1) Where any property of a bankrupt vesting in a trustee Sale of
+*Sale of patented articles by trustee.*
 
-*articles by*
-
-consists of patented articles that were sold to the bankrupt subject to patented any restrictions or limitations, the trustee is not bound by the trustee. restrictions or limitations but may sell and dispose of the patented articles free of the restrictions or limitations.
+**60.** (1) Where any property of a bankrupt vesting in a trustee consists of patented articles that were sold to the bankrupt subject to any restrictions or limitations, the trustee is not bound by the restrictions or limitations but may sell and dispose of the patented articles free of the restrictions or limitations.
 
 (2) Where the manufacturer or vendor of the patented articles referred to in subsection (1) objects to the disposition of them by the trustee as provided by this section and gives the trustee notice in writing of the objection before the sale or disposition of the patented articles, that manufacturer or vendor has the right to purchase the
 
@@ -2132,7 +2162,11 @@ patented articles at the invoice prices of those articles, subject to any reason
 
 (c) the trustee at the expiration of 6 months from the date of the bankruptcy decides not to carry out the contract, revert without expense to the author, and any contract or agreement between the author or his heirs and the bankrupt shall then terminate and be void.
 
-(2) Where, at the time of the bankruptcy referred to in subsection (1), the work was published and put on the market, the trustee is entitled to sell, or authorise the sale or reproduction of, any copies of the published work, or to perform or authorise the performance of the work, but
+*(1),*
+
+*the*
+
+(2) Where, at the time of the bankruptcy referred to in subsection the work was published and put on the market, the trustee is entitled to sell, or authorise the sale or reproduction of, any copies of published work, or to perform or authorise the performance of the work, but
 
 (a) there shall be paid to the author or his heirs such sums by way of royalties or share of the profits as would have been payable by the bankrupt;
 
@@ -2142,15 +2176,15 @@ patented articles at the invoice prices of those articles, subject to any reason
 
 (3) The trustee shall offer in writing to the author or his heirs the right to purchase the manufactured or marketable copies of the copyright work comprised in the estate of the bankrupt at such price and on such terms and conditions as the trustee may deem fair and proper before disposing of the manufactured and marketable copies in the manner set out in this section.
 
-**62.** All sales of property made by a trustee vest in the purchaser all Bankrupt's
+*Bankrupt's interest vests in purchaser upon sale by trustee.*
 
-*interest vests in purchaser upon sale by trustee.*
-
-the legal and equitable estate of the bankrupt in the property.
+**62.** All sales of property made by a trustee vest in the purchaser all the legal and equitable estate of the bankrupt in the property.
 
 Partnership Property
 
-**63.** (1) This Act applies to limited partnerships in like manner as Limited if limited partnerships were ordinary partnerships, and, on all the partnerships. general partners of a limited partnership becoming bankrupt, the property of the limited partnership vests in the trustee.
+*Limited partnerships.*
+
+**63.** (1) This Act applies to limited partnerships in like manner as if limited partnerships were ordinary partnerships, and, on all the general partners of a limited partnership becoming bankrupt, the property of the limited partnership vests in the trustee.
 
 (2) Where a member of a partnership becomes bankrupt, the Court may authorise the trustee to commence and prosecute any action in the names of the trustee and of the bankrupt's partner, and any release by the partner of the debt or demand to which the action relates is void.
 
@@ -2192,11 +2226,9 @@ Settlements and Preferences
 
 (c) on or for the spouse or children of the settlor of property that has accrued to the settlor after the marriage in right of the settlor's spouse or children.
 
-**67.** (1) Any covenant or contract made by any person, Contracts in
+*Contracts in consideration of marriage.*
 
-*tion of*
-
-hereinafter called "the settlor", in consideration of the settlor's considera-marriage, either for the future payment of money for the benefit of the marriage. settlor's spouse or children, or for the future settlement on or for the settlor's spouse or children, of property wherein the settlor had not at the date of the marriage any estate or interest, whether vested or contingent, in possession or remainder, and not being money or property in right of the settlor's spouse is, if the settlor becomes bankrupt and the covenant or contract has not been executed at the date of the initial bankruptcy event in respect of the settlor, void against the trustee.
+**67.** (1) Any covenant or contract made by any person, hereinafter called "the settlor", in consideration of the settlor's marriage, either for the future payment of money for the benefit of the settlor's spouse or children, or for the future settlement on or for the settlor's spouse or children, of property wherein the settlor had not at the date of the marriage any estate or interest, whether vested or contingent, in possession or remainder, and not being money or property in right of the settlor's spouse is, if the settlor becomes bankrupt and the covenant or contract has not been executed at the date of the initial bankruptcy event in respect of the settlor, void against the trustee.
 
 (2) Notwithstanding subsection (1) far as it enables the persons entitled under the covenant or contract to claim a dividend in the settlor's bankruptcy proceedings under or in respect of the covenant or contract, but any such claim to a dividend shall be postponed until all claims of the other creditors have been satisfied.
 
@@ -2224,11 +2256,9 @@ debts growing due under specified contracts, or any assignment of book debts inc
 
 (4) For the purposes of this section, "assignment" includes assignment by way of security and other charges on book debts.
 
-**70.** (1) Every conveyance or transfer of property or charge made Preferences
+*Preferences voidable if made within 3 months.*
 
-*if made within*
-
-on property, every payment made, every obligation incurred and every voidable judicial proceeding taken or suffered by any insolvent person in 3 months. favour of any creditor or of any person in trust for any creditor with a view to giving such creditor or any surety or guarantor for the debt due to such creditor a preference over the other creditors is, where it is made, incurred, taken or suffered within the period beginning on the day that is 3 months before the date of the initial bankruptcy event and ending on the date the insolvent person became bankrupt, both dates included, deemed fraudulent and void as against the trustee in the bankruptcy.
+**70.** (1) Every conveyance or transfer of property or charge made on property, every payment made, every obligation incurred and every judicial proceeding taken or suffered by any insolvent person in favour of any creditor or of any person in trust for any creditor with a view to giving such creditor or any surety or guarantor for the debt due to such creditor a preference over the other creditors is, where it is made, incurred, taken or suffered within the period beginning on the day that is 3 months before the date of the initial bankruptcy event and ending on the date the insolvent person became bankrupt, both dates included, deemed fraudulent and void as against the trustee in the bankruptcy.
 
 (2) Where any conveyance, transfer, charge, payment, obligation, or judicial proceeding mentioned in subsection (1) has the effect of giving any creditor a preference over other creditors, or over any one or more of them, it shall be presumed, in the absence of evidence to the contrary, to have been made, incurred, taken, paid or suffered with a view to giving the creditor a preference over other creditors, whether or not it was made voluntarily or under pressure; and evidence of pressure shall not be admissible to support the transaction.
 
@@ -2266,15 +2296,9 @@ in paragraph (1)(d) means a consideration of fair and reasonable money value wit
 
 (3) Where there have been mutual credit, mutual debts or other mutual dealings between a bankrupt and any other person proving or claiming to prove a debt in the bankruptcy, an account may be taken of what is due from one party to the other in respect of such mutual dealings, and the sum due from the one party shall be set off against any sum due from the other party; and the balance of the account, and no more, shall be claimed or paid on either side respectively.
 
-**73.** (1) Where a person has acquired property of a bankrupt Proceeds
+*Proceeds from dealing with property obtained in void or voidable transaction.*
 
-*dealing with*
-
-under a transaction that is void or under a voidable transaction that is from set aside and has sold, disposed of, realised or collected the property property
-
-*in void or voidable transaction.*
-
-or any part thereof, the money or other proceeds, whether further obtained disposed of or not, shall be deemed the property of the trustee.
+**73.** (1) Where a person has acquired property of a bankrupt under a transaction that is void or under a voidable transaction that is set aside and has sold, disposed of, realised or collected the property or any part thereof, the money or other proceeds, whether further disposed of or not, shall be deemed the property of the trustee.
 
 (2) The trustee may recover the property or the value of the property or the money or proceeds from the property from the person who acquired it from the bankrupt or from any other person to whom he may have resold, transferred or paid over the proceeds of the property as fully and effectually as the trustee could have recovered the property if it had not been so sold, disposed of, realised or collected.
 
@@ -2298,11 +2322,9 @@ or any part thereof, the money or other proceeds, whether further obtained dispo
 
 in the transaction, and the values on which the Court makes any finding pursuant to this section shall be the values so stated by the trustee unless other values are proven.
 
-**76.** (1) Where a corporation that is bankrupt has paid a dividend, Where
+*Where dividend paid by company.*
 
-*paid by*
-
-other than a stock dividend, or redeemed or purchased for can- dividend cellation any of the shares of the capital stock of the corporation within company. the period beginning on the day that is one year before the date of the initial bankruptcy event and ending on the date of the bankruptcy, the Court may, on the application of the trustee, inquire into the transaction to ascertain whether it occurred at a time when the corporation was insolvent or whether it rendered the corporation insolvent.
+**76.** (1) Where a corporation that is bankrupt has paid a dividend, other than a stock dividend, or redeemed or purchased for cancellation any of the shares of the capital stock of the corporation within the period beginning on the day that is one year before the date of the initial bankruptcy event and ending on the date of the bankruptcy, the Court may, on the application of the trustee, inquire into the transaction to ascertain whether it occurred at a time when the corporation was insolvent or whether it rendered the corporation insolvent.
 
 (2) Where a transaction referred to in subsection (1) has occurred, the Court may give judgment to the trustee against the directors of the corporation, jointly and severally, in the amount of the dividend or redemption or purchase price, with interest on the dividend, redemption or purchase price, that has not been paid to the corporation where the Court finds that
 
@@ -2332,13 +2354,17 @@ lies on the directors.
 
 (8) For the purposes of subsection (4), the onus of proving that the corporation was not insolvent at the time the transaction occurred and that the transaction did not render the corporation insolvent lies on the shareholder.
 
-**77.** (1) Where a proposal is made under Part V, sections 66 to 76 Mutatis apply to the proposal with such modifications as the circumstances mutandis. require, except where the proposal otherwise provides.
+*Mutatis mutandis.*
+
+**77.** (1) Where a proposal is made under Part V, sections 66 to 76 apply to the proposal with such modifications as the circumstances require, except where the proposal otherwise provides.
 
 (2) For the purposes of subsection (1), any reference in sections 66 to 76 to "becomes bankrupt" shall be construed as a reference to
 
 "files a proposal", and any reference in those sections to a bankrupt shall be construed as a reference to the debtor in respect of whom the proposal is filed.
 
-**78.** Sections 66 to 76 apply as though the debtor became bankrupt Where on the date of the initial bankruptcy event where the proposal is proposal followed by annulled either by the Court pursuant to section 32(1) or as a result of bankruptcy. a receiving order or assignment.
+*Where proposal followed by bankruptcy.*
+
+**78.** Sections 66 to 76 apply as though the debtor became bankrupt on the date of the initial bankruptcy event where the proposal is annulled either by the Court pursuant to section 32(1) or as a result of a receiving order or assignment.
 
 ### P ART VII
 
@@ -2346,23 +2372,27 @@ lies on the directors.
 
 Meetings of Creditors
 
-**79.** (1) Subject to subsection (2), it is the duty of the trustee Trustee to send notice
+*Trustee to send notice to creditors of first meeting.*
 
-(a) to inquire as to the names and addresses of the creditors of a to creditors of first bankrupt; and
+**79.** (1) Subject to subsection (2), it is the duty of the trustee
 
-meeting.
+(a) to inquire as to the names and addresses of the creditors of a bankrupt; and
 
 (b) within 5 days after the date of the trustee's appointment, to send in the prescribed manner to the bankrupt, to every known
 
 creditor and to the Supervisor a notice in the prescribed form of the bankruptcy and of the first meeting of creditors, to be held within the 21-day period following the day of the trustee's appointment, at the office of the Supervisor; but the Supervisor may, when the Supervisor deems it expedient, authorise the meeting to be held at such other place as the Supervisor may fix.
 
-(2) Where the Supervisor is satisfied that the extension of the period during which the first meeting of creditors must be held will not be detrimental to the creditors and is in the general interests of the administration of the estate, the Supervisor may extend the period
+*period not be*
+
+(2) Where the Supervisor is satisfied that the extension of the during which the first meeting of creditors must be held will detrimental to the creditors and is in the general interests of the administration of the estate, the Supervisor may extend the period
 
 (a) by 10 days; or
 
 (b) where the Supervisor is satisfied that special circumstances exist, by up to 30 days.
 
-(3) The trustee shall include with the notice referred to in subsection (1) a list of the creditors with claims amounting to $50 or more and the amounts of their claims together with a proof of claim and proxy in the prescribed form but no name shall be inserted in the proxy before it is so sent.
+*more and*
+
+(3) The trustee shall include with the notice referred to in subsection (1) a list of the creditors with claims amounting to $50 or and the amounts of their claims together with a proof of claim proxy in the prescribed form but no name shall be inserted in the proxy before it is so sent.
 
 (4) In the case of the bankruptcy of an individual, the trustee shall
 
@@ -2386,17 +2416,23 @@ creditor and to the Supervisor a notice in the prescribed form of the bankruptcy
 
 (d) give such directions to the trustee as the creditors may see fit with reference to the administration of the estate.
 
-**80.** (1) The trustee may at any time call a meeting of creditors Trustee may and he shall do so when directed by the Court and whenever requested call in writing by a majority of the inspectors or by any creditor with the meeting. concurrence of one-sixth in value of the unsecured creditors holding one-sixth in number of the proved unsecured claims.
+*Trustee may call meeting.*
+
+**80.** (1) The trustee may at any time call a meeting of creditors and he shall do so when directed by the Court and whenever requested in writing by a majority of the inspectors or by any creditor with the concurrence of one-sixth in value of the unsecured creditors holding one-sixth in number of the proved unsecured claims.
 
 (2) A meeting of the creditors may be convened by a majority of the inspectors at any time when a trustee is not available to call a meeting or has neglected or failed to do so when so directed by the inspectors.
 
-**81.** (1) Meetings of creditors other than the first shall be called Notice by sending a notice of the time and place of the meeting not less than regarding subsequent 5 days before the time of each meeting to each creditor at the address meetings. given in the creditor's proof of claim.
+*Notice regarding subsequent meetings.*
+
+**81.** (1) Meetings of creditors other than the first shall be called by sending a notice of the time and place of the meeting not less than 5 days before the time of each meeting to each creditor at the address given in the creditor's proof of claim.
 
 (2) After the first meeting of creditors, notice of any meeting or of any proceeding need not be given to any creditors other than those who have proved their claims.
 
 Procedure at Meetings
 
-**82.** (1) The Supervisor or the nominee of the Supervisor shall be Chairman of the chairman at the first meeting of creditors and shall decide any first meeting. questions or disputes arising at the meeting; and any creditor may appeal to the Court from any decision arising from the meeting.
+*Chairman of first meeting.*
+
+**82.** (1) The Supervisor or the nominee of the Supervisor shall be the chairman at the first meeting of creditors and shall decide any questions or disputes arising at the meeting; and any creditor may appeal to the Court from any decision arising from the meeting.
 
 (2) At all meetings of creditors other than the first, the trustee shall be the chairman unless by resolution at the meeting some other person is appointed.
 
@@ -2428,23 +2464,17 @@ Procedure at Meetings
 
 **84.** Every class of creditors may express its views and wishes separately from every other class and the effect to be given to those views and wishes shall, in case of any dispute and subject to this Act, be in the discretion of the Court.
 
-**85.** (1) The chairman of any meeting of creditors has power to Chairman
+*Chairman may admit or reject proofs.*
 
-*admit*
-
-admit or reject a proof of claim for the purpose of voting but his may or reject decision is subject to appeal to the Court.
-
-proofs.
+**85.** (1) The chairman of any meeting of creditors has power to admit or reject a proof of claim for the purpose of voting but his decision is subject to appeal to the Court.
 
 (2) Notwithstanding anything in this Act, the chairman may, for the purpose of voting, accept any letter or printed matter transmitted by any form or mode of telecommunication as proof of the claim of a creditor.
 
 (3) Where the Chairman is in doubt as to whether a proof of claim should be admitted or rejected, the Chairman shall mark the proof as objected to and allow the creditor to vote subject to the vote being declared invalid in the event of the objection being sustained.
 
-**86.** (1) A person is not entitled to vote as a creditor at any Completed
+*Completed proof of claim required to enable voting.*
 
-*of*
-
-meeting of creditors unless that person has duly proved a claim proof claim provable in bankruptcy and the proof of claim has been duly lodged required to with the trustee before the time appointed for the meeting. enable voting.
+**86.** (1) A person is not entitled to vote as a creditor at any meeting of creditors unless that person has duly proved a claim provable in bankruptcy and the proof of claim has been duly lodged with the trustee before the time appointed for the meeting.
 
 (2) A creditor may vote either in person or by proxy.
 
@@ -2488,23 +2518,21 @@ meeting of creditors when all the creditors who have dealt with the debtor at ar
 
 (c) where the bankrupt is a corporation, any wholly-owned subsidiary corporation or any officer, director or employee of the corporation.
 
-**91.** (1) A minute of proceedings at a meeting of creditors under Minutes to this Act signed at the same or the next ensuing meeting by a person be proof of meeting. describing himself as or appearing to be chairman of the meeting at which the minute is signed shall be admitted in evidence without further proof.
+*Minutes to be proof of meeting.*
+
+**91.** (1) A minute of proceedings at a meeting of creditors under this Act signed at the same or the next ensuing meeting by a person describing himself as or appearing to be chairman of the meeting at which the minute is signed shall be admitted in evidence without further proof.
 
 (2) Until the contrary is proved, every meeting of creditors in respect of the proceedings where a minute has been signed by the chairman shall be deemed to have been duly convened and held and all resolutions passed or proceedings at the meeting to have been duly convened and held and to have been duly passed.
 
-**92.** Subject to this Act, all questions at meetings of creditors shall Creditors
+*Creditors vote by dollar.*
 
-*by*
-
-be decided by resolution carried by the majority of votes, and for that vote dollar. purpose the votes of a creditor shall be calculated by counting one vote for each dollar of every claim of the creditor that is not disallowed.
+**92.** Subject to this Act, all questions at meetings of creditors shall be decided by resolution carried by the majority of votes, and for that purpose the votes of a creditor shall be calculated by counting one vote for each dollar of every claim of the creditor that is not disallowed.
 
 Inspectors
 
-**93.** (1) At the first or a subsequent meeting of creditors, the Appoint-
+*Appointment of inspectors.*
 
-*of*
-
-creditors shall appoint one or more, but not exceeding 5, inspectors of ment inspectors. the estate of the bankrupt for the purpose of overseeing the administration of the estate of the trustee bankrupt.
+**93.** (1) At the first or a subsequent meeting of creditors, the creditors shall appoint one or more, but not exceeding 5, inspectors of the estate of the bankrupt for the purpose of overseeing the administration of the estate of the trustee bankrupt.
 
 (2) No person is eligible to be appointed or to act as an inspector unless he satisfies the criteria prescribed and is not a party to any contested action or proceedings by or against the estate of the bankrupt.
 
@@ -2528,15 +2556,15 @@ creditors shall appoint one or more, but not exceeding 5, inspectors of ment ins
 
 **95.** Where there are no inspectors of the estate of the bankrupt or where the inspectors fail to exercise the powers conferred upon them, the trustee shall call a meeting of the creditors for the purpose of appointing inspectors or substituting other inspectors, taking such action or giving such directions as may be necessary.
 
-**96.** (1) Subject to this Act, the trustee shall in the adminis- Directions
+*Directions of creditors to override directions by inspectors.*
 
-*creditors*
-
-tration of the property of the bankrupt and in the distribution of that of to override property among his creditors have regard to any directions that may directions be given by resolution of the creditors at any general meeting or by by inspectors. the inspectors, and any directions so given by the creditors shall in case of conflict be deemed to override any directions given by the inspectors.
+**96.** (1) Subject to this Act, the trustee shall in the administration of the property of the bankrupt and in the distribution of that property among his creditors have regard to any directions that may be given by resolution of the creditors at any general meeting or by the inspectors, and any directions so given by the creditors shall in case of conflict be deemed to override any directions given by the inspectors.
 
 (2) The decisions and actions of the inspectors are subject to review by the Court at the instance of the trustee or any interested person and the Court may revoke or vary any act or decision of the inspectors and it may give such directions, permission or authority as it deems proper in substitution or may refer any matter back to the inspectors for reconsideration.
 
-**97.** (1) No inspector is, directly or indirectly, capable of Miscellane-purchasing or acquiring for himself or for another any of the property ous provisions of the estate for which he is an inspector, except with the prior relating to approval of the Court. inspectors.
+*Miscellaneous provisions relating to inspectors.*
+
+**97.** (1) No inspector is, directly or indirectly, capable of purchasing or acquiring for himself or for another any of the property of the estate for which he is an inspector, except with the prior approval of the Court.
 
 (2) No defect or irregularity in the appointment of an inspector vitiates any act done by him in good faith.
 
@@ -2564,21 +2592,21 @@ Claims Provable
 
 (4) A claim in respect of a debt or liability referred to in section 156(1)(c) or (d) payable under an order or agreement made before the date of the initial bankruptcy event in respect of the bankrupt and at a time when the spouse or child was living apart from the bankrupt, whether the order or agreement provides for periodic amounts or lump sum amounts, is a claim provable under this Act.
 
-**99.** (1) The claims of creditors under a proposal are, in the event Where of a debtor subsequently becoming bankrupt, provable in the bankruptcy follows bankruptcy for the full amount of the claims less any dividends paid proposal. on those claims pursuant to the proposal; and the provable claims of creditors arising after the proposal until the date of bankruptcy shall be provable in the bankruptcy.
+*Where bankruptcy follows proposal.*
+
+**99.** (1) The claims of creditors under a proposal are, in the event of a debtor subsequently becoming bankrupt, provable in the bankruptcy for the full amount of the claims less any dividends paid on those claims pursuant to the proposal; and the provable claims of creditors arising after the proposal until the date of bankruptcy shall be provable in the bankruptcy.
 
 (2) Where interest on any debt or sum certain is provable under this Act but the rate of interest has not been agreed on, the creditor may prove interest at a rate not exceeding 5 per cent per annum to the date of the bankruptcy from the time the debt or sum was payable, if evidenced by a written instrument, or, if not so evidenced, from the time notice has been given to the debtor of the interest claimed.
 
-**100.** Where a bankrupt was, at the date of the bankruptcy, liable in Proof in
+*Proof in respect of distinct contracts.*
 
-*of*
-
-respect of distinct contracts as a member of 2 or more distinct firms, respect distinct or as a sole contractor and also as a member of a firm, the fact that the contracts. firms are in whole or in part composed of the same individuals, or that the sole contractor is also one of the joint contractors, shall not prevent proof, in respect of the contracts, against the properties respectively liable on the contracts.
+**100.** Where a bankrupt was, at the date of the bankruptcy, liable in respect of distinct contracts as a member of 2 or more distinct firms, or as a sole contractor and also as a member of a firm, the fact that the firms are in whole or in part composed of the same individuals, or that the sole contractor is also one of the joint contractors, shall not prevent proof, in respect of the contracts, against the properties respectively liable on the contracts.
 
 Proof of Claims
 
-**101.** (1) Every creditor shall prove his claim, and a creditor who Proof of does not prove his claim is not entitled to share in any distribution that claim required to may be made.
+*Proof of claim required to share in distribution.*
 
-share in distribution.
+**101.** (1) Every creditor shall prove his claim, and a creditor who does not prove his claim is not entitled to share in any distribution that may be made.
 
 (2) A claim shall be proved by delivering to the trustee a proof of claim in the prescribed form.
 
@@ -2610,7 +2638,9 @@ Proof by Secured Creditors
 
 (2) Where a secured creditor surrenders his security to the trustee for the general benefit of the creditors, he may prove his whole claim.
 
-**105.** (1) Where the trustee has knowledge of property that may Trustee may be subject to a security, the trustee may, by serving notice in the require proof of prescribed form, require any person to file, in the prescribed form and claim by manner, a proof of the security that gives full particulars of the secured creditor. security, including the date on which the security was given and the value at which that person assesses it.
+*Trustee may require proof of claim by secured creditor.*
+
+**105.** (1) Where the trustee has knowledge of property that may be subject to a security, the trustee may, by serving notice in the prescribed form, require any person to file, in the prescribed form and manner, a proof of the security that gives full particulars of the security, including the date on which the security was given and the value at which that person assesses it.
 
 (2) Where the trustee serves a notice pursuant to subsection (1), and the person on whom the notice is served does not file a proof of security within 30 days after the day of service of the notice, the trustee may, with leave of the Court, sell or dispose of any property that was subject to the security free of that security.
 
@@ -2618,17 +2648,17 @@ Proof by Secured Creditors
 
 (4) The trustee may redeem a security on payment to the secured creditor of the debt or the value of the security as assessed, in the proof of security, by the secured creditor.
 
-**106.** (1) Where the trustee is dissatisfied with the value at which Trustee may a security is assessed, the trustee may require that the property the require security to security comprises be offered for sale at such time and on such terms be sold. and conditions as may be agreed on between the creditor and the trustee or, in default of such an agreement, as the Court may direct.
+*Trustee may require security to be sold.*
+
+**106.** (1) Where the trustee is dissatisfied with the value at which a security is assessed, the trustee may require that the property the security comprises be offered for sale at such time and on such terms and conditions as may be agreed on between the creditor and the trustee or, in default of such an agreement, as the Court may direct.
 
 (2) Where a sale under subsection (1) is by public auction the creditor or the trustee on behalf of the estate may bid or purchase.
 
 (3) The costs and expenses of a sale made under this section are in the discretion of the Court.
 
-**107.** Notwithstanding section 105(3) and section 106, the creditor Secured
+*Secured creditor may require election of trustee.*
 
-*may*
-
-may, by notice in writing, require the trustee to elect whether he will creditor require exercise the power of redeeming the security or requiring it to be election of realized, and if the trustee does not, within one month after receiving trustee. the notice or such further time or times as the Court may allow, signify in writing to the creditor his election to exercise the power, the trustee is not entitled to exercise that power, and the equity of
+**107.** Notwithstanding section 105(3) and section 106, the creditor may, by notice in writing, require the trustee to elect whether he will exercise the power of redeeming the security or requiring it to be realized, and if the trustee does not, within one month after receiving the notice or such further time or times as the Court may allow, signify in writing to the creditor his election to exercise the power, the trustee is not entitled to exercise that power, and the equity of
 
 redemption or any other interest in the property comprised in the security that is vested in the trustee shall vest in the creditor, and the amount of the claim of the trustee shall be reduced by the amount at which the security has been valued.
 
@@ -2648,13 +2678,19 @@ redemption or any other interest in the property comprised in the security that 
 
 (b) is entitled to be paid out of any money for the time being available for dividend any dividend or share of dividend that he may have failed to receive by reason of the amount of the original valuation before that money is made applicable to the payment of any future dividend, but he is not entitled to disturb the distribution of any dividend declared before the amendment is filed with the trustee.
 
-**110.** Where a secured creditor does not comply with sections 104 Exclusion of secured to 109, he shall be excluded from any dividend.
+*Exclusion of secured creditor from dividend.*
 
-creditor from dividend.
+**110.** Where a secured creditor does not comply with sections 104 to 109, he shall be excluded from any dividend.
 
-**111.** Subject to section 107, a creditor shall in no case receive more No creditor than 100 cents on the dollar and interest as provided by this Act. to receive more than 100 cents on Admission and Disallowance of Proofs of Claim dollar. and Proofs of Security
+*No creditor to receive more than 100 cents on dollar.*
 
-**112.** (1) The trustee shall examine every proof of claim or proof Trustee to of security and the grounds for the proof, and may require further examine proofs. evidence in support of the claim or security.
+**111.** Subject to section 107, a creditor shall in no case receive more than 100 cents on the dollar and interest as provided by this Act.
+
+Admission and Disallowance of Proofs of Claim and Proofs of Security
+
+*Trustee to examine proofs.*
+
+**112.** (1) The trustee shall examine every proof of claim or proof of security and the grounds for the proof, and may require further evidence in support of the claim or security.
 
 (2) The trustee shall determine whether any contingent claim or unliquidated claim is a provable claim and, if it is a provable claim, the trustee shall value it, and the claim is, subject to this section, deemed a proved claim to the amount of its valuation.
 
@@ -2674,13 +2710,17 @@ creditor from dividend.
 
 period allow, the person to whom the notice was provided appeals from the trustee's decision to the Court in accordance with the Bankruptcy Rules.
 
-(6) The Court may expunge or reduce a proof of claim or a proof of security on the application of a creditor or of the debtor if the trustee declines to interfere in the matter.
+*of*
+
+(6) The Court may expunge or reduce a proof of claim or a proof security on the application of a creditor or of the debtor if the trustee declines to interfere in the matter.
 
 Scheme of Distribution
 
 *Preferred creditors. 2003-17. 1*
 
-**113.** (1) Subject to subsection (2) and the rights of secured creditors and the beneficiaries of a trust under section 49 of the Occupational Pension Benefits Act, 2003, the proceeds realised from the property of a bankrupt shall be applied in priority of payment as follows:
+*the*
+
+**113.** (1) Subject to subsection (2) and the rights of secured creditors and the beneficiaries of a trust under section 49 of the Occupational Pension Benefits Act, 2003, the proceeds realised from property of a bankrupt shall be applied in priority of payment as follows:
 
 (a) in the case of a deceased bankrupt, the reasonable funeral and testamentary expenses incurred by the legal personal representative of the deceased bankrupt;
 
@@ -2720,11 +2760,9 @@ Act 2003-17 has not been proclaimed.
 
 (4) A creditor whose rights are restricted by this section is entitled to rank as an unsecured creditor for any balance of claim due him.
 
-**114.** A creditor who entered into a reviewable transaction with a Where
+*Where reviewable transaction.*
 
-*transaction.*
-
-debtor at any time prior to the bankruptcy of the debtor is not entitled reviewable to claim a dividend in respect of a claim arising out of that transaction until all claims of the other creditors have been satisfied, unless the transaction was in the opinion of the trustee or of the Court a proper transaction.
+**114.** A creditor who entered into a reviewable transaction with a debtor at any time prior to the bankruptcy of the debtor is not entitled to claim a dividend in respect of a claim arising out of that transaction until all claims of the other creditors have been satisfied, unless the transaction was in the opinion of the trustee or of the Court a proper transaction.
 
 *Claim of relative of bankrupt.*
 
@@ -2754,17 +2792,21 @@ debtor at any time prior to the bankruptcy of the debtor is not entitled reviewa
 
 (5) Where the joint property of any bankrupt partnership is insufficient to defray any costs properly incurred, the trustee may pay such costs as cannot be paid out of the joint property out of the separate property of the bankrupts or one or more of them in such proportion as he may determine with the consent of the inspectors of the estates out of which the payment is intended to be made, or, if the inspectors withhold or refuse their consent, with the approval of the Court.
 
-**120.** Where there is a surplus after payment of the claims as Where provided in sections 113 to 119, it shall be applied in payment of surplus remains interest from the date of the bankruptcy at the rate of 6 per cent per after claims annum on all claims proved in the bankruptcy and according to their paid. priority.
+*Where surplus remains after claims paid.*
 
-**121.** The bankrupt or the legal personal representative of a deceased Final
+**120.** Where there is a surplus after payment of the claims as provided in sections 113 to 119, it shall be applied in payment of interest from the date of the bankruptcy at the rate of 6 per cent per annum on all claims proved in the bankruptcy and according to their priority.
 
-*to*
+*Final surplus to bankrupt.*
 
-bankrupt is entitled to any surplus remaining after payment in full of surplus bankrupt. his creditors with interest as provided by this Act and of the costs, charges and expenses of the bankruptcy proceedings.
+**121.** The bankrupt or the legal personal representative of a deceased bankrupt is entitled to any surplus remaining after payment in full of his creditors with interest as provided by this Act and of the costs, charges and expenses of the bankruptcy proceedings.
 
-**122.** Nothing in this Act affects the right of any person who has a Motor claim against the bankrupt for damages on account of injury to or vehicle insurance. death of any person, or injury to property, occasioned by a motor vehicle, or on account of injury to property being carried in or on a motor vehicle, to have the proceeds of any liability insurance policy applied in or toward the satisfaction of the claim.
+*Motor vehicle insurance.*
 
-**123.** (1) For the purpose of defraying the expenses of the super- Supervisor's vision by the Supervisor, there shall be payable to the Supervisor for levy. deposit with the Crown a levy on all payments made by the trustee by
+**122.** Nothing in this Act affects the right of any person who has a claim against the bankrupt for damages on account of injury to or death of any person, or injury to property, occasioned by a motor vehicle, or on account of injury to property being carried in or on a motor vehicle, to have the proceeds of any liability insurance policy applied in or toward the satisfaction of the claim.
+
+*Supervisor's levy.*
+
+**123.** (1) For the purpose of defraying the expenses of the supervision by the Supervisor, there shall be payable to the Supervisor for deposit with the Crown a levy on all payments made by the trustee by
 
 way of dividend or otherwise on account of the claims of creditors, whether unsecured, preferred or secured creditors, and including the Crown claiming in respect of taxes or otherwise.
 
@@ -2788,23 +2830,25 @@ Dividends
 
 taxing authority may notify the trustee within the period referred to in subsection (1) that it proposes to file a claim as soon as the amount has been ascertained, and the time for filing the claim shall thereupon be extended to 3 months or such further time as the Court may allow.
 
-(3) Notwithstanding subsection (2), a claim may be filed for an amount payable under the Income Tax Act within the time limit Cap. 73. referred to in subsection (2) or within 3 months from the time the return of income or other evidence of the facts on which the claim is based is filed or comes to the attention of the Crown.
+*Cap. 73.*
 
-(4) Unless the trustee retains sufficient funds to provide for payment of any claims that may be filed under the Income Tax Act, no Cap. 73. dividend shall be declared until the expiration of 3 months after the trustee has filed all returns that the trustee is required to file.
+(3) Notwithstanding subsection (2), a claim may be filed for an amount payable under the Income Tax Act within the time limit referred to in subsection (2) or within 3 months from the time the return of income or other evidence of the facts on which the claim is based is filed or comes to the attention of the Crown.
 
-**126.** A creditor who has not proved his claim before the Where claim declaration of any dividend is entitled on proof of his claim to be paid, proven after dividend out of any money for the time being in the hands of the trustee, any declared. dividend or dividends he may have failed to receive before that money is applied to the payment of any future dividend, but he is not entitled to disturb the distribution of any dividend declared before his claim was proved for the reason that he has not participated in that dividend, except on such terms and conditions as may be ordered by the Court.
+*Cap. 73.*
 
-**127.** When the trustee has realized all the property of the bankrupt Final
+(4) Unless the trustee retains sufficient funds to provide for payment of any claims that may be filed under the Income Tax Act, no dividend shall be declared until the expiration of 3 months after the trustee has filed all returns that the trustee is required to file.
 
-*of*
+*Where claim proven after dividend declared.*
 
-or all of that property that can, in the joint opinion of the trustee and of statement receipts and the inspectors, be realized without needlessly protracting the disburse-administration, and settled or determined or caused to be settled or ments to be prepared. determined the claims of all creditors to rank against the estate of the bankrupt, the trustee shall prepare a final statement of receipts and disbursements and dividend sheet and, subject to this Act, divide the property of the bankrupt among the creditors who have proved their claims.
+**126.** A creditor who has not proved his claim before the declaration of any dividend is entitled on proof of his claim to be paid, out of any money for the time being in the hands of the trustee, any dividend or dividends he may have failed to receive before that money is applied to the payment of any future dividend, but he is not entitled to disturb the distribution of any dividend declared before his claim was proved for the reason that he has not participated in that dividend, except on such terms and conditions as may be ordered by the Court.
 
-**128.** (1) The trustee's final statement of receipts and disburse- Final
+*Final statement of receipts and disburse-ments to be prepared.*
 
-*to*
+**127.** When the trustee has realized all the property of the bankrupt or all of that property that can, in the joint opinion of the trustee and of the inspectors, be realized without needlessly protracting the administration, and settled or determined or caused to be settled or determined the claims of all creditors to rank against the estate of the bankrupt, the trustee shall prepare a final statement of receipts and disbursements and dividend sheet and, subject to this Act, divide the property of the bankrupt among the creditors who have proved their claims.
 
-ments shall contain a complete account of all monies received by the statement be complete trustee out of the property of the bankrupt or otherwise, the amount of account. interest received by the trustee, all monies disbursed and expenses
+*Final statement to be complete account.*
+
+**128.** (1) The trustee's final statement of receipts and disburse-ments shall contain a complete account of all monies received by the trustee out of the property of the bankrupt or otherwise, the amount of interest received by the trustee, all monies disbursed and expenses
 
 incurred and the remuneration claimed by the trustee, together with full particulars, description and value of all property of the bankrupt that has not been sold or realised, setting out the reason why the property has not been sold or realised and the disposition made thereof.
 
@@ -2824,19 +2868,23 @@ incurred and the remuneration claimed by the trustee, together with full particu
 
 (6) No interested person is entitled to object to the final statement and the dividend sheet unless, prior to the expiration of the 15 days referred to in subsection (5)(c), that person files notice of his objection with the Registrar setting out his reasons for the objection and serves a copy of the notice on the trustee.
 
-**129.** Where joint and separate properties are being administered, Dividends the dividends may be declared together, and the expenses of on joint and separate administering the properties shall be apportioned by the trustee.
+*Dividends on joint and separate properties.*
 
-properties.
+**129.** Where joint and separate properties are being administered, the dividends may be declared together, and the expenses of administering the properties shall be apportioned by the trustee.
 
-**130.** (1) Before proceeding to discharge, the trustee shall forward Unclaimed to the Supervisor for deposit, as prescribed, the unclaimed dividends dividends and undistri-and undistributed funds that the trustee possesses, other than those buted funds. exempted by the Bankruptcy Rules, and shall provide a list of names and the post office addresses, in so far as known, of the creditors entitled to the unclaimed dividends, showing the amount payable to each creditor.
+*Unclaimed dividends and undistributed funds.*
+
+**130.** (1) Before proceeding to discharge, the trustee shall forward to the Supervisor for deposit, as prescribed, the unclaimed dividends and undistributed funds that the trustee possesses, other than those exempted by the Bankruptcy Rules, and shall provide a list of names and the post office addresses, in so far as known, of the creditors entitled to the unclaimed dividends, showing the amount payable to each creditor.
 
 (2) The Supervisor shall, after receiving the dividends and funds and the list referred to in subsection (1), on application, pay to any creditor his proper dividend as shown on that list, and such payment has effect as if made by the trustee.
 
 Summary Administration
 
-**131.** The following provisions apply to the summary administra- Provisions tion of estates under this Act: applying to summary administra-
+*Provisions applying to summary administration.*
 
-(a) all proceedings under this section shall be titled "Summary tion. Administration";
+**131.** The following provisions apply to the summary administration of estates under this Act:
+
+(a) all proceedings under this section shall be titled "Summary Administration";
 
 (b) the security to be deposited by a trustee under section 185 shall not be required unless directed by the Supervisor;
 
@@ -2874,7 +2922,9 @@ may be given in a single notice in the prescribed form;
 
 **132.** For the summary administration of estates, the trustee shall receive such fees and disbursements as may be prescribed.
 
-**133.** Except as provided in section 131, all provisions of this Act, Mutatis in so far as they are applicable, apply with such modifications as the mutandis. circumstances require to summary administration.
+*Mutatis mutandis.*
+
+**133.** Except as provided in section 131, all provisions of this Act, in so far as they are applicable, apply with such modifications as the circumstances require to summary administration.
 
 ### P ART VIII
 
@@ -2882,7 +2932,9 @@ may be given in a single notice in the prescribed form;
 
 Counselling Services
 
-**134.** (1) The trustee shall provide, or provide for, counselling for Trustee to an individual bankrupt and his immediate family as prescribed, and counsel individual the estate of the bankrupt shall pay the costs of the counselling, as bankrupts. costs of administration of the estate, according to the prescribed tariff.
+*Trustee to counsel individual bankrupts.*
+
+**134.** (1) The trustee shall provide, or provide for, counselling for an individual bankrupt and his immediate family as prescribed, and the estate of the bankrupt shall pay the costs of the counselling, as costs of administration of the estate, according to the prescribed tariff.
 
 (2) Where counselling is provided by a trustee to a debtor who is not bankrupt, that counselling must be provided as prescribed.
 
@@ -2890,7 +2942,9 @@ Counselling Services
 
 Duties of Bankrupts
 
-**135.** A bankrupt shall Duties of bankrupts.
+*Duties of bankrupts.*
+
+**135.** A bankrupt shall
 
 (a) make discovery of and deliver all his property that is under his possession or control to the trustee or to any person authorised by the trustee to take possession of it or any part thereof;
 
@@ -2978,13 +3032,17 @@ Examination of Bankrupts and Others
 
 (4) Where a bankrupt fails to present himself for examination by the Supervisor, the Supervisor shall report the failure to the trustee.
 
-**139.** (1) The Supervisor may make or cause to be made any Investigation inquiry or investigation that may be deemed necessary in respect of by Supervisor the conduct of the bankrupt, the causes of his bankruptcy, and the regarding disposition of his property, and the Supervisor shall report the bankrupt. findings on any such inquiry or investigation to the trustee and to the Court.
+*Investigation by Supervisor regarding bankrupt.*
+
+**139.** (1) The Supervisor may make or cause to be made any inquiry or investigation that may be deemed necessary in respect of the conduct of the bankrupt, the causes of his bankruptcy, and the disposition of his property, and the Supervisor shall report the findings on any such inquiry or investigation to the trustee and to the Court.
 
 (2) Where pursuant to subsection (1) an inquiry or investigation is made by the Supervisor, the Supervisor shall, out of the monies appropriated by Parliament to defray the expenses of the office of the Supervisor, pay such reasonable costs and expenses incurred in connection with the inquiry or investigation, not being ordinary costs or expenses of his office.
 
 (3) Section 141 applies in respect of an inquiry or investigation under subsection (1).
 
-**140.** (1) The trustee, on ordinary resolution passed by the Trustee may creditors or on the written request or resolution of a majority of the examine bankrupt inspectors, may, without an order, examine under oath before the and others. Registrar or other authorised person, the bankrupt, any person reasonably thought to have knowledge of the affairs of the bankrupt or any person who is or has been an agent, clerk, servant, officer, director or employee of the bankrupt, respecting the bankrupt, his dealings or property, and may order any person liable to be so examined to produce any books, documents, correspondence or papers in his possession or power relating in whole or in part to the bankrupt, his dealings or property.
+*Trustee may examine bankrupt and others.*
+
+**140.** (1) The trustee, on ordinary resolution passed by the creditors or on the written request or resolution of a majority of the inspectors, may, without an order, examine under oath before the Registrar or other authorised person, the bankrupt, any person reasonably thought to have knowledge of the affairs of the bankrupt or any person who is or has been an agent, clerk, servant, officer, director or employee of the bankrupt, respecting the bankrupt, his dealings or property, and may order any person liable to be so examined to produce any books, documents, correspondence or papers in his possession or power relating in whole or in part to the bankrupt, his dealings or property.
 
 (2) On the application to the Court by the Supervisor, any creditor or other interested person and on sufficient cause being shown, the Court may make an order for the examination under oath, before the Registrar or other authorised person, of
 
@@ -3000,33 +3058,27 @@ for the purpose of investigating the administration of the estate of any bankrup
 
 (3) The evidence of any person examined under this section shall, if transcribed, be filed in the Court and may be read in any proceedings before the Court under this Act and to which the person examined is a party.
 
-*Trustee may require delivery of*
+*Trustee may require delivery of property of bankrupt and production of books and records.*
 
-**141.** (1) Where a person has, or is believed or suspected to have, in his possession or power any of the property of the bankrupt, or any property of book, document or paper of any kind relating in whole or in part to the
-
-*bankrupt and production*
-
-bankrupt, his dealings or property, or showing that he is indebted to the bankrupt, he may be required by the trustee to produce the book,
-
-*records.*
-
-of books and document or paper for the information of the trustee, or to deliver to him any property of the bankrupt in his possession.
+**141.** (1) Where a person has, or is believed or suspected to have, in his possession or power any of the property of the bankrupt, or any book, document or paper of any kind relating in whole or in part to the bankrupt, his dealings or property, or showing that he is indebted to the bankrupt, he may be required by the trustee to produce the book, document or paper for the information of the trustee, or to deliver to him any property of the bankrupt in his possession.
 
 (2) Where a person fails to produce a book, document or paper or to deliver property as required by this section within 5 days after being required to do so, the trustee may, without an order, examine the person before the Registrar or other authorised person concerning the property, book, document or paper that the person is supposed to possess.
 
 (3) Any person referred to in subsection (1) may be compelled to attend and testify, and to produce on his examination any book, document or paper that under this section he is liable to produce, in the same manner and subject to the same rules of examination, and the same consequences of neglecting to attend or refusing to disclose the matters in respect of which he may be examined, as would apply to a bankrupt.
 
-**142.** (1) Where a person on examination admits that he is indebted Where to the bankrupt, the Court may, on the application of the trustee, order person may be ordered him to pay to the trustee, at such time and in such manner as to the by Court to Court seems expedient, the amount admitted or any part of the amount pay trustee. either in full discharge of the whole amount in question or not, as the Court thinks fit, with or without costs of the examination.
+*Where person may be ordered by Court to pay trustee.*
+
+**142.** (1) Where a person on examination admits that he is indebted to the bankrupt, the Court may, on the application of the trustee, order him to pay to the trustee, at such time and in such manner as to the Court seems expedient, the amount admitted or any part of the amount either in full discharge of the whole amount in question or not, as the Court thinks fit, with or without costs of the examination.
 
 (2) Where any person on examination admits that he has in his possession any property belonging to the bankrupt, the Court may, on the application of the trustee, order him to deliver to the trustee the property or any part of the property at such time, in such manner and on such terms as to the Court may seem just.
 
-**143.** Where the bankrupt fails to present himself for examination Issue of
+*Issue of warrant for apprehension and examination of persons.*
 
-*for*
+**143.** Where the bankrupt fails to present himself for examination before the Supervisor as required by section 135(d) or where he or any other person is served with an appointment or summons to attend for any examination but refuses or neglects to attend as required by the appointment or summons, the Court may, on the application of the trustee, by warrant cause the bankrupt or other person so in default to be apprehended and brought up for examination.
 
-before the Supervisor as required by section 135(d) or where he or any warrant apprehen-other person is served with an appointment or summons to attend for sion and any examination but refuses or neglects to attend as required by the examination of persons. appointment or summons, the Court may, on the application of the trustee, by warrant cause the bankrupt or other person so in default to be apprehended and brought up for examination.
+*Examination by Court.*
 
-**144.** (1) Any person being examined is bound to answer all Examination questions relating to the business or property of the bankrupt, to the by Court. causes of his bankruptcy and the disposition of his property.
+**144.** (1) Any person being examined is bound to answer all questions relating to the business or property of the bankrupt, to the causes of his bankruptcy and the disposition of his property.
 
 (2) The Court may order that any person who, if in Barbados, would be liable to be brought before the Court for any examination under this Act, shall be examined in any place out of Barbados.
 
@@ -3034,7 +3086,9 @@ Arrest of Bankrupts
 
 *Court order for arrest of bankrupt.*
 
-**145.** (1) The Court may by warrant cause a bankrupt to be arrested and detained, and any books, papers and property in his possession to be seized, and the books, papers, electronic documents and property to be safely kept as directed until such time as the Court may order, under the following circumstances:
+*and may*
+
+**145.** (1) The Court may by warrant cause a bankrupt to be arrested and detained, and any books, papers and property in his possession to be seized, and the books, papers, electronic documents property to be safely kept as directed until such time as the Court order, under the following circumstances:
 
 (a) where, after the filing of a bankruptcy petition against the bankrupt, it appears to the Court that there are grounds for believing that he has absconded or is about to abscond from Barbados with a view
 
@@ -3058,17 +3112,15 @@ Arrest of Bankrupts
 
 (e) where after the commencement of proceedings under this Act, the bankrupt has failed to obey an order of the Court.
 
-(2) No payment or proposal made or security given after arrest made under this section is exempt from the provisions of this Act relating to fraudulent preferences.
+*made*
+
+(2) No payment or proposal made or security given after arrest under this section is exempt from the provisions of this Act relating to fraudulent preferences.
 
 Discharge of Bankrupts
 
-**146.** (1) Except as provided in subsection (2), the following Automatic
+*Automatic discharge of first-time individual bankrupt.*
 
-*of first-time*
-
-provisions apply in respect of an individual who has never before been discharge bankrupt under the laws of Barbados or any prescribed jurisdiction: individual
-
-*bankrupt.*
+**146.** (1) Except as provided in subsection (2), the following provisions apply in respect of an individual who has never before been bankrupt under the laws of Barbados or any prescribed jurisdiction:
 
 (a) the trustee shall, before the expiration of the 8-month period immediately following the date on which a receiving order is made against, or an assignment is made by, the individual bankrupt, file a report prepared under section 148(1) with the Supervisor and send a copy of the report to the bankrupt and to each creditor who requested a copy;
 
@@ -3100,15 +3152,9 @@ Supervisor, to the trustee and to the bankrupt at any time prior to the expirati
 
 (4) An automatic discharge by virtue of paragraph (1)(g) is deemed, for all purposes, to be an absolute and immediate order of discharge.
 
-**147.** (1) Subject to section 146, the making of a receiving order Bankruptcy
+*Bankruptcy of an individual operates as an application for discharge.*
 
-*an individual*
-
-against, or an assignment by, any person except a corporation operates of as an application for discharge, unless the bankrupt, by notice in operates as
-
-*application for*
-
-writing, files in the Court and serves on the trustee a waiver of an application before being served by the trustee with a notice of the discharge. trustee's intention to apply to the Court for an appointment for the hearing of the application as provided in this section.
+**147.** (1) Subject to section 146, the making of a receiving order against, or an assignment by, any person except a corporation operates as an application for discharge, unless the bankrupt, by notice in writing, files in the Court and serves on the trustee a waiver of application before being served by the trustee with a notice of the trustee's intention to apply to the Court for an appointment for the hearing of the application as provided in this section.
 
 (2) The trustee, before proceeding to the discharge and in any case not earlier than 3 months and not later than one year following the bankruptcy of any person who has not served a notice of waiver on the trustee, shall on 5 days notice to the bankrupt apply to the Court for an appointment for a hearing of the application on a date not more than 30 days after the date of the appointment or at such other time as may be fixed by the Court at the request of the bankrupt or trustee.
 
@@ -3190,15 +3236,13 @@ and the provisions of this Part in respect of applications to the Court under th
 
 (9) Documents contained in a file on the mediation of a matter under this section form part of the records referred to in section 9(2).
 
-**150.** (1) On the hearing of an application of a bankrupt for a Powers of
+*Powers of Court in relation to discharge.*
 
-*in relation to discharge.*
-
-discharge, the Court may put such questions to the debtor and receive Court such evidence as it thinks fit.
+**150.** (1) On the hearing of an application of a bankrupt for a discharge, the Court may put such questions to the debtor and receive such evidence as it thinks fit.
 
 (2) On the hearing of an application of a bankrupt for a discharge, the Court may either grant or refuse an absolute order of discharge or suspend the operation of the order for a specified time, or grant an order of discharge subject to any terms or conditions with respect to any earnings or income that may afterwards become due to the bankrupt or with respect to his after-acquired property.
 
-(3) The Court shall on proof of any of the facts mentioned in section 151
+The Court shall on proof of any of the facts mentioned in section 151
 
 (a) refuse the discharge of a bankrupt;
 
@@ -3206,7 +3250,9 @@ discharge, the Court may put such questions to the debtor and receive Court such
 
 (c) require the bankrupt, as a condition of his discharge, to perform such acts, pay such monies, consent to such judgments, or comply with such other terms, as the Court may direct.
 
-(4) Where at any time after the expiration of one year after the date of any order made under this section the bankrupt satisfies the Court that there is no reasonable probability of his being in a position to comply with the terms of the order, the Court may modify the terms of the order or of any substituted order, in such manner and on such conditions as it may think fit.
+*date Court to*
+
+(4) Where at any time after the expiration of one year after the of any order made under this section the bankrupt satisfies the that there is no reasonable probability of his being in a position comply with the terms of the order, the Court may modify the terms of the order or of any substituted order, in such manner and on such conditions as it may think fit.
 
 (5) The powers of suspending and of attaching conditions to the discharge of a bankrupt may be exercised concurrently.
 
@@ -3218,7 +3264,7 @@ discharge, the Court may put such questions to the debtor and receive Court such
 
 (b) the bankrupt has omitted to keep such books of account as are usual and proper in the business carried on by the bankrupt and as sufficiently disclose the business transactions and financial position of the bankrupt within the 3 years before the date of the initial bankruptcy event;
 
-(c) the bankrupt has continued to trade after becoming aware of being insolvent;
+the bankrupt has continued to trade after becoming aware of being insolvent;
 
 (d) the bankrupt has failed to account satisfactorily for any loss of assets or for any deficiency of assets to meet the bankrupt's liabilities;
 
@@ -3236,7 +3282,7 @@ discharge, the Court may put such questions to the debtor and receive Court such
 
 (k) the bankrupt has been guilty of any fraud or fraudulent breach of trust;
 
-(l) the bankrupt has committed any offence under this Act or any other statute in connection with the bankrupt's property, the bankruptcy or the proceedings under the bankruptcy;
+the bankrupt has committed any offence under this Act or any other statute in connection with the bankrupt's property, the bankruptcy or the proceedings under the bankruptcy;
 
 (m) the bankrupt has failed to comply with a requirement to pay imposed under section 39;
 
@@ -3268,17 +3314,19 @@ and the trustee or any creditor may require the bankrupt to attend for examinati
 
 (3) Where a conditional order of discharge of a bankrupt is made providing for payment of a further dividend or sum of money by the bankrupt, all payments on account in respect of the dividend or sum of money shall be made to the trustee for distribution to the creditors.
 
-*Court may consider of settlement*
+*Court may consider effects of settlement before marriage.*
 
 **155.** Where
 
-(a) a settlement is made before and in consideration of marriage effects and the settlor is not at the time of making the settlement able before to pay all his debts without the aid of the property comprised marriage. in the settlement; or
+(a) a settlement is made before and in consideration of marriage and the settlor is not at the time of making the settlement able to pay all his debts without the aid of the property comprised in the settlement; or
 
 (b) any covenant or contract is made in consideration of marriage for the future settlement on or for the settlor's spouse or children of any property the settlor had not at the date of marriage any estate or interest, not being property of or in right of his or her spouse,
 
 if the settlor becomes bankrupt and it appears to the Court that the settlement, covenant or contract was made in order to defeat or delay his creditors, or was unjustifiable having regard to the state of the
 
-settlor's affairs at the time when it was made, the Court may refuse or suspend an order of discharge or grant an order subject to conditions in like manner as in cases where the bankrupt has been guilty of fraud.
+*in like*
+
+settlor's affairs at the time when it was made, the Court may refuse or suspend an order of discharge or grant an order subject to conditions manner as in cases where the bankrupt has been guilty of fraud.
 
 *Debts not released by order of discharge.*
 
@@ -3306,15 +3354,21 @@ settlor's affairs at the time when it was made, the Court may refuse or suspend 
 
 (2) Subject to subsection (1), an order of discharge releases the bankrupt from all claims provable in bankruptcy.
 
-**157.** An order of discharge does not release a person who at the Third parties date of the bankruptcy was a partner or co-trustee with the bankrupt or not released. was jointly bound or had made a joint contract with the bankrupt, or a person who was surety or in the nature of a surety for the bankrupt.
+*Third parties not released.*
 
-**158.** (1) Where a bankrupt after his discharge fails to perform Court may the duties imposed on him by this Act, the Court may, on application, annul discharge. annul his discharge.
+**157.** An order of discharge does not release a person who at the date of the bankruptcy was a partner or co-trustee with the bankrupt or was jointly bound or had made a joint contract with the bankrupt, or a person who was surety or in the nature of a surety for the bankrupt.
+
+*Court may annul discharge.*
+
+**158.** (1) Where a bankrupt after his discharge fails to perform the duties imposed on him by this Act, the Court may, on application, annul his discharge.
 
 (2) Where it appears to the Court that the discharge of a bankrupt was obtained by fraud, the Court may, on application, annul his discharge.
 
 (3) An order revoking or annulling the discharge of a bankrupt does not prejudice the validity of a sale, disposition of property, payment made or thing duly done before the revocation or annulment of the discharge.
 
-**159.** (1) Where in the opinion of the Court a receiving order ought Court may not to have been made or an assignment ought not to have been filed, annul bankruptcy. the Court may by order annul the bankruptcy.
+*Court may annul bankruptcy.*
+
+**159.** (1) Where in the opinion of the Court a receiving order ought not to have been made or an assignment ought not to have been filed, the Court may by order annul the bankruptcy.
 
 (2) Where an order is made under subsection (1), all sales, dispositions of property, payments duly made and acts done theretofore by the trustee or other person acting under his authority, or by the Court, are valid, but the property of the bankrupt shall vest in such person as the Court may appoint or, in default of that appointment, without any conveyance or assignment whatever revert to and revest in the debtor for all his estate and interest in the property upon such terms and subject to such conditions, if any, as the Court may order.
 
@@ -3328,9 +3382,9 @@ settlor's affairs at the time when it was made, the Court may refuse or suspend 
 
 Supervisor
 
-*Appointment of Supervisor.*
+*Appointment of of Supervisor.*
 
-**161.** (1) For the purposes of this Act, there shall be a Supervisor of Insolvency, who shall be responsible to the Minister for the general administration of this Act and whose office shall be a public office.
+**161.** (1) For the purposes of this Act, there shall be a Supervisor Insolvency, who shall be responsible to the Minister for the general administration of this Act and whose office shall be a public office.
 
 (2) The Supervisor shall supervise the administration of all estates and matters to which this Act applies.
 
@@ -3354,11 +3408,9 @@ Supervisor
 
 (4) The Supervisor may intervene in any matter or proceeding in Court, where the Supervisor considers it expedient to do so, as if the Supervisor were a party to the matter or proceedings.
 
-**162.** (1) The Supervisor, or anyone duly authorized by him in Access to
+*Access to trustee's accounts.*
 
-*accounts.*
-
-writing on his behalf, is entitled to have access to and to examine and trustee's make copies of the banking accounts of a trustee in which estate funds may have been deposited, and, when required, all deposit slips, cancelled cheques or other documents relating to the banking accounts in the custody of the bank or the trustee shall be produced for examination.
+**162.** (1) The Supervisor, or anyone duly authorized by him in writing on his behalf, is entitled to have access to and to examine and make copies of the banking accounts of a trustee in which estate funds may have been deposited, and, when required, all deposit slips, cancelled cheques or other documents relating to the banking accounts in the custody of the bank or the trustee shall be produced for examination.
 
 (2) The Supervisor, or anyone duly authorised in writing by or on behalf of the Supervisor, may with the leave of the Court granted on an ex parte application examine the books, records and deposit accounts of a trustee or any other person designated in the order granting that leave for the purpose of tracing or discovering the property or funds of an estate when there are reasonable grounds to believe or suspect that the property or funds of an estate have not been properly disclosed or dealt with and for that purpose may under a warrant from the Court enter on and search any premises.
 
@@ -3394,11 +3446,9 @@ and may order any person liable to be so examined to produce any books and recor
 
 (3) A person being examined pursuant to this section is bound to answer all questions relating to the conduct, dealings and transactions of the debtor, the causes of the debtor's bankruptcy or insolvency and the disposition of the debtor's property.
 
-(4) A statement or admission made by any person in any compulsory examination or deposition before the Court on the hearing of any matter in bankruptcy shall not be admissible as evidence against that person in any proceeding in respect of any
-
 *Cap. 155.*
 
-offence against the Theft Act.
+(4) A statement or admission made by any person in any compulsory examination or deposition before the Court on the hearing of any matter in bankruptcy shall not be admissible as evidence against that person in any proceeding in respect of any offence against the Theft Act.
 
 (5) No person shall hinder, molest or interfere with any person doing anything that he is authorised by or pursuant to this section to do, or prevent or attempt to prevent any person doing any such thing, and, notwithstanding any other Act or law, every person shall, unless he is unable to do so, do everything he is required by or pursuant to this section to do.
 
@@ -3434,13 +3484,13 @@ Licensing of Trustees
 
 (2) The Supervisor, after such investigation concerning an applicant for a licence to act as a trustee as the Supervisor considers necessary, may issue the licence if the Supervisor having regard to the qualifications prescribed is satisfied that the applicant is qualified to obtain the licence.
 
-**166.** A licence shall be in the prescribed form and shall be subject Form of to such conditions and limitations as are specified by the Supervisor licence. in the licence.
+*Form of licence.*
 
-**167.** (1) Prior to the issue of a licence, the applicant shall pay Payment of
+**166.** A licence shall be in the prescribed form and shall be subject to such conditions and limitations as are specified by the Supervisor in the licence.
 
-*fees.*
+*Payment of fees.*
 
-such fees as may be prescribed.
+**167.** (1) Prior to the issue of a licence, the applicant shall pay such fees as may be prescribed.
 
 (2) On the 31st day of December following the day on which a licence is issued, and on the 31st day of December in each year thereafter, the trustee shall pay such fees as may be prescribed.
 
@@ -3502,11 +3552,9 @@ Conduct of Trustees
 
 without making, at the time of being appointed as trustee in relation to the estate of the debtor and at the first meeting of creditors, full disclosure of that fact and of the potential conflict of interest.
 
-**169.** (1) No trustee shall, while acting as the trustee of an estate, Independent
+*Independent legal opinion.*
 
-*opinion.*
-
-act for or assist a secured creditor of the estate to assert any claim legal against the estate or to realize or otherwise deal with the security that the secured creditor holds, unless the trustee has obtained a written opinion of an attorney who does not act for the secured creditor that the security is valid and enforceable as against the estate.
+**169.** (1) No trustee shall, while acting as the trustee of an estate, act for or assist a secured creditor of the estate to assert any claim against the estate or to realize or otherwise deal with the security that the secured creditor holds, unless the trustee has obtained a written opinion of an attorney who does not act for the secured creditor that the security is valid and enforceable as against the estate.
 
 (2) On commencing to act for or assist a secured creditor of the estate in the manner set out in subsection (1), a trustee shall notify forthwith the Supervisor and the creditors or the inspectors
 
@@ -3552,7 +3600,9 @@ the Supervisor may do one or more of the following:
 
 (2) This section and section 174 apply, in so far as they are applicable, in respect of former trustees, with such modifications as the circumstances require.
 
-**174.** (1) Where the Supervisor intends to exercise any of the Notice to powers referred to in subsection 173(1), the Supervisor shall send the trustee. trustee written notice of the powers that the Supervisor intends to exercise and the reasons therefor and afford the trustee a reasonable opportunity for a hearing.
+*Notice to trustee.*
+
+**174.** (1) Where the Supervisor intends to exercise any of the powers referred to in subsection 173(1), the Supervisor shall send the trustee written notice of the powers that the Supervisor intends to exercise and the reasons therefor and afford the trustee a reasonable opportunity for a hearing.
 
 (2) At a hearing referred to in subsection (1), the Supervisor
 
@@ -3610,13 +3660,13 @@ the Supervisor may do one or more of the following:
 
 (4) A person who complies with a direction given pursuant to subsection (1) is not liable for any act done by the person only in compliance with that direction.
 
-**176.** The Court on the application of any interested person, may Court
+*Court removal of trustee.*
 
-*of*
+**176.** The Court on the application of any interested person, may for cause remove a trustee and appoint another licensed trustee in the trustee's place.
 
-for cause remove a trustee and appoint another licensed trustee in the removal trustee. trustee's place.
+*Appointment by Supervisor of nonlicensed trustee.*
 
-**177.** Where no licensed trustee can be found who is willing to act Appoint-as trustee, the Court or the Supervisor may appoint a responsible person ment by Supervisor to administer the estate of the debtor, and that person, for that purpose, of non-has all the powers of a licensed trustee under this Act, and the licensed trustee. provisions of this Act apply to that person as if a licence had been issued to that person under paragraph (a) of section 161(3).
+**177.** Where no licensed trustee can be found who is willing to act as trustee, the Court or the Supervisor may appoint a responsible person to administer the estate of the debtor, and that person, for that purpose, has all the powers of a licensed trustee under this Act, and the provisions of this Act apply to that person as if a licence had been issued to that person under paragraph (a) of section 161(3).
 
 *Duty to act.*
 
@@ -3640,7 +3690,9 @@ unless it is established that the condition arose or the damage occurred as a re
 
 (7) Notwithstanding anything in any law but subject to subsection (5), where an order is made which has the effect of requiring a trustee to remedy any environmental condition or environmental damage affecting property involved in a bankruptcy, proposal or receivership,
 
-the trustee is not personally liable for failure to comply with the order, and is not personally liable for any costs that are or would be incurred by any person in carrying out the terms of the order,
+*the and is*
+
+trustee is not personally liable for failure to comply with the order, not personally liable for any costs that are or would be incurred by any person in carrying out the terms of the order,
 
 (a) where, within such time as is specified in the order and where no time is specified, within 10 days after the order is made, within 10 days after the appointment of the trustee, if the order is in effect when the trustee is appointed, or during the period of the stay referred to in paragraph (b), the trustee
 
@@ -3678,19 +3730,29 @@ Corporations as Trustees
 
 **180.** A body corporate may hold a licence as trustee only if a majority of its directors and a majority of its officers hold licences as trustees.
 
-**181.** Notwithstanding the Companies Act , no person may be Incorpora-incorporated under that Act for the purpose of acting as a trustee in tion. Cap. 308. insolvency from within Barbados unless its incorporation has been consented to by the Supervisor.
+*Incorporation. Cap. 308.*
 
-**182.** A body corporate that holds a licence as a trustee may Acts by perform the duties and exercise the powers of a trustee only through a corporate trustee. director or officer of the body corporate who holds a licence as a trustee.
+**181.** Notwithstanding the Companies Act , no person may be incorporated under that Act for the purpose of acting as a trustee in insolvency from within Barbados unless its incorporation has been consented to by the Supervisor.
 
-**183.** Every body corporate that is incorporated by or under an Act Corporate of Parliament and that holds a licence as a trustee may carry on the trustee not a trust business of a trustee and shall not, in respect of its operations as a company. trustee, be construed to be carrying on the business of a trust company.
+*Acts by corporate trustee.*
+
+**182.** A body corporate that holds a licence as a trustee may perform the duties and exercise the powers of a trustee only through a director or officer of the body corporate who holds a licence as a trustee.
+
+*Corporate trustee not a trust company.*
+
+**183.** Every body corporate that is incorporated by or under an Act of Parliament and that holds a licence as a trustee may carry on the business of a trustee and shall not, in respect of its operations as a trustee, be construed to be carrying on the business of a trust company.
 
 Official Name
 
-**184.** The official name of a trustee acting in bankruptcy Official proceedings is "The Trustee of the Estate of (insert name of the name. bankrupt), a bankrupt", and the official name of a trustee acting with respect to a proposal by an insolvent person is "The Trustee acting in re the proposal of (insert the name of the debtor)".
+*Official name.*
+
+**184.** The official name of a trustee acting in bankruptcy proceedings is "The Trustee of the Estate of (insert name of the bankrupt), a bankrupt", and the official name of a trustee acting with respect to a proposal by an insolvent person is "The Trustee acting in re the proposal of (insert the name of the debtor)".
 
 Duties and Powers of Trustees
 
-**185.** (1) Every trustee duly appointed shall forthwith give Trustee to security in cash or by bond of a guaranty company satisfactory to the give security. Supervisor for the due accounting for, the payment and the transfer of all property received by him as trustee and for the due and faithful performance of his duties.
+*Trustee to give security.*
+
+**185.** (1) Every trustee duly appointed shall forthwith give security in cash or by bond of a guaranty company satisfactory to the Supervisor for the due accounting for, the payment and the transfer of all property received by him as trustee and for the due and faithful performance of his duties.
 
 (2) The security required to be given under subsection (1) shall be deposited with the Supervisor, shall be given in favour of the creditors generally and may be enforced by any succeeding trustee or by one of the creditors on behalf of all by direction of the Court, and may be increased or reduced by the Supervisor.
 
@@ -3714,21 +3776,31 @@ Duties and Powers of Trustees
 
 (b) carry on the business of the bankrupt until the date fixed for the first meeting of creditors.
 
-**188.** (1) The trustee may prior to the first meeting of creditors, Legal obtain such legal advice and take such Court proceedings as he may proceedings to protect consider necessary for the recovery or protection of the property of the estate. bankrupt.
+*Legal proceedings to protect estate.*
+
+**188.** (1) The trustee may prior to the first meeting of creditors, obtain such legal advice and take such Court proceedings as he may consider necessary for the recovery or protection of the property of the bankrupt.
 
 (2) In the case of an emergency where the necessary authority cannot be obtained from the inspectors in time to take appropriate action, the trustee may obtain such legal advice and institute such legal proceedings and take such action as he may deem necessary in the interests of the estate of the bankrupt.
 
 (3) The trustee shall verify the bankrupt's statement of affairs.
 
-**189.** (1) The trustee may, with the permission of the inspectors, Divesting of divest all or any part of the trustee's right, title or interest in any real real property. property of the bankrupt by a notice of quit claim or disclaimer by the trustee, and the official in charge of the land registry office, as the case may be, where title to the real property is registered shall accept and register in the land register the notice when tendered for registration.
+*Divesting of real property.*
+
+**189.** (1) The trustee may, with the permission of the inspectors, divest all or any part of the trustee's right, title or interest in any real property of the bankrupt by a notice of quit claim or disclaimer by the trustee, and the official in charge of the land registry office, as the case may be, where title to the real property is registered shall accept and register in the land register the notice when tendered for registration.
 
 (2) Registration of a notice under subsection (1) operates as a discharge or release of any documents previously registered in the land register by or on behalf of the trustee with respect to the property referred to in the notice.
 
-**190.** The trustee may initiate such criminal proceedings as may be Initiation of authorised by the creditors, the inspectors or the Court against any criminal proceedings. person believed to have committed an offence under this Act.
+*Initiation of criminal proceedings.*
 
-**191.** The trustee is not liable to make any return that the bankrupt Returns. was required to make more than one year prior to the commencement of the calendar year, or the fiscal year of the bankrupt where that is different from the calendar year in which he became bankrupt.
+**190.** The trustee may initiate such criminal proceedings as may be authorised by the creditors, the inspectors or the Court against any person believed to have committed an offence under this Act.
 
-**192.** The trustee shall at all reasonable times permit any Regulators authorised person to inspect the books and records of the bankrupt in empowered to review order to prepare or verify returns that the bankrupt is by statute records. required to file.
+*Returns.*
+
+**191.** The trustee is not liable to make any return that the bankrupt was required to make more than one year prior to the commencement of the calendar year, or the fiscal year of the bankrupt where that is different from the calendar year in which he became bankrupt.
+
+*Regulators empowered to review records.*
+
+**192.** The trustee shall at all reasonable times permit any authorised person to inspect the books and records of the bankrupt in order to prepare or verify returns that the bankrupt is by statute required to file.
 
 *Insure property.*
 
@@ -3740,11 +3812,9 @@ Duties and Powers of Trustees
 
 **194.** (1) Subject to subsections (2) and (3), a trustee shall forthwith deposit all monies received for an estate in a separate trust account for each estate.
 
-(2) The trustee shall deposit monies pursuant to subsection (1) in
-
 *Cap. 324A. Cap. 378A.*
 
-a deposit-taking institution licensed under the Financial Institutions Act or the Co-operative Societies Act.
+(2) The trustee shall deposit monies pursuant to subsection (1) in a deposit-taking institution licensed under the Financial Institutions Act or the Co-operative Societies Act.
 
 (3) Where monies referred to in subsection (1) are situated in a country other than Barbados, the trustee may, where authorised by the Supervisor, deposit the monies in a financial institution in that country that is similar to a bank.
 
@@ -3756,11 +3826,9 @@ a deposit-taking institution licensed under the Financial Institutions Act or th
 
 (7) Any interest recoverable in respect of the account shall be part of the assets of the estate.
 
-**195.** (1) The trustee shall keep proper books and records of the Maintenance
+*Maintenance books and records.*
 
-*and records.*
-
-administration of each estate to which he is appointed, in which shall books be entered
+**195.** (1) The trustee shall keep proper books and records of the administration of each estate to which he is appointed, in which shall be entered
 
 (a) a record of all monies received or disbursed by him;
 
@@ -3826,13 +3894,13 @@ the trustee or the legal representative of the trustee shall, within such time a
 
 (ii) shall forward to such other trustee as may be appointed in the place of the trustee or, pending the appointment of the other trustee, to the Supervisor, all the remaining property of every estate under the administration together with all the books and records relating thereto.
 
-(2) Every trustee before proceeding to his discharge shall, unless he has already done so, prepare and file the report referred to in section 148 and forward a copy to the Supervisor.
+*he has*
 
-**199.** (1) The trustee may, with the permission of the inspectors, Permission
+(2) Every trustee before proceeding to his discharge shall, unless already done so, prepare and file the report referred to in section 148 and forward a copy to the Supervisor.
 
-*to take specified action.*
+*Permission to take specified action.*
 
-do all or any of the following things:
+**199.** (1) The trustee may, with the permission of the inspectors, do all or any of the following things:
 
 (a) for such price or other consideration as the inspectors may approve sell or otherwise dispose of all or any part of the property of the bankrupt, including the goodwill of the business, if any, and the book debts due or falling due to the bankrupt, by tender, public auction or private contract, with power to transfer the whole of the property to any person or to sell the same in parcels;
 
@@ -3864,7 +3932,9 @@ do all or any of the following things:
 
 subsection, but is only a permission to do the particular thing or things or class of thing or things that the permission specifies.
 
-**200.** (1) With the permission of the Court, an interim receiver or Powers to trustee may, prior to the appointment of inspectors, make necessary or make advances, advisable advances, incur obligations, borrow money and give borrow etc. security on the property of the debtor in such amounts, on such terms and on such property as may be authorised by the Court; and those advances, obligations and money borrowed shall be repaid out of the property of the debtor in priority to the claims of the creditors.
+*Powers to make advances, borrow etc.*
+
+**200.** (1) With the permission of the Court, an interim receiver or trustee may, prior to the appointment of inspectors, make necessary or advisable advances, incur obligations, borrow money and give security on the property of the debtor in such amounts, on such terms and on such property as may be authorised by the Court; and those advances, obligations and money borrowed shall be repaid out of the property of the debtor in priority to the claims of the creditors.
 
 (2) The creditors or inspectors may by resolution limit
 
@@ -3876,13 +3946,17 @@ subsection, but is only a permission to do the particular thing or things or cla
 
 (3) All debts incurred and credit received in carrying on the business of a bankrupt are deemed to be debts incurred and credit received by the estate of the bankrupt.
 
-**201.** The trustee is not under any obligation to carry on the Trustee not business of the bankrupt where required to operate business.
+*Trustee not required to operate business.*
+
+**201.** The trustee is not under any obligation to carry on the business of the bankrupt where
 
 (a) in the opinion of the trustee, the realisable value of the property of the bankrupt is insufficient to protect the trustee fully against possible loss occasioned by so doing; and
 
 (b) the creditors or inspectors, on demand made by the trustee, neglect or refuse to secure him against such possible loss.
 
-**202.** (1) The Court may make an order providing for the sale of Order for any or all of the assets of the estate of the bankrupt, either by tender, sale of assets. private sale or public auction, setting out the terms and conditions of the sale and directing that the proceeds from the sale shall be used for
+*Order for sale of assets.*
+
+**202.** (1) The Court may make an order providing for the sale of any or all of the assets of the estate of the bankrupt, either by tender, private sale or public auction, setting out the terms and conditions of the sale and directing that the proceeds from the sale shall be used for
 
 the purpose of reimbursing the trustee in respect of any costs that may be owing to him or of any monies that he may have advanced for the benefit of the estate.
 
@@ -3908,11 +3982,9 @@ request that any mail addressed to a bankrupt that is directed to any place refe
 
 (3) Where a bankrupt is an individual, a notice referred to in subsection (1) is operative only during the 3-month period immediately following the date of bankruptcy unless the Court, on application, extends that period on such terms as the Court considers fit.
 
-**205.** (1) On the appointment of a substituted trustee, the former Former
+*Former trustee to pass accounts.*
 
-*to*
-
-trustee shall forthwith pass his accounts before the Court and deliver trustee pass to the substituted trustee all the property of the estate, together with all accounts. books and records of the bankrupt and relating to the administration of the estate.
+**205.** (1) On the appointment of a substituted trustee, the former trustee shall forthwith pass his accounts before the Court and deliver to the substituted trustee all the property of the estate, together with all books and records of the bankrupt and relating to the administration of the estate.
 
 (2) A substituted trustee shall
 
@@ -3924,13 +3996,13 @@ trustee shall forthwith pass his accounts before the Court and deliver trustee p
 
 (d) as soon as funds are available, pay to the former trustee his remuneration and disbursements as approved by the Court.
 
-**206.** Where the bankrupt or any of the creditors or any other Application person is aggrieved by any act or decision of the trustee, he may apply to Court by aggrieved to the Court and the Court may confirm, reverse or modify the act or party. decision complained of and make such other order in the premises as it thinks just.
+*Application to Court by aggrieved party.*
 
-**207.** (1) Where a creditor requests the trustee to take any Trustee
+**206.** Where the bankrupt or any of the creditors or any other person is aggrieved by any act or decision of the trustee, he may apply to the Court and the Court may confirm, reverse or modify the act or decision complained of and make such other order in the premises as it thinks just.
 
-*to*
+*Trustee refusing to act.*
 
-proceeding that in his opinion would be for the benefit of the estate of refusing act. a bankrupt and the trustee refuses or neglects to take the proceeding, the creditor may obtain from the Court an order authorising him to take the proceeding in his own name and at his own expense and risk,
+**207.** (1) Where a creditor requests the trustee to take any proceeding that in his opinion would be for the benefit of the estate of a bankrupt and the trustee refuses or neglects to take the proceeding, the creditor may obtain from the Court an order authorising him to take the proceeding in his own name and at his own expense and risk,
 
 on notice being given to the other creditors of the contemplated proceeding, and on such other terms and conditions as the Court may direct.
 
@@ -3956,19 +4028,15 @@ Remuneration of Trustee
 
 Discharge of Trustee
 
-**209.** (1) With the permission of the inspectors, any property of a Property
+*Property incapable of realisation.*
 
-*of*
-
-bankrupt found incapable of realisation shall be returned to the incapable realisation. bankrupt prior to the trustee's application for discharge.
+**209.** (1) With the permission of the inspectors, any property of a bankrupt found incapable of realisation shall be returned to the bankrupt prior to the trustee's application for discharge.
 
 (2) Where a trustee is unable to dispose of any property as provided in this section, the Court may make such order as it may consider necessary.
 
-**210.** (1) When a trustee has completed the duties required of him Trustee to
+*Trustee to apply for discharge.*
 
-*for*
-
-with respect to the administration of the property of a bankrupt, he apply discharge. shall apply to the Court for a discharge.
+**210.** (1) When a trustee has completed the duties required of him with respect to the administration of the property of a bankrupt, he shall apply to the Court for a discharge.
 
 (2) The Court may discharge a trustee with respect to any estate on full administration thereof or, for sufficient cause, before full administration.
 
@@ -4004,13 +4072,15 @@ but any discharge may be revoked by the Court on proof that it was obtained by f
 
 Jurisdiction of Courts
 
-**211.** The Court shall, have and exercise jurisdiction in respect of Jurisdiction bankrupts and matters of insolvency, and such jurisdiction shall be of High Court. exercised under and subject to this Act, the Bankruptcy Rules and any Cap. 117A. other enactment relating to bankruptcy and insolvency.
+*Jurisdiction of High Court. Cap. 117A.*
+
+**211.** The Court shall, have and exercise jurisdiction in respect of bankrupts and matters of insolvency, and such jurisdiction shall be exercised under and subject to this Act, the Bankruptcy Rules and any other enactment relating to bankruptcy and insolvency.
+
+*Title of insolvency matters.*
 
 **212.** Subject to the Bankruptcy Rules,
 
-Title of insolvency
-
-(a) all proceedings used in Court must be dated and entitled in the matters. name of the Court in which they are used, together with the words "In Bankruptcy and Insolvency";
+(a) all proceedings used in Court must be dated and entitled in the name of the Court in which they are used, together with the words "In Bankruptcy and Insolvency";
 
 (b) every document used in the filing of a petition or used after the filing of an assignment must be entitled "In the Matter of the Bankruptcy of...";
 
@@ -4018,9 +4088,13 @@ Title of insolvency
 
 (d) every document used in the course of a receivership must be entitled "In the Matter of the Receivership of...".
 
-**213.** Subject to this Act, the Court shall have full power to decide General all questions of priorities and all other questions whatsoever, whether power of Court. of law or fact, that may arise in any case of insolvency coming within the cognisance of the Court or which the Court may deem it expedient or necessary to decide for the purpose of doing complete justice or making a complete distribution of property in any such case.
+*General power of Court.*
 
-**214.** No proceeding in bankruptcy shall be invalidated by any Proceeding formal defect or by any irregularity, unless the court before which an not invalidated objection is made to the proceeding is of the opinion that substantial by defect or injustice has been caused by the defect or irregularity and that the irregularity. injustice cannot be remedied by any order of that court.
+**213.** Subject to this Act, the Court shall have full power to decide all questions of priorities and all other questions whatsoever, whether of law or fact, that may arise in any case of insolvency coming within the cognisance of the Court or which the Court may deem it expedient or necessary to decide for the purpose of doing complete justice or making a complete distribution of property in any such case.
+
+*Proceeding not invalidated by defect or irregularity.*
+
+**214.** No proceeding in bankruptcy shall be invalidated by any formal defect or by any irregularity, unless the court before which an objection is made to the proceeding is of the opinion that substantial injustice has been caused by the defect or irregularity and that the injustice cannot be remedied by any order of that court.
 
 *Court may review, rescind, or vary order.*
 
@@ -4044,7 +4118,9 @@ Title of insolvency
 
 (3) A search warrant issued under subsection (1) may be executed in the manner prescribed, or in the same manner and subject to the same privileges in and subject to which a search warrant for property supposed to be stolen may be executed according to law.
 
-**218.** (1) Subject to the Bankruptcy Rules, the Court may in any Evidence in matter take the whole or any part of the evidence either viva vice or by Court. interrogatories or upon affidavit or, out of Barbados, by commission.
+*Evidence in Court.*
+
+**218.** (1) Subject to the Bankruptcy Rules, the Court may in any matter take the whole or any part of the evidence either viva vice or by interrogatories or upon affidavit or, out of Barbados, by commission.
 
 (2) Subject to the Bankruptcy Rules, any affidavit to be used in Court may be sworn before any person authorised to administer oaths in the Court or, in the case of a person who is out of Barbados, before a Magistrate or Justice of the Peace or other person qualified to administer oaths in the country where he resides (he being certified to be a Magistrate or Justice of the Peace or so qualified by a diplomatic or consular representative for Barbados or by a notary public).
 
@@ -4054,11 +4130,9 @@ Title of insolvency
 
 (5) In case of the death of the bankrupt or the spouse of a bankrupt or of a witness, whose evidence has been received by any court in any proceedings under this Act, the deposition of the deceased person purporting to be sealed under the seal of the Court, or a copy thereof purporting to be so sealed, shall be admitted as evidence of the matters therein deposed to.
 
-**219.** (1) Orders in insolvency matters shall at the instance of any Orders
+*Orders subject to appeal.*
 
-*to appeal.*
-
-person aggrieved, be subject to appeal in the same manner as other subject orders of the Court.
+**219.** (1) Orders in insolvency matters shall at the instance of any person aggrieved, be subject to appeal in the same manner as other orders of the Court.
 
 (2) Where by this Act an appeal to the Court is given against any decision of the Supervisor or trustee, the appeal shall be brought within 21 days from the time when the decision appealed against is pronounced or made.
 
@@ -4088,11 +4162,9 @@ person aggrieved, be subject to appeal in the same manner as other subject order
 
 "foreign representative" means a person, other than a debtor, holding office under the law of a jurisdiction outside Barbados who, irrespective of the person's designation, is assigned, under the laws of the jurisdiction outside Barbados, functions in connection with a foreign proceeding that are similar to those performed by a trustee, liquidator, administrator or receiver appointed by the Court.
 
-**224.** (1) For the purposes of this Part, where a bankruptcy, Copy of
+*Copy of order to be proof of events.*
 
-*to be proof of*
-
-insolvency, reorganisation or like order has been made in respect of a order debtor in a foreign proceeding, a certified or exemplified copy of the events. order is, in the absence of evidence to the contrary, proof that the debtor is insolvent and proof of the appointment of the foreign representative made by the order.
+**224.** (1) For the purposes of this Part, where a bankruptcy, insolvency, reorganisation or like order has been made in respect of a debtor in a foreign proceeding, a certified or exemplified copy of the order is, in the absence of evidence to the contrary, proof that the debtor is insolvent and proof of the appointment of the foreign representative made by the order.
 
 (2) Where a foreign proceeding has been commenced and a receiving order or assignment is made under this Act in respect of a debtor, the Court may, on application and on such terms as it considers appropriate, limit the property to which the authority of the trustee extends to the property of the debtor situated in Barbados and to such property of the debtor outside Barbados as the Court considers can be effectively administered by the trustee.
 
@@ -4134,9 +4206,13 @@ insolvency, reorganisation or like order has been made in respect of a order deb
 
 (5) On application of a foreign representative in respect of a debtor, the Court may authorise the examination under oath by the foreign representative of the debtor or of any person in relation to the debtor who, if the debtor were a bankrupt referred to in section 140, would be a person who could be examined under that subsection.
 
-**228.** An application to the Court by a foreign representative under Court order this Part does not submit the foreign representative to the jurisdiction may be conditional of the Court for any other purpose except with regard to the costs of on the proceedings, but the Court may make any order under this Part compliance of foreign conditional on the compliance by the foreign representative with any representa-other order of the Court. tive with other court order.
+*Court order may be conditional on compliance of foreign representative with other court order.*
 
-**229.** A foreign representative is not prevented from making an Foreign application to the Court under this Part by reason only that representative not proceedings by way of appeal or review have been taken in a foreign prevented proceeding, and the Court may, on an application where such from proceeding proceedings have been taken, grant relief as if the proceedings had not due to been taken. appeal.
+**228.** An application to the Court by a foreign representative under this Part does not submit the foreign representative to the jurisdiction of the Court for any other purpose except with regard to the costs of the proceedings, but the Court may make any order under this Part conditional on the compliance by the foreign representative with any other order of the Court.
+
+*Foreign representative not prevented from proceeding due to appeal.*
+
+**229.** A foreign representative is not prevented from making an application to the Court under this Part by reason only that proceedings by way of appeal or review have been taken in a foreign proceeding, and the Court may, on an application where such proceedings have been taken, grant relief as if the proceedings had not been taken.
 
 *Dividends subject to property the creditor may acquire outside Barbados.*
 
@@ -4166,11 +4242,11 @@ shall be taken into account in the distribution of dividends to creditors of the
 
 ### OFFENCES
 
-*Offences committed*
+*Offences committed by bankrupt.*
 
 **232.** (1) Any bankrupt who
 
-(a) makes any fraudulent disposition of the bankrupt's property by bankrupt. before or after the date of the initial bankruptcy event;
+(a) makes any fraudulent disposition of the bankrupt's property before or after the date of the initial bankruptcy event;
 
 (b) refuses or neglects to answer fully and truthfully all proper questions put to the bankrupt at any examination held pursuant to this Act;
 
@@ -4188,9 +4264,15 @@ shall be taken into account in the distribution of dividends to creditors of the
 
 (e) after the filing of a petition against him, or within 6 months before the filing of the petition, quits Barbados and takes with him, or attempts or makes preparation to quit Barbados and take with him, any part of his property to the amount of $2 000 or upwards, which ought by law to be divided amongst his creditors,
 
-is guilty of an offence and is liable, on summary conviction, to a fine not exceeding $10 000 or to imprisonment for a term not exceeding one year or to both or, on conviction on indictment, to a fine not exceeding $20 000 or to imprisonment for a term not exceeding 3 years, or to both.
+*is not one*
 
-(2) A bankrupt who, without reasonable cause, fails to comply with an order of the Court made under section 39 or to do any of the things required of the bankrupt under section 135, is guilty of an offence and is liable
+guilty of an offence and is liable, on summary conviction, to a fine exceeding $10 000 or to imprisonment for a term not exceeding year or to both or, on conviction on indictment, to a fine not exceeding $20 000 or to imprisonment for a term not exceeding 3 years, or to both.
+
+*an*
+
+*is*
+
+(2) A bankrupt who, without reasonable cause, fails to comply with order of the Court made under section 39 or to do any of the things required of the bankrupt under section 135, is guilty of an offence and liable
 
 (a) on summary conviction, to a fine not exceeding $10 000 or to imprisonment for a term not exceeding one year, or to both; or
 
@@ -4206,15 +4288,19 @@ is guilty of an offence and is liable, on summary conviction, to a fine not exce
 
 is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000 or to imprisonment for a term not exceeding one year, or to both.
 
-**234.** (1) Where any person who on any previous occasion has Where been bankrupt or made a proposal to creditors becomes bankrupt or debtor having makes a proposal, that person is guilty of an offence punishable on previously summary conviction and is liable to a fine not exceeding $10 000 or to taken bankruptcy imprisonment for a term not exceeding one year, or to both, if protection and not
+*Where debtor having previously taken bankruptcy protection and not keeping proper books.*
 
-(a) being engaged in any trade or business, at any time within the keeping period beginning on the day that is 2 years before the date of proper books. the initial bankruptcy event and ending on the date of the bankruptcy, that person has not kept and preserved proper books and records; or
+**234.** (1) Where any person who on any previous occasion has been bankrupt or made a proposal to creditors becomes bankrupt or makes a proposal, that person is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000 or to imprisonment for a term not exceeding one year, or to both, if
+
+(a) being engaged in any trade or business, at any time within the period beginning on the day that is 2 years before the date of the initial bankruptcy event and ending on the date of the bankruptcy, that person has not kept and preserved proper books and records; or
 
 (b) within the period mentioned in paragraph (a), that person conceals, destroys, mutilates, falsifies or disposes of, or is privy to the concealment, destruction, mutilation, falsification or disposition of, any book or record affecting or relating to the person's property or affairs, unless the person had no intent to conceal the state of the person's affairs.
 
 (2) For the purposes of this section, a debtor shall be deemed not to have kept proper books of account if he has not kept such books or accounts as are necessary to exhibit or explain his transactions and financial position in his trade or business, including a book or books containing entries from day to day in sufficient detail of all cash received and cash paid, and, where the trade or business has involved dealings in goods, also accounts of all goods sold and purchased, and statements of physical inventory counts.
 
-**235.** (1) Where a creditor, or a person claiming to be a creditor, False claims, in any proceedings under this Act, wilfully and with intent to defraud unlawful fees and makes any false claim or any proof, declaration or statement of unlawful account that is untrue in any material particular, the creditor or person transactions. is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000, or to imprisonment for a term not exceeding one year, or to both.
+*False claims, unlawful fees and unlawful transactions.*
+
+**235.** (1) Where a creditor, or a person claiming to be a creditor, in any proceedings under this Act, wilfully and with intent to defraud makes any false claim or any proof, declaration or statement of account that is untrue in any material particular, the creditor or person is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000, or to imprisonment for a term not exceeding one year, or to both.
 
 (2) Where an inspector accepts from the bankrupt or from any person, firm or corporation acting on behalf of the bankrupt or from the trustee any fee, commission or emolument other than or in addition to the regular fees provided for by this Act, the inspector is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000, or to imprisonment for a term not exceeding one year, or to both.
 
@@ -4246,7 +4332,9 @@ is guilty of an offence punishable on summary conviction and is liable to a fine
 
 is guilty of an offence punishable on summary conviction to a fine not exceeding $10 000, or to imprisonment for a term not exceeding one year, or to both.
 
-(2) A person who fails to comply with or contravenes any provision of section 163 is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000, or to imprisonment for a term not exceeding one year, or to both.
+*to*
+
+(2) A person who fails to comply with or contravenes any provision of section 163 is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000, or imprisonment for a term not exceeding one year, or to both.
 
 (3) Every person who contravenes or fails to comply with an order made under section 241
 
@@ -4274,13 +4362,21 @@ removes or attempts to remove the property or part mentioned in section 57 out o
 
 of the trustee's licence is guilty of an offence and is liable on summary conviction to a fine not exceeding $10 000, or to imprisonment for a term not exceeding 2 years, or to both.
 
-**239.** Where the Supervisor has placed conditions or limitations on Trustee the licence of a trustee and the trustee exercises any of the powers of a acting outside trustee other than the powers that the trustee is authorised to exercise, authority. the trustee is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000, or to imprisonment for a term not exceeding 2 years, or to both.
+*Trustee acting outside authority.*
 
-**240.** Where a corporation commits an offence under this Act, any Offence officer, director or agent of the corporation, or any person who has or committed by corpora-has had, directly or indirectly, control in fact of the corporation, who tion. directed, authorised, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+**239.** Where the Supervisor has placed conditions or limitations on the licence of a trustee and the trustee exercises any of the powers of a trustee other than the powers that the trustee is authorised to exercise, the trustee is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $10 000, or to imprisonment for a term not exceeding 2 years, or to both.
 
-**241.** Where a person has been convicted of an offence under this Court may Act, the court may, having regard to the nature of the offence and the make order for circumstances surrounding its commission, and in addition to any other community punishment that may be imposed under this Act, make an order service. directing the person to perform community service, subject to such reasonable conditions as may be specified in the order.
+*Offence committed by corporation.*
 
-**242.** (1) Subject to subsection (2), where a court has made an Variation of order under section 241 in respect of a person, the court may, on order made under application by the person or the Attorney-General, require the person section 241. to appear before it and, after hearing the person or the Attorney-General, the court may vary the order in one or any combination of the following ways that is applicable and that, in the opinion of the court, is desirable because of a change in the circumstances of the person since the order was made:
+**240.** Where a corporation commits an offence under this Act, any officer, director or agent of the corporation, or any person who has or has had, directly or indirectly, control in fact of the corporation, who directed, authorised, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+
+*Court may make order for community service.*
+
+**241.** Where a person has been convicted of an offence under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, and in addition to any other punishment that may be imposed under this Act, make an order directing the person to perform community service, subject to such reasonable conditions as may be specified in the order.
+
+*Variation of order made under section 241.*
+
+**242.** (1) Subject to subsection (2), where a court has made an order under section 241 in respect of a person, the court may, on application by the person or the Attorney-General, require the person to appear before it and, after hearing the person or the Attorney-General, the court may vary the order in one or any combination of the following ways that is applicable and that, in the opinion of the court, is desirable because of a change in the circumstances of the person since the order was made:
 
 (a) by making changes in the order or conditions specified therein or extending the period for which the order is to remain in
 
@@ -4350,11 +4446,9 @@ it is the duty of the trustee to
 
 Provided that no rules so made shall extend the jurisdiction of the Court.
 
-**249.** (1) A copy of the Gazette or local daily newspaper Gazette or
+*Gazette or local daily newspaper to be evidence of facts.*
 
-*daily*
-
-containing any notice inserted in the Gazette or local newspaper in local newspaper pursuance of this Act shall be evidence of the facts stated in the to be notice. evidence of facts.
+**249.** (1) A copy of the Gazette or local daily newspaper containing any notice inserted in the Gazette or local newspaper in pursuance of this Act shall be evidence of the facts stated in the notice.
 
 (2) The production of a copy of the Gazette or local newspaper containing any notice of a receiving order, an assignment, a proposal, or a receivership shall be conclusive evidence in all legal proceedings of the order or declaration having been duly made and of its date.
 
@@ -4362,7 +4456,9 @@ containing any notice inserted in the Gazette or local newspaper in local newspa
 
 (4) In all legal proceedings, judicial notice shall be taken of the signature of the Supervisor and of the trustee but any court, Judge or magistrate may require such signature to be proved in the ordinary way if it is doubtful to the court, Judge or magistrate whether the alleged signature is genuine.
 
-**250.** A statement or admission made by any person in any Admission compulsory examination or deposition before the Court on the not admissible hearing of any matter in bankruptcy shall not be admissible as under Theft evidence against that person in respect of any offence against the Theft Act. Cap. 155. Act.
+*Admission not admissible under Theft Act. Cap. 155.*
+
+**250.** A statement or admission made by any person in any compulsory examination or deposition before the Court on the hearing of any matter in bankruptcy shall not be admissible as evidence against that person in respect of any offence against the Theft Act.
 
 *Acts by corpora-tions, firms, and individuals of unsound mind.*
 

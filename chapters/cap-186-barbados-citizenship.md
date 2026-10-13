@@ -66,7 +66,7 @@ Loss of Citizenship
 
 Miscellaneous Certificate of citizenship in cases of doubt.
 
-Minister’s discretion not to be questioned and decisions to be final.
+Minister’s discretion not to be questioned and decisions
 
 by Eyre and Spottiswoode 2 S&ants
 
@@ -104,11 +104,9 @@ Preliminary
 
 “British protected person” means a person who is a British protected person for the purposes of the British Nationality Act, 2948’ of the United Kingdom;
 
-“the Commonwealth” means Barbados, a,ny country
-
 *First Schedule.*
 
-mentioned in the First Schedule and any dependency of any such country;
+“the Commonwealth” means Barbados, a,ny country mentioned in the First Schedule and any dependency of any such country;
 
 “Commonwealth citizen” means a person who under the Constitution has the status of a Commonwealth citizen;
 
@@ -220,17 +218,13 @@ I”
 
 1979-32.
 
-7 L.R.O.
-
 Citizemhip
 
 (7) An application for registration under subsections (2) to
 
 (5) of a minor may be made by his parent or guardian or, if he has attained the age of 16 years, by the minor himself or by his parent or guardian.
 
-(8) The Minister may, if he is satisfied that the interests of national security and public policy so require, refuse to register as a citizen of Barbados any person who
-
-(u) under subsection (2) or (3) of section 3 of the or subsection (5) of this section, is entitled Constitution,
+(8) The Minister may, if he is satisfied that the interests of national security and public policy so require, refuse to register as a citizen of Barbados any person who (u) under subsection (2) or (3) of section 3 of the or subsection (5) of this section, is entitled Constitution,
 
 to be registered as a citizen of Barbados and applies to be so registered; or
 
@@ -244,9 +238,7 @@ to be registered as a citizen of Barbados and applies to be so registered; or
 
 I.4
 
-(c) has engaged in activities, whether within or outside of Barbados, which, in the opinion of the Minister, are prejudicial to the safety of Barbados or to the maintenance of law and public order in Barbados; or
-
-(d) has been adjudged or otherwise declared bankrupt under any law in force in any country and has not been discharged; or
+(c) has engaged in activities, whether within or outside of Barbados, which, in the opinion of the Minister, are prejudicial to the safety of Barbados or to the maintenance of law and public order in Barbados; or (d) has been adjudged or otherwise declared bankrupt under any law in force in any country and has not been discharged; or
 
 (e) not being the dependant of a citizen of Barbados, has not sufficient means to maintain himself and is likely to become a public charge.
 
@@ -270,11 +262,13 @@ SA. Where an application
 
 for registration as a citizen of, Certificate
 
-Barbados under the Constitution or this Act is approved, the I of regis-
+*I ’*
+
+Barbados under the Constitution or this Act is approved, the of regis-
 
 tration.
 
-Minister may issue to the applicant a certificate of registration ’ 1975-2s.
+Minister may issue to the applicant a certificate of registration 1975-2s.
 
 in the prescribed form.
 
@@ -300,9 +294,7 @@ the person to whom this certificate is granted shall, on taking Third
 
 Schedule. the oath of allegiance in the form specified in the Third Schedule be a citizen of Barbados by naturalisation as from the date on which that certificate is granted.
 
-## PART III
-
-Loss of Citizenship
+## PART III Loss of Citizenship
 
 *Renunciation of citizenship by reason of dual dtizen-ship or nationality. First Schedule.*
 
@@ -310,17 +302,15 @@ Loss of Citizenship
 
 (a) a citizen of any country mentioned in the First Schedule or of the Republic of Ireland; or
 
-(b) a national of a foreign country,
-
-makes in the prescribed manner a declaration of renunciation of citizenship of Barbados, the Minister shall cause the declaration to be registered, and upon the registration, that person shall cease to be a citizen of Barbados; but the Minister may at his discretion withhold registration of any such declaration if it is made during any war in which Barbados is engaged by a person who is or who intends to become a national of a foreign country.
+(b) a national of a foreign country, makes in the prescribed manner a declaration of renunciation of citizenship of Barbados, the Minister shall cause the declaration to be registered, and upon the registration, that person shall cease to be a citizen of Barbados; but the Minister may at his discretion withhold registration of any such declaration if it is made during any war in which Barbados is engaged by a person who is or who intends to become a national of a foreign country.
 
 *1975-25.*
 
 (2) Where the Minister causes a declaration of renunciation of citizenship of Barbados to be registered under subsection (l), he may issue to the person making the declaration a certificate of renunciation in the prescribed form.
 
-*of citizenship.*
+*Deprivation of citizenship.*
 
-**9.** (1) Subject to this section, the Minister may at his dis- Deprivation cretion by order deprive of his citizenship any citizen of Barbados who is such by virtue of subsection (3) of section 2 of the Constitution or by registration or naturalisation if the Minister is satisfied that the registration or certificate of naturalisation was obtained by means of fraud, false representation or the concealment of any material fact.
+**9.** (1) Subject to this section, the Minister may at his discretion by order deprive of his citizenship any citizen of Barbados who is such by virtue of subsection (3) of section 2 of the Constitution or by registration or naturalisation if the Minister is satisfied that the registration or certificate of naturalisation was obtained by means of fraud, false representation or the concealment of any material fact.
 
 (2) Subject to this section, the Minister may, at his discretion, by order deprive of his citizenship any citizen of Barbados who is such by registration or naturalisation if the Minister is satisfied that citizen has-
 
@@ -360,21 +350,21 @@ Barbados, which, in the opinion of the Minister, are prejudicial to the safety o
 
 unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or a court having jurisdiction in appeals from any such court, and of not less than two other members appointed by the Minister.
 
-(7) (a) The powers, rights and privileges of a committee of enquiry appointed under subsection (6) shall be the same as those conferred on a commission appointed under the Commission of Enquiry Act and the provisions of that Act shal!, cap. t ,*
+*cap. t ,\* ’*
 
-*’*
-
-mutatis mutandis, apply in relation to any enquiry under this section and to any person summoned to give evidence ‘at the enquiry.
+(7) (a) The powers, rights and privileges of a committee of enquiry appointed under subsection (6) shall be the same as those conferred on a commission appointed under the Commission of Enquiry Act and the provisions of that Act shal!, mutatis mutandis, apply in relation to any enquiry under this section and to any person summoned to give evidence ‘at the enquiry.
 
 (b) Without prejudice to the generality of the foregoing provisions of this subsection, any power exercisable by the Governor-General under the Commission of Enquiry Act shall, in the application of that Act to an enquiry under this section, be exercisable by the Minister.
 
 n England
 
-ss. 11-13
+*ss. 11-13*
 
 (8) A person who is deprived of his citizenship of Barbados by an order under this section or under section 10, shall, upon the making of the order, cease to be a citizen of Barbados.
 
-**10.** (1) Where any citizen of Barbados, who is such by Depfivation naturalisation, was also a citizen of any country mentioned in ofBXb&s of citizenship the First Schedule or of the Republic of Ireland but has been *here deprived of his citizenship of that country on grounds which !$Fr:Ed of in the opinion of the Minister are substantially similar to any jE;eep of the grounds specified under subsection (1) and (2) of section * 9, the Minister may at his discretion by order deprive him of his citizenship of Barbados if the Minister is satisfied that it is not conducive to the public good that that person should continue to be a citizen of Barbados.
+*Depfivation of citizenship ofBXb&s \*here !$Fr:Ed of jE;eep \**
+
+**10.** (1) Where any citizen of Barbados, who is such by naturalisation, was also a citizen of any country mentioned in the First Schedule or of the Republic of Ireland but has been deprived of his citizenship of that country on grounds which in the opinion of the Minister are substantially similar to any of the grounds specified under subsection (1) and (2) of section 9, the Minister may at his discretion by order deprive him of his citizenship of Barbados if the Minister is satisfied that it is not conducive to the public good that that person should continue to be a citizen of Barbados.
 
 (2) Before making an order under this section, the Minister shall give the person against whom the order is proposed to be made notice in writing informing him of the ground on which it is proposed to be made and may , refer the case to a committee of eiquf”y constituted in the manner, and having the powers, rights and privileges, provided for in subsections (6) and (7) of section 9.
 
@@ -382,27 +372,35 @@ ss. 11-13
 
 Miscellaneous
 
-**11.** (1) The Minister may, in such cases as he thinks fit, on Certificate application made by or on behalf of any person with respect to ~~~~~~~ whose citizenship of Barbados a doubt exists, whether on a doubt. question of fact or law, certify that that person is a citizen of Barbados.
+*Certificate ~~~~~~~ doubt.*
 
-(2) A certificate issued under this section shall, unless it is proved that it was obtained by means of fraud, false represen-
+**11.** (1) The Minister may, in such cases as he thinks fit, on application made by or on behalf of any person with respect to whose citizenship of Barbados a doubt exists, whether on a question of fact or law, certify that that person is a citizen of Barbados.
 
-tation or concealment of any material fact, be conclusive /’
+(2) A certificate issued under this section shall, unless it is proved that it was obtained by means of fraud, false representation or concealment of any material fact, be conclusive /’
 
 evidence that that person was such a citizen on the date thereof, but without prejudice to any evidence that he was such a citizen at any earlier date.
 
-**12.** The Minister shall not be required to assign any reason ~~;~~;~~not for the grant or refusal of any application under this Act, the ,i be decision on which is at his discretion; and the decision of the ~;~~~;~$ns Minister on any such application shall not be subject to any to be final. .appeal or review in any court.
+*~~;~~;~~not ,i be ~;~~~;~$ns*
+
+**12.** The Minister shall not be required to assign any reason for the grant or refusal of any application under this Act, the decision on which is at his discretion; and the decision of the Minister on any such application shall not be subject to any .appeal or review in any court.
 
 ### TKE
 
 Barbados Citisenship
 
-**13.** (1) Every document purporting to be a notice, certificate, order or declaration or an entry in a register or a subscription of an oath of allegiance, given, granted or made under this Act or under Chapter II of the Constitution shall be received in evidence and shall, unless the contrary is proved, be deemed to have been given, granted or made by or on behalf of the person by whom or on whose behalf it purports to have been given, granted or made.
+*be*
 
-(2) Prima facie evidence of any such document as aforesaid may be given by production of a document purporting to be certified as a true copy thereof by such person and in such manner as may be prescribed.
+(1) Every document purporting to be a notice, certificate, order or declaration or an entry in a register or a subscription of an oath of allegiance, given, granted or made under this Act or under Chapter II of the Constitution shall be received in evidence and shall, unless the contrary is proved, deemed to have been given, granted or made by or on behalf of the person by whom or on whose behalf it purports to have been given, granted or made.
 
-(3) Any entry in a register made under this Act or under Chapter II of the Constitution shall be received as evidence of the matters stated in the entry.
+*may*
 
-Regulations.
+(2) Prima facie evidence of any such document as aforesaid be given by production of a document purporting to be certified as a true copy thereof by such person and in such manner as may be prescribed.
+
+*the*
+
+(3) Any entry in a register made under this Act or under Chapter II of the Constitution shall be received as evidence of matters stated in the entry.
+
+*Regulations.*
 
 **14.** (1) The Minister may make regulations generally for giving effect to this Act and in particular may make regulations-
 
@@ -436,7 +434,9 @@ a p erson authorised in that behalf by the M[ggy
 
 (2) All regulations made under this section shall be subject to negative resolution.
 
-**15.** (1) Any person who for the purpose of procuring any- offences. thing to be done or not to be done under this Act or under Chapter II of the Constitution makes any statement which he knows to be false in a material particular or recklessly makes a statement which is false in a material particular shall be guilty of an offence and shall be liable on conviction thereof by a court of summary jurisdiction to a fine of five hundred dollars or to imprisonment for three months or to both such fine and imprisonment.
+*offences.*
+
+**15.** (1) Any person who for the purpose of procuring anything to be done or not to be done under this Act or under Chapter II of the Constitution makes any statement which he knows to be false in a material particular or recklessly makes a statement which is false in a material particular shall be guilty of an offence and shall be liable on conviction thereof by a court of summary jurisdiction to a fine of five hundred dollars or to imprisonment for three months or to both such fine and imprisonment.
 
 (2) Any person who fails to comply with any requirement imposed on him by regulations with respect to the delivering up of certificates of naturalisation shall be guilty of an offence and shall be liable on conviction thereof by a court of summary jurisdiction to a fine of five hundred dollars or to imprisonment for three months.
 
@@ -446,55 +446,53 @@ and Spottiawoode EC4.
 
 by authorihl
 
-**16.** From and after the 30th November, 1966l the countries Application
+*Application of section 8 to of the Con-tioned stitution. First Schedule.*
 
-of section 8
+From and after the 30th November, 1966l the countries which section 8 of the Constitution applies are those men-in the First Schedule; but-
 
-to which section 8 of the Constitution applies are those men-of the Con-
+(a) the Minister may by order-
 
-tioned in the First Schedule; but-stitution.
+(i) declare that any country specified in the order is a country to which the said section 8 applies or in respect . of which the said section shall cease to apply, and thereupon the First Schedule shall be amended accordingly;
 
-First
+or
 
-Schedule. (a) the Minister may by order-
+*(4*
 
-(i) declare that any country specified in the order is a country to which the said section 8 applies or in respect . of which the said section shall cease to apply, and thereupon the First Schedule shall be amended accordingly; or
+(ii) make such other variation in that Schedule as may be considered appropriate; and no such order shall be made unless the draft thereof has been laid before Parliament and approved by Resolution of each House.
 
-(ii) make such other variation in that Schedule as may be considered appropriate; and (4 no such order shall be made unless the draft thereof has been laid before Parliament and approved by Resolution of each House.
+*ss. 2, 4, 16.*
 
-## FIRST SCHEDULE ss. 2, 4, 16.
+## FIRST SCHEDULE
 
-The United Kingdom and Colonies and West Indies Associated States.
+*The*
+
+United Kingdom and Colonies and West Indies Associated States.
 
 Canada
 
 Australia
 
-New Zealand
+*New India*
 
-India
+Zealand
 
 Paliistan
 
-Ceylon
-
-Ghana
+*Ceylon Ghana*
 
 Malaysia
 
-Nigeria
+*Nigeria Cyprus Sierra*
 
-Cyprus
-
-Sierra Leone
+Leone
 
 Tanzania
 
-Jamaica
+*Jamaica*
 
 Trinidad and Tobago
 
-1 Being the date of commencement of this Chapter.
+Being the date of commencement of this Chapter.
 
 Uganda
 
@@ -526,9 +524,7 @@ Southern Rhodesia
 
 **1.** Subject to paragraph 2, the qualifications for naturalisation of an alien who applies therefor are-
 
-(4 that he has resided in Barbados throughout the period of twelve months immediately preceding the date of the application; and
-
-(b) that during the seven years immediately preceding the said period of twelve months he has resided in Barbados for periods amounting in the aggregate to not less than five years; and
+(4 that he has resided in Barbados throughout the period of twelve months immediately preceding the date of the application; and (b) that during the seven years immediately preceding the said period of twelve months he has resided in Barbados for periods amounting in the aggregate to not less than five years; and
 
 (4 that he is in the opinion of the Minister of good character; and (4 that he intends in the event of a certificate being granted to him to reside in Barbados.
 

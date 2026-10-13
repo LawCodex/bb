@@ -76,6 +76,8 @@ Aliens’ Restriction
 
 This Part was kept in force annually until made permanent by the Expiring Law Act, 1968-8.
 
+*CAP.*
+
 *2004-24.*
 
 "national of a Member State" means a person who
@@ -86,15 +88,17 @@ This Part was kept in force annually until made permanent by the Expiring Law Ac
 
 (c) is a company or other legal entity constituted in the Member State in conformity with the laws thereof and which that State regards as belonging to it, provided that such company or other legal entity has been formed for gainful purposes and has its registered office and central administration, and carries on substantial activity, within the Community and is substantially owned and effectively controlled by persons mentioned in paragraphs (a) and (b),
 
-but does not include a person who has attained nationality by virtue of an economic connection;
+*but*
+
+does not include a person who has attained nationality by virtue of an economic connection;
 
 *2004-24.*
 
 "Treaty" means the Revised Treaty of Chaguaramas establishing the Caribbean Community, including the CARICOM Single Market and Economy, that was signed in the Bahamas on 5th July, 2001.
 
-*Powers of Minister with respect to aliens.*
+*Powers of Minister and with respect to aliens.*
 
-**3.** (1) The Minister may by order impose restrictions on aliens, and provision may be made by the order
+**3.** (1) The Minister may by order impose restrictions on aliens, provision may be made by the order
 
 (a) for prohibiting aliens from landing in Barbados, either generally or at certain places, and for imposing restrictions or conditions on aliens landing or arriving at any port in Barbados;
 
@@ -148,11 +152,9 @@ but does not include a person who has attained nationality by virtue of an econo
 
 (6) Where any such person fails to comply with an order of the court requiring him to enter into recognisances, the court may order him to be imprisoned for 6 months.
 
-**7.** Nothing in this Act shall be construed as imposing any restric- Saving for
+*Saving for diplomatic persons. Cap. 18.*
 
-*persons.*
-
-tion or disability on any duly accredited member of a mission within diplomatic the meaning of the Diplomatic Immunities and Privileges Act or any Cap. 18. person who is a member of the family, and forms part of the household, of such a member.
+**7.** Nothing in this Act shall be construed as imposing any restriction or disability on any duly accredited member of a mission within the meaning of the Diplomatic Immunities and Privileges Act or any person who is a member of the family, and forms part of the household, of such a member.
 
 ### P ART II
 

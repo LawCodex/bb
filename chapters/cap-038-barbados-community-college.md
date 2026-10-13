@@ -54,21 +54,31 @@ retrieved: 2026-10-13
 
 TEE LAWS OF BARBADOS wed by the 00vamamt khthg Deptmatt, Bay Strass St Micbd by the mutbaity of the. Oovanmmt of Bubdn
 
-ss. l-3
+*ss. l-3*
 
 ### CHAPTER 38
 
 ### BARBADOS COMMUNITY COLLEGE
 
-An Act to provide for the establishment of an educational I%~P. institution to be known as the Barbados Community College 19903~-and for matters connected therewith and incidental thereto.
+*I%~P. 19903~-*
 
-[29th July, 19681 Gxw-ce-
+An Act to provide for the establishment of an educational institution to be known as the Barbados Community College and for matters connected therewith and incidental thereto.
 
-**1.** This Act may be cited as the Barbados Community College shodtitle. Act.
+*Gxw-ce-*
 
-**2.** For the purposes of this Act, the expression hw=-taticn
+[29th July, 19681
 
-“academic term” and “academic year” means respectively the periods prescribed as such under sub-paragraph (d) of paragraph 11 of the Schedule; SChelhtl~.
+*shodtitle.*
+
+**1.** This Act may be cited as the Barbados Community College Act.
+
+*hw=-taticn*
+
+**2.** For the purposes of this Act, the expression
+
+*SChelhtl~.*
+
+“academic term” and “academic year” means respectively the periods prescribed as such under sub-paragraph (d) of paragraph 11 of the Schedule;
 
 “the Board” means the Barbados Community College Board off Management established under section 6;
 
@@ -76,9 +86,13 @@ An Act to provide for the establishment of an educational I%~P. institution to b
 
 “the College” means the Barbados Community College established under section 3.
 
-**3.** (1) There shall be established an educational institution to ~srablish-be called the Barbados Community College. mentof
+*~srablish-mentof*
 
-(2) The aim of the College shall be to provide a place of Ezyty education offering instruction in all or any of the following fields of education, that is to say
+**3.** (1) There shall be established an educational institution to be called the Barbados Community College.
+
+*Ezyty*
+
+(2) The aim of the College shall be to provide a place of education offering instruction in all or any of the following fields of education, that is to say
 
 (a) Agriculture;
 
@@ -94,7 +108,7 @@ cf) Technology,
 
 TBE LAWS OF BARBADOS Rintad by the hwmmatt Rimmg Dcpltmm~ Bay Street, St hiichad, by the muhity of the Govanmaat of Bubda
 
-ss. 3A-6 CAP. 38 Barbados Communiry College L.R.O. 1991 4
+ss. 3A-6 Barbados Communiry College L.R.O. 1991 4
 
 and in such other fields of education as the Minister may from time to time determine.
 
@@ -150,11 +164,17 @@ Schedule. (2) The provisions of the Schedule shall have effect as to the constit
 
 (4) Any order made under subsection (3) shall be subject to affirmative resolution.
 
-CAP.38 s. 7 4A L.R.O. 1991
+*s. 7*
 
-**7.** (1) The Board shall be a body corporate and section 21 of I~COF poration. the Interpretation Act shall apply thereto.
+### CAP.38 4A L.R.O. 1991
 
-(2) The seal of the Board shall be kept in the custody of the Cap’ ‘* chairman or deputy chairman and may be affixed to instruments pursuant to a resolution of the Board and in the presence of the chairman or deputy chairman.
+*I~COF poration.*
+
+**7.** (1) The Board shall be a body corporate and section 21 of the Interpretation Act shall apply thereto.
+
+*Cap’ ‘\**
+
+(2) The seal of the Board shall be kept in the custody of the chairman or deputy chairman and may be affixed to instruments pursuant to a resolution of the Board and in the presence of the chairman or deputy chairman.
 
 (3) The seal of the Board shall be authenticated by the signature of the chairman or deputy chairman.
 
@@ -166,11 +186,9 @@ TllE LAWS OF BARBADOS Rinttd by tbe Oowzumatt Rhtiag Dcprtmeat, Bmy Sbwt, St Mid
 
 signified under the hand of the chairman or deputy chairman or any member of the Board authorised to act in that behalf.
 
-**8.** No act done or proceedings taken under this Act or the ~+o+o;~~
-
 *\-*
 
-Schedule shall be questioned on the ground of any omission, defect or irregularity not affecting the merits of the case.
+**8.** No act done or proceedings taken under this Act or the ~+o+o;~~ Schedule shall be questioned on the ground of any omission, defect or irregularity not affecting the merits of the case.
 
 *Funds and resources of*
 
@@ -262,7 +280,9 @@ Communi[y College
 
 **6.** At any meeting of the Board a quorum shall be the minimum number constituting a majority of the total members of the Board.
 
-**7.** (1) Minutes in proper form of each meeting of the Board shall be kept Minutes. by such person as the Board may appoint for the purpose and shall be confirmed by the chairman or deputy chairman, as the case may be, as soon as practicable thereafter at a subsequent meeting.
+*Minutes.*
+
+**7.** (1) Minutes in proper form of each meeting of the Board shall be kept by such person as the Board may appoint for the purpose and shall be confirmed by the chairman or deputy chairman, as the case may be, as soon as practicable thereafter at a subsequent meeting.
 
 (2) A copy of the minutes of every meeting of the Board shall be submitted to the Minister within fourteen days thereafter.
 
@@ -332,9 +352,9 @@ CAP.
 
 (4) The Principal shall not hold any other appointment or engage in any other occupation which in the opinion of the Board is likely to interfere with the proper performance of his functions under this Schedule or is prejudicial to the welfare of the College.
 
-*Principal.*
+*Dismissal of Principal.*
 
-**15.** The Principal may, with the prior approval of the Minister, be Dismissal of dismissed by the Board subject to the following conditions-
+**15.** The Principal may, with the prior approval of the Minister, be dismissed by the Board subject to the following conditions-
 
 ,
 
@@ -360,11 +380,9 @@ of the school hours of the College;
 
 (e) generally to be responsible for the internal organisation and administration of the College.
 
-**17.** (1) The Senior Tutors and Tutors (hereinafter referred to as the &izin;-
+*&izin;-teaching staff.*
 
-*teaching staff.*
-
-teaching staff) shall be appointed by the Board.
+**17.** (1) The Senior Tutors and Tutors (hereinafter referred to as the teaching staff) shall be appointed by the Board.
 
 (2) On first appointment a member of the teaching staff shall be required to serve a probationary period of one year unless the Board, with the prior approval of the Minister, dispenses with the requirement to serve a probationary period.
 

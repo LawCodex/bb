@@ -76,23 +76,29 @@ Printod by the Government Printing Department, Bay Street, St. Michael,
 
 ## SECOND SCHEDULE
 
-### CAP. 1098
+### CAP. 1098 L.R.O. 1985
 
 ### CHAPTER 1098
 
 ### ADMINISTRATIVE JUSTICE
 
-An Act to provide for the improvement of administrative justice 1980-63. in Barbados and for related matters.
+*1980-63.*
 
-[7th July, 1983] Con1n1ence-ment. S.I. 1983 Citation
+An Act to provide for the improvement of administrative justice in Barbados and for related matters.
 
-No. 98.
+*Con1n1ence-ment. S.I. 1983 No. 98.*
 
-**1.** This Act may be cited as the Administrative Justice Act. Short title. Interpretation
+[7th July, 1983]
+
+Citation
+
+*Short title.*
+
+**1.** This Act may be cited as the Administrative Justice Act. Interpretation
+
+*Definitions.*
 
 **2.** In this Act,
-
-Definitions.
 
 "act" includes any decision, determination, advice or recommendation made under a power or duty conferred or imposed by the Constitution or by any enactment;
 
@@ -100,13 +106,17 @@ Definitions.
 
 "Court" means the High Court;
 
-"enactment" has the same meaning as in the Interpretation cap. 1. Act.
+*cap. 1.*
+
+"enactment" has the same meaning as in the Interpretation Act.
 
 ## PART I
 
 Judicial Review
 
-**3.** (1) An application to the Court for relief against an Application administrative act or omission may be made by way of an review. for judicial application for judicial review in accordance with this Act and with rules of court.
+*Application for judicial review.*
+
+**3.** (1) An application to the Court for relief against an administrative act or omission may be made by way of an application for judicial review in accordance with this Act and with rules of court.
 
 . Id 111i11 is tr,1ti l'C J 11 sti cc
 
@@ -150,7 +160,7 @@ on an application for judicial review are
 
 (c) mandamus, for requiring performance of a public duty, including a duty to make a decision or determination or to hear and determine any case.
 
-Achni11istratiue justice
+5 L.R.O. 1985 Achni11istratiue justice
 
 (2) The Court may, having regard to the scope of the remedies mentioned in subsection (1), grant in addition or alternatively
 
@@ -164,27 +174,29 @@ Achni11istratiue justice
 
 (3) Any of the remedies mentioned in subsections ( 1) and (2) may be applied for together or in the alternative in an application for judicial review; and the Court may grant one or more of them as law and justice may require, and whetber applied for in the original application or not.
 
-**6.** The Court may on an application for judicial review grant Persons entitled relief in accordance with this Act
+*Persons entitled to relief.*
 
-to relief.
+**6.** The Court may on an application for judicial review grant relief in accordance with this Act
 
 (a) to a person whose interests are adversely affected by an administrative act or omission;
 
 (b) to any other person if the Court is satisfied that that person's application is justifiable in the public interest in the circumstances of the case.
 
-**7.** (1) An interlocutory application may be made in any Interlocu-application for judicial review, and the Court or Judge may make cation. tory appli·
+*Interlocutory appli· cation.*
 
-any interlocutory order, including an order for discovery of documents, for interrogatories and for cross-examination, and may grant any interim relief that the Court or Judge thinks fit.
+**7.** (1) An interlocutory application may be made in any application for judicial review, and the Court or Judge may make any interlocutory order, including an order for discovery of documents, for interrogatories and for cross-examination, and may grant any interim relief that the Court or Judge thinks fit.
 
 (2) The Court or Judge may at any stage direct that the proceedings to which the application relates shall be stayed until further order.
 
-**8.** The Court may if it thinks fit, refuse to grant any relief rower of under this Act if it considers that there has been undue delay in ~e~~~: to making the application for judicial review, and that the grant of relief. the relief sought would cause substantial hardship to, or would substantially prejudice the rights of, any person, or would be detrimental to good administration.
+*rower of ~e~~~: to relief.*
 
-**9.** Where the Court quashes an administrative act to which the Power to application relates, it may in addition remit the matter to the remit. court, tribunal or other authority concerned with a direction to
+**8.** The Court may if it thinks fit, refuse to grant any relief under this Act if it considers that there has been undue delay in making the application for judicial review, and that the grant of the relief sought would cause substantial hardship to, or would substantially prejudice the rights of, any person, or would be detrimental to good administration.
+
+*Power to remit.*
+
+**9.** Where the Court quashes an administrative act to which the application relates, it may in addition remit the matter to the court, tribunal or other authority concerned with a direction to
 
 lliE LAWS OF BARBADOS Printed by the Government Print!na Department, Bay Sueet, St. Michael,
-
-ss.10-14 CAP.109B
 
 reconsider the matter and to determine it in accordance with the Court's order.
 
@@ -234,7 +246,7 @@ for on or before the date of giving or notification of the decision or reasons.
 
 within 14 days after that date.
 
-7 L. R. 0. 1985 Adllli11istrutive justice CAP. 109B ss.15-17
+7 L. R. 0. 1985 Adllli11istrutive justice CAP. 109B
 
 (2) A request must be made in writing. except that where an oral hearing is held, the request may be made orally before the conclusion of the oral proceedings.
 
@@ -250,17 +262,15 @@ within 14 days after that date.
 
 (c) shall be deemed to be part of the decision and to be incorporated in the record.
 
-*Principles of natural*
+*Principles of natural justice.*
 
 **16.** (1) The law relating to natural justice applies
 
-(a) to any person or body refusing, modifying, or revoking any justice. licence, permission, qualification or authority or imposing any penalty under powers conferred by any enactment;
+(a) to any person or body refusing, modifying, or revoking any licence, permission, qualification or authority or imposing any penalty under powers conferred by any enactment;
 
-(b) to any person or body listed in the Second Schedule and Second
+*Second Schedule.*
 
-*Schedule.*
-
-making a decision of the kind there specified.
+(b) to any person or body listed in the Second Schedule and making a decision of the kind there specified.
 
 (2) This section does not restrict the application of the law relating to natural justice in any other case.
 

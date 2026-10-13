@@ -122,11 +122,9 @@ References under Order of Court
 
 ### VIII PART
 
-Miscellaneous
-
 *proceed-*
 
-Power of court to extend time for commencing ings.
+Miscellaneous Power of court to extend time for commencing ings.
 
 Terms as to costs.
 
@@ -140,11 +138,9 @@ Terms as to costs.
 
 2 Scrjeand Inn, London EC+,
 
-CHAPTER 1958-23.
-
 *lgs8’*
 
-si ARBITRATION
+CHAPTER 1958-23. si ARBITRATION
 
 An Act to make provision for Arbitrations.
 
@@ -222,21 +218,29 @@ arbitration. to which an arbitration agreement, to which the claimants are parti
 
 Arbitrators and Umpires
 
-**8.** Unless a contrary intention is expressed therein, every Reference arbitration agreement shall, where no other mode of reference ~{~~~~or is provided, be deemed to include a provision that the reference shall be to a single arbitrator.
+*Reference ~{~~~~or*
 
-**9.** (1) Where an arbitration agreement provides that the ~;;Fv~ reference shall be to two arbitrators, one to be appointed by certain cases each party, then, unless a contrary intention is expressed F~;;EFY therein-
+**8.** Unless a contrary intention is expressed therein, every arbitration agreement shall, where no other mode of reference is provided, be deemed to include a provision that the reference shall be to a single arbitrator.
+
+*~;;Fv~ certain cases F~;;EFY*
+
+**9.** (1) Where an arbitration agreement provides that the reference shall be to two arbitrators, one to be appointed by each party, then, unless a contrary intention is expressed therein-
 
 (a) if either of the appointed arbitrators refuses to act, or is incapable of acting, or dies, the party who appointed him may appoint a new arbitrator in his place;
 
-(b) if, on such a reference, one party fails to appoint an arbitrator, either originally, or by way of substitution as aforesaid, for seven clear days after the other party, having appointed his arbitrator, has served the party making default with notice to make the appointment, the party who has appointed an arbitrator may appoint that arbitrator to act as sole arbitrator in the reference and his award shall be binding on both parties as if he had been appointed by consent.
+if, on such a reference, one party fails to appoint an (b)
+
+arbitrator, either originally, or by way of substitution as aforesaid, for seven clear days after the other party, having appointed his arbitrator, has served the party making default with notice to make the appointment, the party who has appointed an arbitrator may appoint that arbitrator to act as sole arbitrator in the reference and his award shall be binding on both parties as if he had been appointed by consent.
 
 (2) The Court may set aside any appointment made in pursuance of subsection ( 1).
 
-**10.** (1) Unless a contrary intention is expressed therein, Ze;$ every arbitration agreement shall, where the reference is to umpires. two arbitrators, be deemed to include a provision that the two arbitrators shall appoint an umpire immediately after they are themselves appointed.
+*Ze;$ umpires.*
+
+**10.** (1) Unless a contrary intention is expressed therein, every arbitration agreement shall, where the reference is to two arbitrators, be deemed to include a provision that the two arbitrators shall appoint an umpire immediately after they are themselves appointed.
 
 (2) Unless a contrary intention is expressed therein, every arbitration agreement shall, where such a provision is applicable to the reference, be deemed to include a provision that if the arbitrators have delivered to any party to the arbitration agreement, or to the umpire, a notice in writing stating that they cannot agree, the umpire may forthwith enter on the reference in lieu of the arbitrators.
 
-(3) At any time after the appointment of an umpire, how-
+At any time after the appointment of an umpire, how-
 
 2 Serjcants’ Inn, London EC4.
 
@@ -274,23 +278,17 @@ or umpire. after differences have arisen, concur in the appointment of an arbitr
 
 may be, concur in appointing, an arbitrator, umpire or third arbitrator, and if the appointment is not made within seven clear days after the service of the notice, the Court may on application by the party who gave the notice, appoint an arbitrator, umpire or third arbitrator who shall have the like powers to act in the reference and make an award as if he had been appointed by consent of all parties.
 
-**13.** Where an arbitration agreement provides that the R.;;~Mx to reference shall be to an official referee, any official referee to referee
+*R.;;~Mx to referee ’*
 
-*’*
+**13.** Where an arbitration agreement provides that the reference shall be to an official referee, any official referee to whom application is made, shall, subject to any order of the Court as to transfer or otherwise, hear and determine the matters agreed to be referred.
 
-whom application is made, shall, subject to any order of the Court as to transfer or otherwise, hear and determine the matters agreed to be referred.
-
-IV
-
-### PART
+### IV PART
 
 Conduct of Proceedings and Provisions as to Awards
 
-**14.** (1) Unless a contrary intention is expressed therein, Ckmducfof every arbitration agreement shall, where such a provision is ~~~~$$
+*Ckmducfof ~~~~$$ of witnesses and making of orden.*
 
-*and making of orden.*
-
-applicable to the reference, be deemed to contain a provision of witnesses that-
+**14.** (1) Unless a contrary intention is expressed therein, every arbitration agreement shall, where such a provision is applicable to the reference, be deemed to contain a provision that-
 
 (u) the parties to the reference, and all persons claiming through them respectively, shall, subject to any legal objection, submit to be examined by the arbitrator or umpire, on oath or affirmation, in relation to the matters in dispute, and shall, subject as aforesaid, produce before the arbitrator or umpire all documents within their possession or power respectively which may be required or called for, and do all other things which during the proceedings on the reference the arbitrator or umpire may require, and
 
@@ -304,39 +302,61 @@ applicable to the reference, be deemed to contain a provision of witnesses that-
 
 2 Scrjcants’ Inn, London EC4,
 
-s. 14
+*s. 14*
 
-subpoena duces tecum, but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action, and the Court may order that a writ of subpoena ad testzjkandum or of subpoena duces tecum shall issue to compel the attendance before an arbitrator or umpire of a witness wherever he may be within the Island.
+*any be Court*
 
-(4) The Court may order that a writ of habeas corpus ad testzjicandum shall issue to bring up a prisoner for examination before an arbitrator or umpire.
+*an*
 
-(5) The Court shall have, for the purpose of and in relation to a reference, the same power of making orders in respect of- (4 security for costs;
+subpoena duces tecum, but no person shall be compelled under such writ to produce any document which he could not compelled to produce on the trial of an action, and the may order that a writ of subpoena ad testzjkandum or of subpoena duces tecum shall issue to compel the attendance before arbitrator or umpire of a witness wherever he may be within the Island.
 
-VI discovery of documents and interrogatories;
+*before*
 
-(4 the giving of evidence by affidavit;
+(4) The Court may order that a writ of habeas corpus ad testzjicandum shall issue to bring up a prisoner for examination an arbitrator or umpire.
 
-(4 examination on oath of any witness before an officer of the Court or any other person, and the issue of a commission or request for the examination of a witness out of the jurisdiction;
+*to a (4 VI (4 (4*
 
-(4 the preservation, interim custody or sale of any goods which are the subject matter of the reference;
+(5) The Court shall have, for the purpose of and in relation reference, the same power of making orders in respect of-security for costs;
 
-(f) securing the amount in dispute in the reference; k) the detention, preservation or inspection of any property or thing which is the subject of the reference or as to which any question may arise therein, and authorising for any of the purposes aforesaid any persons to enter upon or into any land or building in the possession of any party to the reference, or authorising any samples to be taken or any observation to be made or experiment to be tried which may be necessary or expedient for the purpose of obtaining full information or evidence; and
+discovery of documents and interrogatories;
+
+the giving of evidence by affidavit;
+
+examination on oath of any witness before an officer of the Court or any other person, and the issue of a commission or request for the examination of a witness out of the jurisdiction;
+
+*(4*
+
+the preservation, interim custody or sale of any goods which are the subject matter of the reference;
+
+(f)
+
+securing the amount in dispute in the reference; k)
+
+the detention, preservation or inspection of any property or thing which is the subject of the reference or as to which any question may arise therein, and authorising for any of the purposes aforesaid any persons to enter upon or into any land or building in the possession of any party to the reference, or authorising any samples to be taken or any observation to be made or experiment to be tried which may be necessary or expedient for the purpose of obtaining full information or evidence; and
 
 (h) interim injunctions
 
-or the appointment of a receiver, as it has for the purpose of and in relation to an action or matter in the Court.
+*as it*
 
-(6) Nothing in subsection (5) shall be taken to prejudice any power which may be vested in an arbitrator or umpire of
+or the appointment of a receiver, has for the purpose of and in relation to an action or matter in the Court.
+
+*any*
+
+Nothing in subsection (5) shall be taken to prejudice power which may be vested in an arbitrator or umpire of
 
 Brbit~ation
 
 making orders with respect to any of the matters mentioned in this section.
 
-**15.** (1) Subject to subsection (2) of section 25, and anything Time for to the contrary in the arbitration agreement, an arbitrator or ~~$~ umpire shall have power to make an award at any time.
+*Time for ~~$~*
+
+**15.** (1) Subject to subsection (2) of section 25, and anything to the contrary in the arbitration agreement, an arbitrator or umpire shall have power to make an award at any time.
 
 (2) The time, if any, limited for making an award, whether under this Act or otherwise, may from time to time be enlarged by order of the Court, whether that time has expired or not.
 
-**16.** (1) The Court may, on the application of any party to Removal by court of a reference, remove an arbitrator or umpire who fails to use arbitrator o1 all reasonable dispatch in entering on and proceeding with umpire for the reference and making an award, and an arbitrator or $$f!“ess umpire who is removed by the Court under this subsection conduct. shall not be entitled to receive any remuneration in respect of his services.
+*Removal by court of arbitrator o1 umpire for $$f!“ess conduct.*
+
+**16.** (1) The Court may, on the application of any party to a reference, remove an arbitrator or umpire who fails to use all reasonable dispatch in entering on and proceeding with the reference and making an award, and an arbitrator or umpire who is removed by the Court under this subsection shall not be entitled to receive any remuneration in respect of his services.
 
 (2) Where an arbitrator or umpire has misconducted himself or the proceedings, the Court may remove him.
 
@@ -344,9 +364,13 @@ making orders with respect to any of the matters mentioned in this section.
 
 “ proceeding with a reference ” includes, in a case where two arbitrators are unable to agree, giving notice of that fact to the parties and to the umpire.
 
-**17.** Unless a contrary intention is expressed therein, every I$$; arbitration agreement shall, where such a provision is appli- * cable to the reference, be deemed to contain a provision that the arbitrator or umpire may, if he thinks fit, make an interim award, and any reference in this Act to an award includes a reference to an interim award.
+*I$$; \**
 
-**18.** Unless a contrary intention is expressed therein, every z~;z:;,,, arbitration agreement shall, where such a provision is applicable to the reference, be deemed to contain a provision that the arbitrator or umpire shall have the same power as the Court to order specific performance of any contract other than a contract relating to land or any interest in land.
+**17.** Unless a contrary intention is expressed therein, every arbitration agreement shall, where such a provision is applicable to the reference, be deemed to contain a provision that the arbitrator or umpire may, if he thinks fit, make an interim award, and any reference in this Act to an award includes a reference to an interim award.
+
+*z~;z:;,,,*
+
+**18.** Unless a contrary intention is expressed therein, every arbitration agreement shall, where such a provision is applicable to the reference, be deemed to contain a provision that the arbitrator or umpire shall have the same power as the Court to order specific performance of any contract other than a contract relating to land or any interest in land.
 
 ### TED3 LAWS
 
@@ -376,15 +400,13 @@ cats. 21. (1) Unless a contrary intention is expressed therein, every arbitratio
 
 for an order directing by and to whom those costs shall be paid, and thereupon shall, after hearing any party who may desire to be heard, amend his award by adding thereto such directions as he may think proper with respect to the payment of the costs of the reference.
 
-(6) Section 50 of the Solicitors Act (which empowers a cap. 373. court before which any proceeding is being heard or is pending to charge property recovered or preserved in the proceeding with the payment of solicitors’ costs) shall apply as if an arbitra-
+*cap. 373.*
 
-tion were a proceeding in the Court, and the Court may make declarations and orders accordingly.
+(6) Section 50 of the Solicitors Act (which empowers a court before which any proceeding is being heard or is pending to charge property recovered or preserved in the proceeding with the payment of solicitors’ costs) shall apply as if an arbitration were a proceeding in the Court, and the Court may make declarations and orders accordingly.
 
-**22.** (1) In any case where an arbitrator or umpire refuses Taxation of
+*Taxation of ~ere~~~o~ oI umpire.*
 
-*oI*
-
-to deliver his award except on payment of the fees demanded ~ere~~~o~ by him, the Court may, on an application for the purpose, umpire. order that the arbitrator or umpire shall deliver the award to the applicant on payment into court by the applicant of the fees demanded, and further that the fees demanded shall be taxed by the taxing officer and that out of the money paid into court there shall be paid out to the arbitrator or umpire by way of fees such sum as may be found reasonable on taxation and that the balance of the money, if any, shall be paid out to the applicant.
+**22.** (1) In any case where an arbitrator or umpire refuses to deliver his award except on payment of the fees demanded by him, the Court may, on an application for the purpose, order that the arbitrator or umpire shall deliver the award to the applicant on payment into court by the applicant of the fees demanded, and further that the fees demanded shall be taxed by the taxing officer and that out of the money paid into court there shall be paid out to the arbitrator or umpire by way of fees such sum as may be found reasonable on taxation and that the balance of the money, if any, shall be paid out to the applicant.
 
 (2) An application for the purposes of this section may be made by any party to the reference unless the fees demanded have been fixed by a written agreement between him and the arbitrator or umpire.
 
@@ -392,11 +414,9 @@ to deliver his award except on payment of the fees demanded ~ere~~~o~ by him, th
 
 (4) The arbitrator or umpire shall be entitled to appear and be heard on any taxation or review of taxation under this section.
 
-**23.** A sum directed to be paid by an award shall, unless the carton
+*carton ’*
 
-*’*
-
-award otherwise directs, carry interest as from the date of the award and at the same rate as a judgment debt.
+**23.** A sum directed to be paid by an award shall, unless the award otherwise directs, carry interest as from the date of the award and at the same rate as a judgment debt.
 
 ### THB
 
@@ -466,13 +486,9 @@ disputes which may arise in the future between them shall be referred to arbitra
 
 (3) In any case where by virtue of this section the Court has power to order that an arbitration agreement shall cease to have effect or to give leave to revoke the authority of an arbitrator or umpire, the Court may refuse to stay any action brought in breach of the agreement.
 
-*E;z;L=*
+*E;z;L= a&i&&x is remov+ or authority of arbitrator k revoked.*
 
-**28.** (1) Where an arbitrator (not being a sole arbitrator), or two or more arbitrators (not being all the arbitrators), or a&i&&x is
-
-*or authority of*
-
-an umpire who has not entered on the reference is or are remov+ removed by the Court, the Court may, on the application of arbitrator k any party to the arbitration agreement, appoint a person or revoked. persons to act as arbitrator or arbitrators or umpire in place of the person or persons so removed.
+**28.** (1) Where an arbitrator (not being a sole arbitrator), or two or more arbitrators (not being all the arbitrators), or an umpire who has not entered on the reference is or are removed by the Court, the Court may, on the application of any party to the arbitration agreement, appoint a person or persons to act as arbitrator or arbitrators or umpire in place of the person or persons so removed.
 
 (2) Where the authority of an arbitrator or arbitrators or umpire is revoked by leave of the Court, or a sole arbitrator or all the arbitrators or an umpire who has entered on the reference is or are removed by the Court, the Court may, on the application of any party to the arbitration agreement, either-
 
@@ -524,21 +540,13 @@ the Court may at any time order the whole cause or matter, or any question or is
 
 (3) The remuneration to be paid to an official or a special referee or arbitrator to whom any matter is referred under an order of the Court shall be determined by the Court.
 
-**33.** The Court shall, in relation to references, have all the Court to powers which are by this Act conferred on the Court as to iryi czry
+*Court to iryi czry encea by consent. Powers of gz$‘f f$. l&l/*
 
-*encea by consent.*
+**33.** The Court shall, in relation to references, have all the powers which are by this Act conferred on the Court as to references by consent out of court.
 
-references by consent out of court.
+**34.** The Court of Appeal shall, on an appeal, have all such powers as are conferred by the provisions of this Act on the Court in relation to references.
 
-**34.** The Court of Appeal shall, on an appeal, have all such Powers of powers as are conferred by the provisions of this Act on the gz$‘f
-
-*f$. l&l/*
-
-Court in relation to references.
-
-## PART VIII
-
-Miscellaneous
+## PART VIII Miscellaneous
 
 *Ezztzf extend time for co.m-mencmg*
 
@@ -547,8 +555,6 @@ Miscellaneous
 *proceedinga.*
 
 2 Serjeants’ Inn, London ECq, by authority of the Government of Barbados
-
-ss.36-39 CAP. 110
 
 is given or an arbitrator is appointed or some other step to commence arbitration proceedings is taken within a time fixed by the agreement, and a dispute arises to which the agreement applies, the Court, if it is of opinion that in the circumstances of the case undue hardship would otherwise be caused, and notwithstanding that the time so fixed has expired, may, on such terms, if any, as the justice of the case may require, but without prejudice to the provisions of any enactment limiting the time for the commencement of arbitration proceedings, extend the time for such period as it thinks proper.
 
@@ -586,11 +592,9 @@ any arbitration commenced after that date under any agreement or order made befo
 
 ing him or them to appoint an arbitrator, or, where the arbitration agreement provides that the reference shall be to a person named or designated in the agreement, requiring him or them to submit the dispute to the person so named or designated.
 
-**40.** Rules may be made in like manner as rules may be made Rules.
+*Rules. cap. ,r,,*
 
-*cap. ,r,,*
-
-under and for the purposes of the Supreme Court of Judicature C
+**40.** Rules may be made in like manner as rules may be made under and for the purposes of the Supreme Court of Judicature C
 
 Act, for carrying the purposes of this Act into effect, and for regulating the form and mode of procedure and, generally, the practice of the Court in respect of the matters to which this Act relates, and for regulating the fees and allowances to all officers and solicitors of the Court in respect of such matters.
 

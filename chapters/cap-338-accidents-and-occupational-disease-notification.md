@@ -58,11 +58,9 @@ Spottirwoode 2 Serjcants’ Jnn, ECQ of Barb&x
 
 ### ACCIDENTS AND OCCUPATIONAL DISEASES (NOTIFICATION)
 
-An Act to provide for the notification of accidents and 1x1-59.
+*1x1-59. L.N. 16%*
 
-*L.N. 16%*
-
-occupational diseases.
+An Act to provide for the notification of accidents and occupational diseases.
 
 1967.
 
@@ -86,17 +84,13 @@ occupational diseases.
 
 “Minister” means the Minister responsible for Labour;
 
-“occupational disease” means any disease mentioned in the
-
 *Third Schedule.*
 
-Third Schedule;
+“occupational disease” means any disease mentioned in the Third Schedule;
 
 “outworker” means a person to whom articles or materials are given out to be made up, cleaned, washed, altered, ornamented, finished or repaired or adapted for sale in his own home or on other premises not under the control
 
-P&ted Prlntlq Department,
-
-of tha Government of Barbado
+P&ted Prlntlq Department, of tha Government of Barbado
 
 or management of the person who gave out the materials or articles;
 
@@ -150,17 +144,27 @@ be sent by the employer to the Chief Labour Officer. Schedule.
 
 Prinfmg Department. Bay Srreet, St. Mxhdel, by the authonty
 
-ss.4-5
+*$g;~f,*
 
-**4.** When the Minister considers that, by reason of the risk $g;~f, of serious bodily injury to workers, it 1s expedient that notice extend to should be given in every case of any special class of explosion, danger-fire, collapse of buildings, accidents to machinery or plant or ~~~o~~ other occurrences in places where workers are employed, he ;o;;cation may, by regulations extend the provisions of section 3 with of accidents. such adaptations as may be specified in the regulations to any such class of occurrences, whether death or disablement is caused or not, and may by any such regulations allow the required notice of any occurrence to which the regulations relate, instead of being sent forthwith, to be sent within the time limited by the regulations.
+*extend to danger- ~~~o~~ ;o;;cation*
 
-**5.** (1) Every registered medical practitioner attending on F2FU;E or called in to visit a patient whom he believes to be suffering tional from any occupational disease contracted in the course of his diseases and other employment as a worker shall, unless such a notice has been diseases. previously sent, forthwith send addressed to the Chief Labour Officer a notice stating the name and full postal address of the patient and the disease from which, in the opinion of such medical practitioner, the patient is suffering and the name and address of the place at which, and of the employer by whom, he is or was last employed.
+*of accidents.*
+
+**4.** When the Minister considers that, by reason of the risk of serious bodily injury to workers, it 1s expedient that notice should be given in every case of any special class of explosion, fire, collapse of buildings, accidents to machinery or plant or other occurrences in places where workers are employed, he may, by regulations extend the provisions of section 3 with such adaptations as may be specified in the regulations to any such class of occurrences, whether death or disablement is caused or not, and may by any such regulations allow the required notice of any occurrence to which the regulations relate, instead of being sent forthwith, to be sent within the time limited by the regulations.
+
+*F2FU;E*
+
+*tional diseases and other diseases.*
+
+**5.** (1) Every registered medical practitioner attending on or called in to visit a patient whom he believes to be suffering from any occupational disease contracted in the course of his employment as a worker shall, unless such a notice has been previously sent, forthwith send addressed to the Chief Labour Officer a notice stating the name and full postal address of the patient and the disease from which, in the opinion of such medical practitioner, the patient is suffering and the name and address of the place at which, and of the employer by whom, he is or was last employed.
 
 (2) Any registered medical practitioner who fails to send any notice in accordance with the requirements of this section shall be guilty of an offence against this Act and liable to a fine of ten dollars.
 
+*second Schedu”’*
+
 (3) Any employer who believes or suspects, or has reasonable grounds for believing or suspecting, that a case of occupational disease has occurred among the workers employed by him shall forthwith send written notice of such case in the form, f
 
-and accompanied by the particulars, set out in the Second second Schedule to the Chief Labour Officer and to the Chief Schedu”’ Medical Officer, and the provisions of this Act with respect to the notification of accidents shall apply to any such case in like manner as to any such accident as is mentioned in those provisions.
+and accompanied by the particulars, set out in the Second Schedule to the Chief Labour Officer and to the Chief Medical Officer, and the provisions of this Act with respect to the notification of accidents shall apply to any such case in like manner as to any such accident as is mentioned in those provisions.
 
 (4) The Minister may, as respects any class or description of place where workers are employed, by regulations, apply the
 
@@ -208,19 +212,15 @@ shall, subject to the power of the coroner to disallow any question which in his
 
 (3) Where at any such inquest at which the Chief Labour Officer or an officer of the Ministry of Labour is not present evidence is given of any neglect as having caused or contributed to the accident or disease or of any defect in or about the place of employment appearing to the coroner to require a remedy, the coroner shall send to the Chief Labour Officer notice in writing of the neglect or defect.
 
-(4) The provisions of this section shall be in addition to,
-
 *Cap.*
 
-and not in derogation of, the provisions of the Coroners Act. 113.
+(4) The provisions of this section shall be in addition to, and not in derogation of, the provisions of the Coroners Act. 113.
 
 *PO.W~~ of ~~~~~t~&~a,*
 
-**7.** (1) The Minister may, where he considers it expedient so to do, direct a formal investigation to be held into any
-
 *inv+gation ~~~~~~$ oc;etctionaI .*
 
-accident arising out of and in the course of the employment of any worker or case of occupational disease contracted or suspected to have been contracted in the course of the employment of any worker and of its causes and circumstances, and with respect to any such investigation the following provisions shall have effect, that is to say-
+**7.** (1) The Minister may, where he considers it expedient so to do, direct a formal investigation to be held into any accident arising out of and in the course of the employment of any worker or case of occupational disease contracted or suspected to have been contracted in the course of the employment of any worker and of its causes and circumstances, and with respect to any such investigation the following provisions shall have effect, that is to say-
 
 (a) the Minister may appoint a competent person to hold the investigation and may appoint any person possessing legal or special knowledge to act as assessor in holding the investigation;
 
@@ -250,27 +250,45 @@ require answers or returns to such enquiries as it thinks fit to make;
 
 the court may require the expenses incurred in and about an investigation under this section (including the remuneration of any persons appointed to act as assessors) to be paid in whole or part by any person summoned before it who appears to the court to be, by reason of any act or default on his part or on the part of any servant or agent of his, responsible in any degree for the occurrence of the accident or case of occupational disease, but any such expenses not required to be so paid shall be deemed to be part of the expenses properly incurred in the administration of this Act.
 
-(2) Any person who, without reasonable excuse (proof whereof shall lie on him), either fails, after having had the detention allowances, travelling expenses and fees (if any) to which he is entitled tendered to him, to comply with any summons or requisition of the court, or prevents or impedes the court in the execution of its duty, shall be guilty of an offence, and shall be liable to a fine of fifty dollars or imprisonment for one month or to both such penalties, and, in the case of a failure to comply with the requisition for making any return or producing any document, if the failure in respect of which a person was so convicted is continued after the conviction, he shall be guilty of a further offence and shall be liable to a fine
+*to*
 
-CAP. 338 ss.8-10
+*court and one failure*
+
+*shall*
+
+(2) Any person who, without reasonable excuse (proof whereof shall lie on him), either fails, after having had the detention allowances, travelling expenses and fees (if any) which he is entitled tendered to him, to comply with any summons or requisition of the court, or prevents or impedes the in the execution of its duty, shall be guilty of an offence, shall be liable to a fine of fifty dollars or imprisonment for month or to both such penalties, and, in the case of a to comply with the requisition for making any return or producing any document, if the failure in respect of which a person was so convicted is continued after the conviction, he be guilty of a further offence and shall be liable to a fine
+
+9 L.R.O.
 
 of $50 for every day on which the failure was so continued.
 
 (3) The Minister may cause the report of the court to be made public at such time and in such manner as he thinks fit.
 
-**8.** (1) Any person guilty of an offence against this Act or penaltics. any regulations for which no special penalty is provided by this Act shall be liable to a fine of $500, or imprisonment for 3 1983-x. months, or to both such penalties.
+*penaltics.*
 
-(2) Where an offence against this Act or any regulations thereunder committed by a company or other body of persons is proved to have been committed with the consent or con-
+*1983-x.*
 
-nivance of, or to have been facilitated by any neglect on the part of, any director, president, chairman, manager, secretary or other officer of the company, or other body of persons, he, as well as the company or body of persons, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+**8.** (1) Any person guilty of an offence against this Act or any regulations for which no special penalty is provided by this Act shall be liable to a fine of $500, or imprisonment for 3 months, or to both such penalties.
 
-**9.** (1) The Minister may make regulations generally for Power of carrying into effect this Act and in particular may by regula- zgiter to tions alter the Third Schedule by making additions thereto regulations. or deletions therefrom or otherwise amending it and the Third Schedule, as thus altered, shall be deemed to have been Third Schedule. enacted by and to form part of this Act.
+(2) Where an offence against this Act or any regulations thereunder committed by a company or other body of persons is proved to have been committed with the consent or connivance of, or to have been facilitated by any neglect on the part of, any director, president, chairman, manager, secretary or other officer of the company, or other body of persons, he, as well as the company or body of persons, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+*Power of zgiter to regulations.*
+
+*Third Schedule.*
+
+**9.** (1) The Minister may make regulations generally for carrying into effect this Act and in particular may by regulations alter the Third Schedule by making additions thereto or deletions therefrom or otherwise amending it and the Third Schedule, as thus altered, shall be deemed to have been enacted by and to form part of this Act.
 
 (2) Any regulations shall be subject to negative resolution.
 
-**10.** Without prejudice to the generality of the application ?I@;;?” of this Act, it is hereby declared that this Act shall apply in Govem-the cases of accidents, occupational diseases, or diseases speci- ment, etc. fied in regulations made under section 5, occurring to persons employed by or under
+*?I@;;?”*
 
-(a) any department of the Government of Barbados other ;4;+,16s/ than members of the Police Force or of Her Majesty’s armed forces; or
+*Govem-ment, etc.*
+
+**10.** Without prejudice to the generality of the application of this Act, it is hereby declared that this Act shall apply in the cases of accidents, occupational diseases, or diseases speci-fied in regulations made under section 5, occurring to persons employed by or under
+
+*;4;+,16s/*
+
+(a) any department of the Government of Barbados other than members of the Police Force or of Her Majesty’s armed forces; or
 
 (6) anndepartment of Her Majesty’s Government other
 
@@ -284,23 +302,29 @@ AccidentsandOccupationalDiseases L.R.O.1985 (No tif;:ca tion)
 
 (ii) such persons or classes of persons (not being members of Her Majesty’s naval, military or air forces) employed by or under any department of Her Majesty’s Government as may be specified by the Minister by order,
 
-and in such cases the.notice to be given under this Act by the employer shall be given by such person as the Head of the department of the Government of Barbados shall by written instructions direct.
+*and*
 
-**11.** The Chief Labour Officer shall be responsible for the Administra-
+in such cases the.notice to be given under this Act by the employer shall be given by such person as the Head of the department of the Government of Barbados shall by written instructions direct.
 
-tion of Act.
+*Administration of Act.*
 
-administration of this Act.
+**11.** The Chief Labour Officer
+
+shall be responsible for the administration of this Act.
 
 ## FIRST SCHEDULE (..%Ch’On 3)
 
-ACCIDENTS AND OCCUPATIONAL DISEASES (NSTIFICATION) Am. Cap, 338 Luw o/’ Hurhudos
+ACCIDENTS AND OCCUPATIONAL DISEASES (NSTIFICATION) Am.
+
+Cap, 338 Luw o/’ Hurhudos
 
 Notice of Accident or Dangerous Occurrence
 
 **1.** Nameofemployer.............................................
 
-\*. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Address of works or place where accident or dangerous occurrence happened....................................................
+*\\*.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Address of works or place where accident or dangerous occurrence happened....................................................
 
 **3.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Nature of industry, occupation or business . . . . . . . . . . . . . . . . , . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 Branch or department and exactly where accident or dangerous occurrencehappened . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -426,9 +450,7 @@ Bronchopulmonary diseases caused by cotton dust (byssinosis) hemp or sisal dust.
 
 Occupational asthma caused by sensitising agents or irritants recognised in this regard and inherent in the work process.
 
-*inhalation*
-
-*of*
+*inhalation of*
 
 Extrinsic allergic alveolitis and its sequelae caused by the organic dusts, as may be prescribed under any enactment.
 

@@ -48,7 +48,9 @@ the transfer of the assets and liabilities vested An Act toprovidefir
 
 in the Agricultural Credit Bank to the Crown. and fir related matters.
 
-[13th March, 19801 zF?-
+*zF?-*
+
+[13th March, 19801
 
 *short title.*
 
@@ -56,9 +58,9 @@ in the Agricultural Credit Bank to the Crown. and fir related matters.
 
 as the Agricultural Credit Bank (Transfer of Assets) Act.
 
-*22%*
+*22% ~dl&li-ties.*
 
-**2.** (1) All lands and property of any nature which immediately before 13th March, 1980 is vested in or held by the ~dl&li-Agricultural Credit Bank, in this Act referred to as “the Bank”, are ties. on that day hereby transferred to the Crown without any further conveyance or other formality and shall vest in the Crown in the same manner and for the same estate as previously held by the Bank.
+**2.** (1) All lands and property of any nature which immediately before 13th March, 1980 is vested in or held by the Agricultural Credit Bank, in this Act referred to as “the Bank”, are on that day hereby transferred to the Crown without any further conveyance or other formality and shall vest in the Crown in the same manner and for the same estate as previously held by the Bank.
 
 (2) Every loan made by the Bank and still outstanding on 13th March, 1980 shall be deemed to have been made by the Crown and all liens and charges of any nature for securing the repayment of any such loan to the Bank shall be deemed to have been made in favour of the Crown.
 

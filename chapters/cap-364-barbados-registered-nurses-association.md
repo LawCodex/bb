@@ -38,27 +38,53 @@ Printed in England by Eyre and Spottiswoode Limited, I Serjeants’ Inn London E
 
 *1943-6.*
 
-An Act to incorporate The Barbados Registered .Nurses Association.
+*An Act to*
 
-[ 15th February, 19431 c$$~~~c-
+incorporate The Barbados Registered .Nurses Association.
+
+*c$$~~~c-*
+
+[ 15th February, 19431
+
+*\1. This*
 
 *short title.*
 
-**1.** This Act may be cited as the Barbados Registered Nurses Association Act.
+*Association*
 
-*Incor: J;Ph’eahon Of BR;;:=& Nurses Association*
+Act may be cited as the Barbados Registered Nurses Act.
 
-**2.** (1) The present and all future members of the Association shall be and they are hereby declared and adjudged to be one body politic and corporate by the name of The Barbados Registered Nurses Association (hereinafter referred to as the Association) and by that name may have perpetual succession.
+*\2. (1)*
 
-(2) The Association by that name-
+*Incor:*
 
-(a) shall and may sue and be sued in all courts and before all magistrates and others in all manner of suits, actions, complaints, matters and causes whatsoever; and
+*shall be*
 
-(b) shall and may have a common seal and may alter and vary the same at their pleasure; and
+*J;Ph’eahon Of*
 
-(c) by such name shall be in law and equity capable of-
+*body*
 
-(i) acquiring and holding all estate and property real and personal as may at any time be acquired by or come to the Association in any manner whatsoever ; and
+*BR;;:=&*
+
+*Registered*
+
+*Nurses*
+
+*Association)*
+
+*Association*
+
+*(2) The*
+
+The present and all future members of the Association and they are hereby declared and adjudged to be one politic and corporate by the name of The Barbados Nurses Association (hereinafter referred to as the and by that name may have perpetual succession. Association by that name-
+
+*all*
+
+*vary by*
+
+(a) shall and may sue and be sued in all courts and before magistrates and others in all manner of suits, actions, complaints, matters and causes whatsoever; and (b) shall and may have a common seal and may alter and the same at their pleasure; and
+
+(c) such name shall be in law and equity capable of- (i) acquiring and holding all estate and property real and personal as may at any time be acquired by or come to the Association in any manner whatsoever ; and
 
 (ii) selling and disposing of the same from time to time for the benefit of the Association; and
 

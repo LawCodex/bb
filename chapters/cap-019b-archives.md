@@ -52,23 +52,25 @@ retrieved: 2026-10-13
 
 **16.** Records etc. maintained under another enactment but transferred to the Archives Department.
 
-### CHAPTER 19B
+*1989-21.*
 
-### ARCHIVES
+CHAPTER 19B ARCHIVES An Act to provide for the custody and preservation of public archives, public records and other documents.
 
-An Act to provide for the custody and preservation of public archives, 1989-21. public records and other documents.
+*Commencement. 2001/122.*
 
-15th December, 2001 Commencement. 2001/122.
+15th December, 2001
+
+*Short title.*
 
 **1.** This Act may be cited as the Archives Act.
 
-Short title.
+*Interpretation.*
 
 **2.** In this Act
 
-Interpretation.
+*Cap. 21.*
 
-"Chief Archivist" means the person holding or acting in the office of Chief Archivist established under the Civil Establishment Act; Cap. 21.
+"Chief Archivist" means the person holding or acting in the office of Chief Archivist established under the Civil Establishment Act;
 
 "Committee" means the Archives Advisory Committee established under section 3;
 
@@ -142,7 +144,11 @@ inspection and preservation of documents and manuscripts of historical or cultur
 
 cf) editing and publishing of public archives and private manuscripts.
 
-**5.** (1) The Chief Archivist shall have charge of the Archives Power and Department and of the public archives and public records $$g;Jf deposited therein or transferred thereto and in addition to the Archivist. specific functions conferred or imposed on him by this Act, he shall take all such measures as are necessary for the conservation of public archives, public records and private manuscripts.
+*Power and $$g;Jf*
+
+*Archivist.*
+
+**5.** (1) The Chief Archivist shall have charge of the Archives Department and of the public archives and public records deposited therein or transferred thereto and in addition to the specific functions conferred or imposed on him by this Act, he shall take all such measures as are necessary for the conservation of public archives, public records and private manuscripts.
 
 (2) Subject to this Act and the regulations, the Chief Archivist, or any other officer of the Archives Department authorised by the Chief Archivist may do all such things as appear to him to be or expedient for the purpose of the efficient necessary
 
@@ -156,11 +162,13 @@ administration of this Act and may, in particular make available and publish lis
 
 (4 acquire by purchase, donation, bequest, contract or otherwise or take on loan, any record, manuscript or
 
-‘IHE OF BARBADOS Mntd by 010 fhwnmcnt Pdnfiq Department, Bay Suee:, St. hfich&, by the authority of the Government of Barbrdon
+‘IHE BARBADOS Mntd by 010 fhwnmcnt Pdnfiq Department, Bay Suee:, St. hfich&, by the authority of the Government of Barbrdon
 
 document on any material which, in his opinion shall be deposited in the Archives Department for permanent preservation;
 
-cfl examine any record, manuscript or document containing references to or which had its origin in but lies outside Barbados, with a view to securing, either on loan or by purchase, the original or any copy thereof;
+*cfl*
+
+examine any record, manuscript or document containing references to or which had its origin in but lies outside Barbados, with a view to securing, either on loan or by purchase, the original or any copy thereof;
 
 (g) examine any collection of records or printed material in private possession for purposes of listing or recording and render such technical aid or assistance as may be necessary for the conservation and preservation of such records or printed material;
 
@@ -176,17 +184,21 @@ cfl examine any record, manuscript or document containing references to or which
 
 (c) the classification of public records for any of the purposes in paragraphs (a) and (b).
 
-(4) The Chief Archivist shall signify to the Minister those public records which, in his opinion, are of enduring or historical value.
+*public value.*
 
-(5) The Minister may give directions for the purpose of giving effect, whether with or without modification, to the recommendations made by the Chief Archivist.
+(4) The Chief Archivist shall signify to the Minister those records which, in his opinion, are of enduring or historical
 
-(6) The Chief Archivist may in writing delegate any of his powers and functions under this Act to any officer of the Archives Department.
+*effect,*
 
-**6.** (1) The Chief Archivist shall have access to any place of sele~ti~n deposit of public records and shall have the power to examine $:Agifer
+(5) The Minister may give directions for the purpose of giving whether with or without modification, to the recommendations made by the Chief Archivist.
 
-*to*
+*powers*
 
-such records with a view to listing them or collecting information records thereof or to taking such steps as are necessary for their transfer to $&*z;y the Archives Department for preservation.
+(6) The Chief Archivist may in writing delegate any of his and functions under this Act to any officer of the Archives Department.
+
+*sele~ti~n $:Agifer records to $&\*z;y*
+
+**6.** (1) The Chief Archivist shall have access to any place of deposit of public records and shall have the power to examine such records with a view to listing them or collecting information thereof or to taking such steps as are necessary for their transfer to the Archives Department for preservation.
 
 (2) It shall be the duty of the responsible officer of any public office or any other person for the time being having custody of any public records
 
@@ -260,11 +272,9 @@ Department shall be regarded as confidential and shall not be available to any p
 
 *Documents z$ty-*
 
-**10.** (1) The chief executive officer of any private institution or any person in possession of any manuscript or document of
-
 *private possession.*
 
-historical, cultural or literary value, shall notify the Chief Archivist of the existence of the document or manuscript.
+**10.** (1) The chief executive officer of any private institution or any person in possession of any manuscript or document of historical, cultural or literary value, shall notify the Chief Archivist of the existence of the document or manuscript.
 
 (2) The person, or executive officer referred to in subsection
 
@@ -284,7 +294,11 @@ historical, cultural or literary value, shall notify the Chief Archivist of the 
 
 (5) Any person who does not agree with the declaration of the Chief Archivist may appeal to the Minister whose decision shall be final.
 
-**11.** (1) No person shall except on the authority of a licence Pmh&&on issued by the Minister export, take, send or cause to be exported, $ky,“! taken or sent out of Barbados any record, document or manuscript nmts ~np or any o&er printed matter being of historical, cultural or literary manuscnptsV value.
+*Pmh&&on $ky,“!*
+
+*nmts ~np manuscnptsV*
+
+**11.** (1) No person shall except on the authority of a licence issued by the Minister export, take, send or cause to be exported, taken or sent out of Barbados any record, document or manuscript or any o&er printed matter being of historical, cultural or literary value.
 
 (2) The Minister may in his discretion refuse to issue a licence if he considers that the record, document or manuscript is
 
@@ -292,27 +306,25 @@ Rtmd by Uu Gowmmert Mntln~ Deputment, Bay Street, St. Mlchul.
 
 by tlr suthodty of tha Gowmmenc of hrbsdoc
 
-of such historical, cultural or literary value that the export, sending or taking of that record, document or manuscript out of Barbados will not be in the national interest.
+such historical, cultural or literary value that the export, sending or taking of that record, document or manuscript out of Barbados will not be in the national interest.
 
 (3) A licence issued under subsection (1) may contain such terms and conditions as the Minister determines.
 
-**12.** No public records shall be destroyed except with the Destruction
+*Destruction of public records.*
 
-of public written consent of the Chief Archivist.
+**12.** No public records shall be destroyed except with the written consent of the Chief Archivist.
 
-records.
+*Authentication of copes and extrads.*
 
-**13.** A copy of or an extract from any public archive, public Authentica-
+*like been*
 
-tion of record or any private document or manuscript deposited in the copes and
+**13.** A copy of or an extract from any public archive, public record or any private document or manuscript deposited in the Archives Department purporting to be duly certified as true and authenticated by the Chief Archivist or any other officer authorised by him in writing for the purpose, is admissible in evidence in any proceedings in any court in like manner and to the extent as the original document or manuscript would have admissible.
 
-Archives Department purporting to be duly certified as true and extrads.
+*Regulations.*
 
-authenticated by the Chief Archivist or any other officer authorised by him in writing for the purpose, is admissible in evidence in any proceedings in any court in like manner and to the like extent as the original document or manuscript would have been admissible.
+14.
 
-**14.** (1) The Minister may make regulations Regulations.
-
-(4 regulating the selection of public records, private documents and manuscripts for permanent preservation, their transfer to and deposit in the Archives Department and the measures to be taken for their effective preservation in the Archives Department.
+(1) The Minister may make regulations (4 regulating the selection of public records, private documents and manuscripts for permanent preservation, their transfer to and deposit in the Archives Department and the measures to be taken for their effective preservation in the Archives Department.
 
 W respecting the temporary deposit of any specified class or description of public records at places other than the Archives Department pending their transfer to the Archives Department;
 
@@ -338,11 +350,9 @@ W respecting the temporary deposit of any specified class or description of publ
 
 (c) contravenes this Act or the regulations, is guilty of an offence and is liable on summary conviction to a fine of $5 000 or imprisonment for 12 months or to both.
 
-**16.** When a public record or document required to be maintained
-
 *Records etc. maintained under another enactment but transferred to the Archives Department.*
 
-under any enactment other than this Act is transferred to or deposited in the Archives Department for permanent preservation under this Act, the public record or document shall be deemed to be maintained in the Archives Department under the other enactment, and accordingly the provisions of that enactment shall apply to and in relation to the record or document.
+**16.** When a public record or document required to be maintained under any enactment other than this Act is transferred to or deposited in the Archives Department for permanent preservation under this Act, the public record or document shall be deemed to be maintained in the Archives Department under the other enactment, and accordingly the provisions of that enactment shall apply to and in relation to the record or document.
 
 (Section 3)
 

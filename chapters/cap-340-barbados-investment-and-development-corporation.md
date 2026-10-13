@@ -122,39 +122,45 @@ Cap. 1.
 
 (j) to do such other things as may be necessary for the proper performance by the Corporation of its functions.
 
-**5.** (1) There is hereby established a Board of Directors of the Board of Corporation which is responsible for the general administration of the Directors. Corporation.
+*Board of Directors.*
 
-(2) The Schedule has effect with respect to the constitution of the Schedule. Board and otherwise in relation thereto.
+**5.** (1) There is hereby established a Board of Directors of the Corporation which is responsible for the general administration of the Corporation.
 
-**6.** The Directors of the Corporation are entitled to such remunera- Remuneration as the Minister determines. tion.
+*Schedule.*
 
-**7.** (1) A director of the Board who has any interest in a company Disclosure or concern with which the Corporation proposes to make a contract or of director's interest. transact any other business shall disclose to the Corporation the particulars of that interest; and details of the disclosure shall be recorded in the minutes taken at the meeting at which the disclosure is made.
+(2) The Schedule has effect with respect to the constitution of the Board and otherwise in relation thereto.
+
+*Remuneration.*
+
+**6.** The Directors of the Corporation are entitled to such remuneration as the Minister determines.
+
+*Disclosure of director's interest.*
+
+**7.** (1) A director of the Board who has any interest in a company or concern with which the Corporation proposes to make a contract or transact any other business shall disclose to the Corporation the particulars of that interest; and details of the disclosure shall be recorded in the minutes taken at the meeting at which the disclosure is made.
 
 (2) A director referred to in subsection (1) shall not take part in any deliberation or discussion of the Board relating to that contract or business.
 
-**8.** (1) The Board shall, with the approval of the Minister, appoint Appoint-a Chief Executive Officer and Deputy Chief Executive Officer. ment of Chief Executive
+*Appointment of Chief Executive Officer and Deputy Chief Executive Officer.*
 
-(2) The Chief Executive Officer is subject to the directions of the Officer and Board, and is responsible to the Board for the execution of its policy Deputy Chief and the management of the Corporation.
+**8.** (1) The Board shall, with the approval of the Minister, appoint a Chief Executive Officer and Deputy Chief Executive Officer.
 
-Executive Officer.
+(2) The Chief Executive Officer is subject to the directions of the Board, and is responsible to the Board for the execution of its policy and the management of the Corporation.
 
-**9.** (1) The Board may, subject to subsection (2), employ, at such Appoint-remuneration and on such terms and conditions as it thinks fit, such ment of employees, persons as it deems necessary for the proper discharge of the functions remunera-of the Corporation. tion and pensions.
+*Appointment of employees, remuneration and pensions.*
+
+**9.** (1) The Board may, subject to subsection (2), employ, at such remuneration and on such terms and conditions as it thinks fit, such persons as it deems necessary for the proper discharge of the functions of the Corporation.
 
 (2) The Board shall not assign remuneration to any post without the prior approval in writing of the Minister.
 
 (3) No provision shall be made for the payment of any pension, gratuity or other like benefit to any person employed by the Corporation without the prior approval in writing of the Minister.
 
-(4) Where a public officer is seconded or temporarily transferred from a pensionable office within the meaning of section 2(1) of the
-
 *Cap. 25.*
 
-Pensions Act to perform any service with the Corporation, his service with the Corporation shall, unless the Governor-General otherwise decides, count for pension under that Act as if the officer had not been so seconded or transferred.
-
-(5) If the services of a person employed by the Corporation are on loan to the Government, he is entitled to such benefits and terms of employment as are applicable to the post which he occupies, and the service with the Corporation shall be taken into account as
+(4) Where a public officer is seconded or temporarily transferred from a pensionable office within the meaning of section 2(1) of the Pensions Act to perform any service with the Corporation, his service with the Corporation shall, unless the Governor-General otherwise decides, count for pension under that Act as if the officer had not been so seconded or transferred.
 
 *Cap. 25. 1947-20.*
 
-continuous service with the Government and the Pensions Act and the Pensions Regulations, 1947 shall apply to him as if his service with the Corporation were service within the meaning of that Act.
+(5) If the services of a person employed by the Corporation are on loan to the Government, he is entitled to such benefits and terms of employment as are applicable to the post which he occupies, and the service with the Corporation shall be taken into account as continuous service with the Government and the Pensions Act and the Pensions Regulations, 1947 shall apply to him as if his service with the Corporation were service within the meaning of that Act.
 
 (6) Where a public officer is transferred to the service of the Corporation in accordance with subsection (4), the Corporation shall refund to the Consolidated Fund all moneys payable as pension in respect of the service of that officer with the Corporation.
 
@@ -166,15 +172,15 @@ continuous service with the Government and the Pensions Act and the Pensions Reg
 
 *Cap. 25.*
 
-the Pensions Act shall apply to him as if his service with the Corporation was other public service within the meaning of the Act, and the
-
 *1947-20.*
 
-Pensions Regulations, 1947 shall apply to him accordingly.
+the Pensions Act shall apply to him as if his service with the Corporation was other public service within the meaning of the Act, and the Pensions Regulations, 1947 shall apply to him accordingly.
 
 (8) For the purposes of this section, service of a person referred to in subsections (1) to (3) with the Board shall be aggregated with his service with the Corporation for the purpose of computing any pension or other retiring allowance to which he may be entitled.
 
-**10.** The Minister may, after consultation with the Chairman of the Directions Board, give directions of a general nature in respect of the policy to be of Minister. followed by the Board in the performance of its functions under this Act, and the Board shall comply with the directions.
+*Directions of Minister.*
+
+**10.** The Minister may, after consultation with the Chairman of the Board, give directions of a general nature in respect of the policy to be followed by the Board in the performance of its functions under this Act, and the Board shall comply with the directions.
 
 *Funds of Corporation.*
 
@@ -240,17 +246,23 @@ Pensions Regulations, 1947 shall apply to him accordingly.
 
 **15.** The Corporation may charge such fees for any service performed by the Corporation as are prescribed by order made by the Minister responsible for Finance.
 
-**16.** (1) The Corporation shall keep accounts of its transactions. Accounts and audit.
+*Accounts and audit.*
+
+**16.** (1) The Corporation shall keep accounts of its transactions.
 
 (2) The accounts of the Corporation shall be audited annually by an auditor appointed by the Board with the approval of the Minister.
 
 (3) The Auditor-General may at any time, and shall on the direction of the Minister responsible for Finance, carry out an investigation into, or special audit of, the accounts of the Corporation.
 
-**17.** (1) A director, officer or employee of the Corporation shall Access by afford the Auditor-General or other auditor appointed under Auditor-General or section 16 access to all books, documents, cash and securities of the auditor. Corporation, and on request shall give the Auditor-General or auditor any information within the knowledge of that director, officer or employee that relates to the operations of the Corporation.
+*Access by Auditor-General or auditor.*
+
+**17.** (1) A director, officer or employee of the Corporation shall afford the Auditor-General or other auditor appointed under section 16 access to all books, documents, cash and securities of the Corporation, and on request shall give the Auditor-General or auditor any information within the knowledge of that director, officer or employee that relates to the operations of the Corporation.
 
 (2) A person who fails to comply with this section commits an offence and is liable on summary conviction to a fine of $1 000 or imprisonment for 12 months or both.
 
-**18.** (1) The Corporation shall, as soon as possible after the Reports. expiration of the financial year and in any case not later than 31st July 2003-1. in each year, submit to the Minister a report containing
+*Reports. 2003-1.*
+
+**18.** (1) The Corporation shall, as soon as possible after the expiration of the financial year and in any case not later than 31st July in each year, submit to the Minister a report containing
 
 (a) a detailed account of the performance of the Corporation's activities and operations during the preceding financial year; and
 
@@ -258,13 +270,15 @@ Pensions Regulations, 1947 shall apply to him accordingly.
 
 (2) The Minister shall lay before Parliament a copy of the report referred to in subsection (1) as soon as practicable after receiving that report.
 
-**19.** The financial year of the Corporation shall be a period of Financial year. 12 months ending at midnight on 31st March.
+*Financial year. 2003-1.*
 
-2003-1.
+**19.** The financial year of the Corporation shall be a period of 12 months ending at midnight on 31st March.
+
+CAP.
 
 *Pensionable service and transfer of assets. 1993-12.*
 
-**20.** With effect from 1st December, 1992,
+With effect from 1st December, 1992,
 
 (a) any contract entered into by or on behalf of the Barbados Export Promotion Corporation or the Barbados Industrial Development Corporation before 1st December, 1992 shall be deemed to have been entered into by or on behalf of the Barbados Investment and Development Corporation;
 
@@ -274,21 +288,15 @@ Pensions Regulations, 1947 shall apply to him accordingly.
 
 (d) all assets and liabilities of the Barbados Export Promotion Corporation and of the Barbados Industrial Development Corporation are deemed to be transferred to the Barbados Investment and Development Corporation.
 
-*Savings of pension etc. 1996-23.*
-
-**21.** Where a public officer who has pensionable service is transferred to or becomes employed in the service of the Corporation, his service with the Corporation shall, whether or not there was a break in service, be aggregated with his service in the public service and his
-
-*Cap. 25.*
-
-pension shall be calculated in accordance with the Pensions Act and the
+*Savings of pension etc. 1996-23. his in Cap. 25.*
 
 *1947-20.*
 
-Pensions Regulations, 1947 as if all of his service was service in the public service.
+**21.** Where a public officer who has pensionable service is transferred to or becomes employed in the service of the Corporation, service with the Corporation shall, whether or not there was a break service, be aggregated with his service in the public service and his pension shall be calculated in accordance with the Pensions Act and the Pensions Regulations, 1947 as if all of his service was service in the public service.
 
 *Regulations.*
 
-**22.** The Minister may make regulations generally for the carrying out of the purposes of this Act.
+The Minister may make regulations generally for the carrying out of the purposes of this Act.
 
 ## SCHEDULE
 

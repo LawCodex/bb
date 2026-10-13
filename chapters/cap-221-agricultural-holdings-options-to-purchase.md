@@ -142,11 +142,9 @@ the tenant may apply to the High Court, and the Court shall do all such things a
 
 ### CAP.221
 
-(2) In the exercise of its powers under subsection (l), the Judge shall determine the purchase price to be paid in accordance with the
-
 *Cap. 228.*
 
-rules set out in section 11 of the Land Acquisition Act.
+(2) In the exercise of its powers under subsection (l), the Judge shall determine the purchase price to be paid in accordance with the rules set out in section 11 of the Land Acquisition Act.
 
 *Payment of purchase money into COUlt.*
 

@@ -44,23 +44,31 @@ Airport Semite Charge
 
 THB LAWS OF BARBADOS Printed in Eqland by Eyre and Spottiswcade Limited, 2 Serjeants’ Inn, London ECq, by authority of the Government of Barbados
 
-### CHAPTER 59
+*An*
 
-### AIRPORT SERVICE CHARGE
+*1967-58. 1970-30. 1971-43. 1972-24. 1976-18. 1983-35. 1984-42. 1989-20. 1991-6. 2003-3. Commencement.*
 
-An Act to provide for the imposition of an airport service charge on 1967-58. persons travelling out of Barbados from Grantley Adams 1970-30. 1971-43. International Airport, for the collecting of the charge so imposed, 1972-24. and for matters incidental thereto or connected therewith. 1976-18. 1983-35. 1984-42. 1989-20. 1991-6. 2003-3. [1st September, 1967] Commencement.
+CHAPTER 59 AIRPORT SERVICE CHARGE Act to provide for the imposition of an airport service charge on persons travelling out of Barbados from Grantley Adams International Airport, for the collecting of the charge so imposed, and for matters incidental thereto or connected therewith.
 
-**1.** This Act may be cited as the Airport Service Charge Act. Short title.
+[1st September, 1967]
 
-**2.** For the purposes of this Act, Interpretation.
+*Short title.*
+
+**1.** This Act may be cited as the Airport Service Charge Act.
+
+*Interpretation.*
+
+**2.** For the purposes of this Act,
 
 "aircraft" means any machine for flying, whether propelled by mechanical means or not, and includes any description of balloon;
 
-"the Airport" means the Grantley Adams International Airport;
+*"the*
 
-1983-35.
+*1983-35.*
 
-"the Airport service charge" means the charge imposed by section 3;
+*"the*
+
+Airport" means the Grantley Adams International Airport; Airport service charge" means the charge imposed by section 3;
 
 "carrier" means
 
@@ -76,11 +84,9 @@ An Act to provide for the imposition of an airport service charge on 1967-58. pe
 
 "Collector" means the Grantley Adams International Airports Inc.;
 
-"immigration officer" means the Chief Immigration Officer and any
-
 *Cap. 190.*
 
-immigration officer appointed under the Immigration Act;
+"immigration officer" means the Chief Immigration Officer and any immigration officer appointed under the Immigration Act;
 
 "traveller" means a person who proposes to travel from the Airport to any place outside Barbados.
 
@@ -138,11 +144,11 @@ Sertlice
 
 (6) For the purpose of deciding any claim pursuant to subsection (5) an immigration officer may make such enquiries (either of the traveller or of any other person) as he thinks fit.
 
-**5.** (1) Any person who, for the purpose of evading payment by offences. himself or by any other person of the airport service charge,
+*offences.*
 
-### THE LAWS OF BARBADOS
+**5.** (1) Any person who, for the purpose of evading payment by himself or by any other person of the airport service charge,
 
-Rmted by the Government Prmtmg Deprlmrnl. I3ay Street. St Michael, by the aufhonty of the Government al Barbados
+THE LAWS OF BARBADOS Rmted by the Government Prmtmg Deprlmrnl. I3ay Street. St Michael, by the aufhonty of the Government al Barbados
 
 ss.68
 
@@ -170,11 +176,13 @@ charge. payable by that person and may order, in default of such payment, impris
 
 Refunds. 8. (1) Any person who proves to the satisfaction of a Collector that he has paid, on account of the airport service charge, an amount in excess of the amount which he is properly required to pay pursuant to this Act shall be entitled to have the amount so
 
-7 L.R.O.
+*paid*
 
-paid in excess refunded, and the Accountant-General is hereby authorised to make the refund accordingly.
+in excess refunded, and the Accountant-General is hereby authorised to make the refund accordingly.
 
-(2) No claim for a refund under this section shall be entertained after the expiration of 6 months from the date on which payment of the amount in dispute was made.
+*which*
+
+(2) No claim for a refund under this section shall be entertained after the expiration of 6 months from the date on payment of the amount in dispute was made.
 
 *Regulations.*
 

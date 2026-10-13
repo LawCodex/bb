@@ -180,17 +180,13 @@ order” has the meaning assigned to it by section 13; “adoption
 
 *1981-35.*
 
-“guardian” in relation to a minor means a person appointed
-
 *Cap.*
 
-by deed or will in accordance with the Minors Act 215. or by any court to be the guardian of the minor;
-
-“minor” means a person under 18 years of age but
+“guardian” in relation to a minor means a person appointed by deed or will in accordance with the Minors Act 215. or by any court to be the guardian of the minor;
 
 *1974-18.*
 
-does not include a person who is or has been married;
+“minor” means a person under 18 years of age but does not include a person who is or has been married;
 
 “interim order” means an order under section 20;
 
@@ -228,7 +224,7 @@ Power of 4. The Child Care Board shall make or cause to be the Child
 
 made such enquiries, obtain or cause to be obtained such Care Board
 
-to.?$een- reports, and carry out such interviews as shall be necessary or qulnes, etc.
+to.?$een-reports, and carry out such interviews as shall be necessary or qulnes, etc.
 
 shall be prescribed for the purpose of making arrangements 1981-35.
 
@@ -262,19 +258,25 @@ lawfully be made in favour of such person; or
 
 (c) that such person being resident abroad, a licence has not been granted in respect of the minor concerned under section 37.
 
-**6.** Where the Child Care Board for any reason decides Notice to be sewed on that a minor should not be placed in the care and possession applicant if of a person desirous of adopting the minor, it shall give notice care and possession in writing to that person of its intention not to place the minor is refused. in his care and possession. 1981-35.
+*Notice to be sewed on applicant if care and possession is refused. 1981-35.*
 
-**7.** When a minor is placed by the Child Care Board in Power of Child Care the care and possession of a person resident in Barbados in Board to of the appoint per-pursuance of arrangements made for the adoption sons to minor, the Child Care Board shall appoint one or more supervise a minor placed persons to keep the minor under close supervision in accordance in the care with regulations during such time as the minor is in such care and possession of an and possession pending the making of an adoption order or an applicant who is resi-interim order.
+**6.** Where the Child Care Board for any reason decides that a minor should not be placed in the care and possession of a person desirous of adopting the minor, it shall give notice in writing to that person of its intention not to place the minor in his care and possession.
 
-dent in Barbados. 1981-35.
+*Power of Child Care Board to appoint per-sons to supervise a minor placed in the care and possession of an applicant who is resident in Barbados. 1981-35.*
 
-**8.** (1) At any time within 6 months from the date on Provisions relating to which a minor is placed by the Child Care Board in the arrangements care and possession of a person resident in Barbados in Child made by the Care pursuance of arrangements made for the adoption of the Board. minor 1981-35.
+**7.** When a minor is placed by the Child Care Board in the care and possession of a person resident in Barbados in pursuance of arrangements made for the adoption of the minor, the Child Care Board shall appoint one or more persons to keep the minor under close supervision in accordance with regulations during such time as the minor is in such care and possession pending the making of an adoption order or an interim order.
+
+*Provisions relating to arrangements made by the Child Care Board. 1981-35.*
+
+**8.** (1) At any time within 6 months from the date on which a minor is placed by the Child Care Board in the care and possession of a person resident in Barbados in pursuance of arrangements made for the adoption of the minor
 
 (a) that person may give notice in writing to the Child Care Board of his intention not to adopt the minor; or
 
 (b) the Child C are Board may give notice in writing to that person of its intention not to allow the minor to remain in his care and possession.
 
-(2) Where any notice is given to the Child Care Board 1981- 35. by any person or by the Child Care Board to any person under subsection (l), that person shall, within 7 days after the date on which the notice was given, cause the minor to be returned to the parent or guardian of the minor, who shall receive the minor accordingly.
+*1981- 35.*
+
+(2) Where any notice is given to the Child Care Board by any person or by the Child Care Board to any person under subsection (l), that person shall, within 7 days after the date on which the notice was given, cause the minor to be returned to the parent or guardian of the minor, who shall receive the minor accordingly.
 
 Prln~lrq Department, ?tintod by tba Gownmeal Bay Street, St. Michael.
 
@@ -282,9 +284,9 @@ by thr l
 
 borlIy of Iho Government of Barbados
 
-**9.** (1) Any person given a notice by the Child Care Board f$K& under
+**9.** (1) Any person given a notice by the Child Care Board f$K&
 
-section 6 or 8 may, within 7 days of the receipt of a notice so given, appeal to the High Court.
+under section 6 or 8 may, within 7 days of the receipt of a notice so given, appeal to the High Court.
 
 1956-57. (2) Any appeal under this section shall be in accordance with such procedure, and subject to such conditions, as may be prescribed.
 
@@ -320,19 +322,29 @@ period of 6 months, the person into whose care and possession the minor was deli
 
 (b) give notice in writing to the Child Care Board of his intention not to apply for such an order.
 
-(2) Where such notice is given to the Child Care Board 1981-3s. or where an application for an adoption order is refused by the court, the person who has given such notice or who has been refused an adoption order shall, within 7 days after the date on which the notice was given, or, as the case may be, the application refused, cause the minor to be returned to his parent or guardian, who shall receive the minor accordingly.
+*1981-3s.*
 
-**11.** It shall be sufficient compliance with subsection (2) of Provision section 8 or subsection (2) of section 10, if a minor is returned supple mentary to by the person required to return such minor under the said sections 8 and 10. subsections to, and is received by, a suitable person appointed 1981-35. with his consent for that purpose by the Child Care Board, or, as the case may be, by the court.
+(2) Where such notice is given to the Child Care Board or where an application for an adoption order is refused by the court, the person who has given such notice or who has been refused an adoption order shall, within 7 days after the date on which the notice was given, or, as the case may be, the application refused, cause the minor to be returned to his parent or guardian, who shall receive the minor accordingly.
 
-**12.** Where the minor in respect of whom an adoption order Release of inmate of is sought is an inmate of a Reformatory and Industrial School established under the Reformatory and. Industrial Schools Act, Fc$%-Industrial the Principal of such school may, with the consent of the Schools for Governor-General, and notwithstanding al thing contained in purpoSes of
+*Provision supple mentary to sections 8 and 10. 1981-35.*
 
-that Act, sanction the unconditional release of the minor from gy;g.- 1981-35. such school for the purposes of this Act.
+**11.** It shall be sufficient compliance with subsection (2) of section 8 or subsection (2) of section 10, if a minor is returned by the person required to return such minor under the said subsections to, and is received by, a suitable person appointed with his consent for that purpose by the Child Care Board, or, as the case may be, by the court.
+
+*Release of inmate of*
+
+*Fc$%-Industrial Schools for of purpoSes*
+
+*gy;g.- 1981-35.*
+
+**12.** Where the minor in respect of whom an adoption order is sought is an inmate of a Reformatory and Industrial School established under the Reformatory and. Industrial Schools Act, the Principal of such school may, with the consent of the Governor-General, and notwithstanding al thing contained in that Act, sanction the unconditional release of the minor from such school for the purposes of this Act.
 
 ## PART III
 
 Adoption Orders
 
-**13.** (1) Subject to this Act, the court may, upon an Power to application made in the prescribed manner by a citizen of ~~$&,, Barbados or a person who is a citizen of a country with which ~z~s, Barbados has diplomatic or consular relations and who is 1967. domiciled in Barbados, make an order (in this Act referred 1981-35.
+*Power to ~~$&,, ~z~s,*
+
+**13.** (1) Subject to this Act, the court may, upon an application made in the prescribed manner by a citizen of Barbados or a person who is a citizen of a country with which Barbados has diplomatic or consular relations and who is 1967. domiciled in Barbados, make an order (in this Act referred
 
 ‘I?fE
 
@@ -376,7 +388,9 @@ unless the court is satisfied that there are special circumstances which justify
 
 (5) An adoption order shall not be made unless the applicant and the minor reside in Barbados.
 
-(6) An adoption order shall not be made in respect of any 1981-x. minor unless
+*1981-x.*
+
+(6) An adoption order shall not be made in respect of any minor unless
 
 (a) from the date on which the minor was placed in the care and possession of a person desirous of adopting him in pursuance of arrangements made by the Child Care Board for his adoption by that person he has been in the care and possession of that person for a total period of 6 months and was in the care and possession of that person at the time that the application for an adoption order was made;
 
@@ -438,35 +452,31 @@ Act may, at any time before an adoption order is made, withdraw his consent.
 
 (2) In considering whether to accept the withdrawal of the consent of the person referred to in subsection (1) the court must have regard to the welfare of the minor.
 
-**16.** (1) Where any person whose consent to the making of Evidence of an adoption order is required by paragraph (a) of subsection (4) ~~‘~:b~’ of section 14 does not attend in the proceedings for the purpose guardian. of giving it, then, subject to subsection (3), a document signifying his consent to the making of such an order shall, if the person in whose favour the order is to be made is named in the document or (where the identity of that person is not known to the consenting party) is distinguished therein in the prescribed manner, be admissible as evidence of that consent, whether the document is executed before or after the com-
+*Evidence of ~~‘~:b~’ guardian.*
 
-mencement of the proceedings.
+**16.** (1) Where any person whose consent to the making of an adoption order is required by paragraph (a) of subsection (4) of section 14 does not attend in the proceedings for the purpose of giving it, then, subject to subsection (3), a document signifying his consent to the making of such an order shall, if the person in whose favour the order is to be made is named in the document or (where the identity of that person is not known to the consenting party) is distinguished therein in the prescribed manner, be admissible as evidence of that consent, whether the document is executed before or after the commencement of the proceedings.
 
 (2) Where any such document is attested in Barbados by a Justice of the Peace or, if executed outside Barbados, by a person of any such class as may be prescribed, the document shall be admissible as aforesaid without further proof of the signature of the person by whom it is executed; and for the purposes of this subsection, a document purporting to be attested as aforesaid shall be deemed to be so attested and to be executed and attested on the date and at the place specified therein, unless the contrary is proved.
 
-(3) A document signifying the consent of a mother of a
-
 *1981-35.*
 
-minor shall not be admissible under this section unless
+(3) A document signifying the consent of a mother of a minor shall not be admissible under this section unless
 
 (a) the minor is at least 6 weeks old on the date of the execution of the document; and
 
 (b) the document is attested on that date by a Justice of the Peace or, as the case may be, by a person of a class prescribed for the purposes of subsection (2).
 
-(4) For the purposes of this section, a document signifying a person’s consent to the making of an adoption order shall include a licence issued abroad by virtue of which a minor is 1981-35.. brought into Barbados for adoption.
+*1981-35..*
 
-*Functions*
+(4) For the purposes of this section, a document signifying a person’s consent to the making of an adoption order shall include a licence issued abroad by virtue of which a minor is brought into Barbados for adoption.
 
-**17.** (1) The court before making an adoption order shall be ,O,‘;;U,,“,;;~
+*Functions ,O,‘;;U,,“,;;~ orders.*
 
-*orders.*
-
-satisfied
+**17.** (1) The court before making an adoption order shall be satisfied
 
 Ptttttrd by the Gowmment Pdntlq Department. Bay Street. SC. Mlchacl, by tM Whotlty of tha Govnnment of hhdot
 
-ss.18-18A CAP. 212
+ss.18-18A
 
 (a) that every person whose consent is necessary under this Act and whose consent is not dispensed with, has consented to and understands the nature and effect of the adoption order for which application is made and, in particular in the case of any parent, understands that the effect of the adoption order will be permanently to deprive him or her of his or her parental rights;
 
@@ -568,19 +578,29 @@ and education of the minor, including all rights to appoint a 1981-35.
 
 guardian and to consent or give notice of dissent to marriage, shall be extinguished, and all such rights, duties, obligations and liabilities shall rest in and be exercisable by and enforceable
 
-CAP. 212 ss.22-23
-
 against the adopter as if the minor were the natural child of the adopter, and in respect of the matters aforesaid and in respect of the liability of a child to maintain his parents, the minor shall stand to the adopter exclusively in the position of the natural child of the adopter.
 
-(2) In any case where two spouses are the adopters, the spouses 1981-X. shall, in respect of the matters mentioned in subsection (1) and for the purposes of the jurisdiction of any court to make orders as to the custody and maintenance of and right of access to children, stand to each other and to the minor in the same relation as they would have stood if they had been the father and mother of the minor and the minor shall stand to them respectively in the same relation as to a father and mother respectively.
+*1981-X.*
 
-(3) For the purposes of the law relating to marriage, an 1981-3s. adopter and the person whom he is authorised to adopt under an adoption order shall be deemed to be within the prohibited degrees of consanguinity, and this subsection shall continue to have effect notwithstanding that some person other than the adopter is authorised by a subsequent order to adopt the same minor.
+(2) In any case where two spouses are the adopters, the spouses shall, in respect of the matters mentioned in subsection (1) and for the purposes of the jurisdiction of any court to make orders as to the custody and maintenance of and right of access to children, stand to each other and to the minor in the same relation as they would have stood if they had been the father and mother of the minor and the minor shall stand to them respectively in the same relation as to a father and mother respectively.
 
-**22.** (1) For the purposes of the Friendly Societies Act, which Fri$ly enables friendly societies to insure money to be paid for &$& funeral expenses and which restricts the persons to whom cap. 379.’ money may be paid on the death of a child under the age of 10, an adopter shall be deemed to be the parent of the minor 1981-3s. whom he is authorised to adopt under an adoption order.
+*1981-3s.*
 
-(2) Where, before the making of an adoption order in 1981-35. respect of a minor, any insurance mentioned in subsection (1) has been effected by the natural parent of the minor, the rights and liabilities under the policy shall by virtue of the adoption order be transferred to the adopter and the adopter shall, for the purposes of the said Act, be treated as the person who took out the policy.
+(3) For the purposes of the law relating to marriage, an adopter and the person whom he is authorised to adopt under an adoption order shall be deemed to be within the prohibited degrees of consanguinity, and this subsection shall continue to have effect notwithstanding that some person other than the adopter is authorised by a subsequent order to adopt the same minor.
 
-**23.** (1) Where an adoption order is made in respect of a zg;zE minor, then, subject to this section, any order for maintenance in 197932. ’ force with respect to that minor and any agreement whereby the
+*Fri$ly &$& cap. 379.’*
+
+*1981-3s.*
+
+**22.** (1) For the purposes of the Friendly Societies Act, which enables friendly societies to insure money to be paid for funeral expenses and which restricts the persons to whom money may be paid on the death of a child under the age of 10, an adopter shall be deemed to be the parent of the minor whom he is authorised to adopt under an adoption order.
+
+*1981-35.*
+
+(2) Where, before the making of an adoption order in respect of a minor, any insurance mentioned in subsection (1) has been effected by the natural parent of the minor, the rights and liabilities under the policy shall by virtue of the adoption order be transferred to the adopter and the adopter shall, for the purposes of the said Act, be treated as the person who took out the policy.
+
+*zg;zE 197932. ’*
+
+**23.** (1) Where an adoption order is made in respect of a minor, then, subject to this section, any order for maintenance in force with respect to that minor and any agreement whereby the
 
 ### ‘IHE
 
@@ -602,7 +622,9 @@ lntestacies, 24. (1) Where, at any time after the making of an adoption $$&. ord
 
 him in that degree if he were the natural child of the adopter and were not the child of any other person.
 
-**25.** (1) For the purposes of the application of the Succession Provisions Act to the devolution of any property in accordance with zz,$& to section 24 and for the purposes of the construction of any such F;ttozn4;p. disposition as is mentioned in section 24, an adopted person shall 19i;1-35. be deemed to be related to any other person, being the child or adopted child of the adopter or, in the case of a joint adoption, of either of the adopters
+*Provisions zz,$& to F;ttozn4;p. 19i;1-35.*
+
+**25.** (1) For the purposes of the application of the Succession Act to the devolution of any property in accordance with section 24 and for the purposes of the construction of any such disposition as is mentioned in section 24, an adopted person shall be deemed to be related to any other person, being the child or adopted child of the adopter or, in the case of a joint adoption, of either of the adopters
 
 (a) where he or she was adopted jointly, and that other person is the child or adopted child of both of them, as brother or sister of the whole blood;
 
@@ -648,19 +670,21 @@ determine the probable date of his birth, and the date so determined shall be sp
 
 “Re-adopted”.
 
-CAP. 212 ss.28-29
-
 (6) Where an adoption order is made by a court, the Clerk of the court shall cause the order to be communicated to the Registrar, and upon receipt of that communication the Registrar shall cause compliance to be made with all directions contained in the order.
 
-**28.** (1) The court by which an adoption order has been 20;z made under this Act may, on the application of the adopter and rectifi-or of the adopted person, amend the order by the correction ;t$:;f
+*20;z and rectifi- ;t$:;f ’*
 
-*’*
+*igso-55.*
 
-of any error in the particulars contained therein; and where an adoption order is so amended, the Clerk of the court shall cause the amendment to be communicated to the Registrar, and any necessary correction of or addition to the Register of Births or to the Adopted Children Register or to any registration igso-55. of births or adoptions, as the case may be, shall be made accordingly.
+**28.** (1) The court by which an adoption order has been made under this Act may, on the application of the adopter or of the adopted person, amend the order by the correction of any error in the particulars contained therein; and where an adoption order is so amended, the Clerk of the court shall cause the amendment to be communicated to the Registrar, and any necessary correction of or addition to the Register of Births or to the Adopted Children Register or to any registration of births or adoptions, as the case may be, shall be made accordingly.
 
-(2) Where an adoption order is quashed or an appeal against an adoption order allowed, the court which made the order shall give directions to the Registrar to cancel any marking of an entry in the Register of Births or any registration of 1980-s% births and any entry in the Adopted Children Register or any registration of an adoption which was effected in pursuance of the order.
+*1980-s%*
 
-(3) A copy or extract of an entry in any register, or registration mo-55. being an entry the marking of which is cancelled under this section, shall be deemed to be an accurate copy if, and only if, both the marking and the cancellation are omitted therefrom.
+(2) Where an adoption order is quashed or an appeal against an adoption order allowed, the court which made the order shall give directions to the Registrar to cancel any marking of an entry in the Register of Births or any registration of births and any entry in the Adopted Children Register or any registration of an adoption which was effected in pursuance of the order.
+
+*mo-55.*
+
+(3) A copy or extract of an entry in any register, or registration being an entry the marking of which is cancelled under this section, shall be deemed to be an accurate copy if, and only if, both the marking and the cancellation are omitted therefrom.
 
 ## PART VII
 
@@ -668,11 +692,11 @@ Offences
 
 **29.** (1) Any person who
 
-(a) enters into or makes any agreement or arrangement for, Making or for facilitating, the adoption of a minor by any ey$Ptiy other person, whether the adoption is effected or is ado&on, intended to be effected in pursuance of an adoption 1g81-35. order or otherwise: or
+*Making ey$Ptiy ado&on, 1g81-35.*
 
-### BARRADOS
+(a) enters into or makes any agreement or arrangement for, or for facilitating, the adoption of a minor by any other person, whether the adoption is effected or is intended to be effected in pursuance of an adoption order or otherwise: or
 
-Prtntrd by the Govrmmert Prhtlr@ Dqwtment. Bay Srrnt, St. Michael.
+BARRADOS Prtntrd by the Govrmmert Prhtlr@ Dqwtment. Bay Srrnt, St. Michael.
 
 by the l
 
@@ -718,27 +742,37 @@ section or subsection (2) of section 10 to cause a minor to be returned
 
 “,i2ti1” t2) to the parent or guardian of the minor, who fails to return
 
-CAP. 212 ss.32-34
+*1981-3s.*
 
-such minor either in accordance with the said subsections or section 11, or any parent or guardian of a minor required 1981-3s. by the said subsections to receive a minor who fails to receive such minor shall be liable on conviction by a court of summary jurisdiction to imprisonment for 6 months or to a tine of $500 or to both such imprisonment and tine.
+such minor either in accordance with the said subsections or section 11, or any parent or guardian of a minor required by the said subsections to receive a minor who fails to receive such minor shall be liable on conviction by a court of summary jurisdiction to imprisonment for 6 months or to a tine of $500 or to both such imprisonment and tine.
 
-(2) The court by which the offender is convicted may order 1981-35. the minor to be returned to his parent or guardian or placed in the custody of any person who may be appointed with his consent for that purpose by the court.
+*1981-35.*
 
-**32.** (1) Any person who fails to apply to the court for an maim to. adoption order or to give notice to the Child Care Board ~~~$~~th of his intention not to apply for such order as required by (r)pf subsection (1) of section 10 shall be liable on conviction by a fyilof3:I). court of summary jurisdiction to a fine of $200.
+(2) The court by which the offender is convicted may order the minor to be returned to his parent or guardian or placed in the custody of any person who may be appointed with his consent for that purpose by the court.
 
-1981-35.
+*maim to. ~~~$~~th (r)pf fyilof3:I). 1981-35.*
 
-(2) The court by which the offender is convicted may order the minor to be returned to his parent or guardian 1981-3s. or to be placed in the custody of any person who may be appointed with his consent for that purpose by the court.
+**32.** (1) Any person who fails to apply to the court for an adoption order or to give notice to the Child Care Board of his intention not to apply for such order as required by subsection (1) of section 10 shall be liable on conviction by a court of summary jurisdiction to a fine of $200.
 
-**33.** (1) It shall not be lawful for an adopter, or for a parent ;y~bi2; or guardian of a minor, to receive except with the sanction rayments. of the court any payment or other reward in consideration of 1981-35. the adoption of the minor under this Act or for any person 1981-35. to make or give or agree to make or give to an adopter, parent or guardian any payment or reward the receipt of which is prohibited by this subsection.
+*1981-3s.*
 
-(2) Any person who contravenes this section shall on conviction by a court of summary jurisdiction be liable to imprisonment for 6 months or to a fine of $1 000 or to both such 1981-35. imprisonment and fine.
+(2) The court by which the offender is convicted may order the minor to be returned to his parent or guardian or to be placed in the custody of any person who may be appointed with his consent for that purpose by the court.
 
-**34.** (1) It shall not be lawful for any advertisement to be ;;;F;p published indicating
+*;y~bi2; rayments. 1981-35. 1981-35.*
 
-vertisements.
+**33.** (1) It shall not be lawful for an adopter, or for a parent or guardian of a minor, to receive except with the sanction of the court any payment or other reward in consideration of the adoption of the minor under this Act or for any person to make or give or agree to make or give to an adopter, parent or guardian any payment or reward the receipt of which is prohibited by this subsection.
 
-(a) that the parent or guardian of a minor desires to 1981-35. cause the minor to be-adopted; or
+*1981-35.*
+
+(2) Any person who contravenes this section shall on conviction by a court of summary jurisdiction be liable to imprisonment for 6 months or to a fine of $1 000 or to both such imprisonment and fine.
+
+*;;;F;p vertisements.*
+
+**34.** (1) It shall not be lawful for any advertisement to be published indicating
+
+*1981-35.*
+
+(a) that the parent or guardian of a minor desires to cause the minor to be-adopted; or
 
 (b) that a person desires to adopt a minor or
 
@@ -778,23 +812,33 @@ in question has for a period of not less than 6 months before that date been in 
 
 1 Being the date of commencement of the Act.
 
-25 L.R.O. 1985
+### L.R.O. 1985
 
 (6) the court is satisfied in accordance with paragraph (a),
 
 (b) or (c) of subsection (1) of section 15, whichever is applicable, that it may dispense with such consent.
 
-**37.** (1) A Judge may grant a licence in the prescribed 2.i;;~ form, and, subject to such conditions and restrictions as he abIoadfor thinks fit, authorising the care and possession of a minor adoption. for whose adoption arrangements have been made, to be ~~~~;~~: transferred to a person who is a citizen of, and domiciled in, a L N 168, country with which Barbados has diplomatic or consular lb&. relations and who is resident abroad.
+*2.i;;~ abIoadfor adoption. ~~~~;~~: L N 168, lb&.*
+
+**37.** (1) A Judge may grant a licence in the prescribed form, and, subject to such conditions and restrictions as he thinks fit, authorising the care and possession of a minor for whose adoption arrangements have been made, to be transferred to a person who is a citizen of, and domiciled in, a country with which Barbados has diplomatic or consular relations and who is resident abroad.
 
 (2) Subject to this section, no such licence shall be granted, unless the Judge
 
-(a) is satisfied that the application is made by or with 198145. the consent of every person who is a parent or guardian of the minor in question, or who has the actual custody of the minor, or who is liable to contribute to the support of the minor;
+(a) is satisfied that the application is made by or with
 
-(b) is satisfied, by a report of a diplomatic or consular L.N. 1681 representative of Barbados or any other person who :zi:-35 . appears to the Judge to be trustworthy, that the person to whom the care and possession of the minor is proposed to be transferred is a suitable person to be entrusted therewith and that the transfer is likely to be for the welfare of the minor, due consideration being for this purpose given to the wishes of the minor, having regard to the age and understanding of the minor; and
+\198145. the consent of every person who is a parent or guardian of the minor in question, or who has the actual custody of the minor, or who is liable to contribute to the support of the minor;
 
-(c) is satisfied that the minor will be admitted to the coun- 1981-35 try in which the person to whom the care and possession of . the minor is to be transferred, and that the adoption of the minor is not likely to be prohibited by the laws of that country.
+*L.N. 1681 :zi:-35 .*
 
-(3) The Judge may dispense with any consent required 1981-35. by paragraph (a) of subsection (2), if satisfied that the person whose consent is to be dispensed with has abandoned or deserted the minor or cannot be found, or is incapable of giving such consent, or, being a person liable to contribute to the support of the minor, either has persistently refused or neglected
+(b) is satisfied, by a report of a diplomatic or consular representative of Barbados or any other person who appears to the Judge to be trustworthy, that the person to whom the care and possession of the minor is proposed to be transferred is a suitable person to be entrusted therewith and that the transfer is likely to be for the welfare of the minor, due consideration being for this purpose given to the wishes of the minor, having regard to the age and understanding of the minor; and
+
+*1981-35 .*
+
+(c) is satisfied that the minor will be admitted to the country in which the person to whom the care and possession of the minor is to be transferred, and that the adoption of the minor is not likely to be prohibited by the laws of that country.
+
+*1981-35.*
+
+(3) The Judge may dispense with any consent required by paragraph (a) of subsection (2), if satisfied that the person whose consent is to be dispensed with has abandoned or deserted the minor or cannot be found, or is incapable of giving such consent, or, being a person liable to contribute to the support of the minor, either has persistently refused or neglected
 
 Rlnlod by UN conmmo0t rrlnw Dqmrtmont. Bay stmot. St. Mlcbad, by th# WUIOIRY of tba Gowmmont of hrbmdoc
 
@@ -832,15 +876,31 @@ proposes to place the minor at the disposition of the Child Care Board with a vi
 
 parent or guardian, of the making of an adoption order in respect of the minor and calling attention to the provisions of this Act and of any rules relating to the consent of a parent or guardian to the making of such an order and to the provisions of this Act relating to the transfer of the care and possession of minors to persons resident elsewhere than in Barbados; and
 
-(ii) that before so placing the minor at the disposition of 1981-x. the Child Care Board, the parent or guardian shall sign a document in the prescribed form certifying that he has read and understood the said memorandum;
+*1981-x.*
 
-(b) prescribing, in the case of every minor placed at the 1981-35. disposition of the Child Care Board, the enquiries which must be made and the reports, which must be obtained by the Child Care Board or a person appointed under section 7, in relation to the minor and the person desirous of adopting him for the purpose of ensuring, so far as may be, the suitability of the minor and the person desirous of adopting him respectively and in particular requiring that a report on the health of the minor signed by a duly qualified medical practitioner must be obtained by the Child Care Board;
+(ii) that before so placing the minor at the disposition of the Child Care Board, the parent or guardian shall sign a document in the prescribed form certifying that he has read and understood the said memorandum;
 
-(c) securing that no minor placed at the disposition of the 1981-x. Child Care Board shall be delivered into the care and possession of a person desirous of adopting him until that person has been interviewed by the Child Care Board and until the Child Care Board or a person appointed under section 7, has inspected any premises in Barbados in which the person proposing to adopt the minor intends that the minor should reside permanently and until the Child Care Board has considered the prescribed reports;
+*1981-35.*
+
+*and of*
+
+*on*
+
+(b) prescribing, in the case of every minor placed at the disposition of the Child Care Board, the enquiries which must be made and the reports, which must be obtained by the Child Care Board or a person appointed under section 7, in relation to the minor the person desirous of adopting him for the purpose ensuring, so far as may be, the suitability of the minor and the person desirous of adopting him respectively and in particular requiring that a report the health of the minor signed by a duly qualified medical practitioner must be obtained by the Child Care Board;
+
+*1981-x.*
+
+*and*
+
+*any to*
+
+(c) securing that no minor placed at the disposition of the Child Care Board shall be delivered into the care possession of a person desirous of adopting him until that person has been interviewed by the Child Care Board and until the Child Care Board or a person appointed under section 7, has inspected premises in Barbados in which the person proposing adopt the minor intends that the minor should reside permanently and until the Child Care Board has considered the prescribed reports;
 
 *1981-x*
 
-(d) making provision for the care and supervision of minors who have been placed by their parents or guardian at the disposition of the Child Care Board;
+*who at*
+
+(d) making provision for the care and supervision of minors have been placed by their parents or guardian the disposition of the Child Care Board;
 
 Ftltttd by the Gontttntent Ptintly Deputment. Bay Street, St. MlcM.
 

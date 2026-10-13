@@ -54,17 +54,21 @@ Frbttod by uu Govommrlt FIbttIn# Deprtmlnt. say streat, St. MlcItalI.
 
 by tlm Uhorlty of the Govetnment of Lrbedos
 
-### CHAPTER 386
+*1977-26. 1978-3.*
 
-BARBADOS TERRITORIAL WATERS An Act to repeal the Territorial Waters Act, 1878 of the United 1977-26. Kingdom Parliament in so far as it forms part of the law of 1978-3. Barbados and to provide for the extension of the limits of the territorial waters of Barbados.
+CHAPTER 386 BARBADOS TERRITORIAL WATERS An Act to repeal the Territorial Waters Act, 1878 of the United Kingdom Parliament in so far as it forms part of the law of Barbados and to provide for the extension of the limits of the territorial waters of Barbados.
 
-[1st January, 1979] Commencement. 1979/2.
+*Commencement. 1979/2.*
 
-**1.** This Act may be cited as the Barbados Territorial Waters Act. Short title.
+[1st January, 1979]
+
+*Short title.*
+
+**1.** This Act may be cited as the Barbados Territorial Waters Act.
+
+*Interpretation.*
 
 **2.** For the purposes of this Act
-
-Interpretation.
 
 "Competent Authority" means the Minister or any person designated by him as the Competent Authority for the purposes of this Act;
 
@@ -110,17 +114,23 @@ anchoring in so far as the same are rendered necessary by force majeure or by re
 
 (4) The Minister shall make provision for the safe custody of the map or chart referred to in subsection (3) and shall by notice specify the place where it may be open to inspection by the public and the place where certified copies thereof may be obtained.
 
-sss-7
+*sss-7*
 
 (5) For the purposes of this Act, permanent harbour works which form a part of the harbour, dock or port system and the island commonly known as Culpepper situated off the coast of the parish of Saint Philip shall be treated as forming part of the coast of Barbados.
 
-**5.** The areas of the sea which are on the landward side of the Internal baselines specified in section 4 or prescribed under that section, waters. as the case may be, are the internal waters and together with the submarine areas thereof, form part of the territory of Barbados.
+*Internal waters.*
 
-**6.** (1) Subject to subsection (2) and section 7(l), a foreign ship Ent$lement shall be entitled to enjoy the right of innocent passage in ~n~~~tof w=age. territorial waters.
+**5.** The areas of the sea which are on the landward side of the baselines specified in section 4 or prescribed under that section, as the case may be, are the internal waters and together with the submarine areas thereof, form part of the territory of Barbados.
+
+*Ent$lement ~n~~~tof w=age.*
+
+**6.** (1) Subject to subsection (2) and section 7(l), a foreign ship shall be entitled to enjoy the right of innocent passage in territorial waters.
 
 (2) A foreign ship of war shall not navigate in territorial waters without the prior permission of the Competent Authority obtained by the State to which the ship belongs.
 
-**7.** (1) Subject to subsection (2), the passage of a foreign ship Non-shall be deemed to be prejudicial to the peace, good order or Eglt’ security of Barbados if, without the prior permission of the Competent Authority obtained by the captain or person in charge of the ship, the ship while in territorial waters, engages in any of the following activities
+*Non-Eglt’*
+
+**7.** (1) Subject to subsection (2), the passage of a foreign ship shall be deemed to be prejudicial to the peace, good order or security of Barbados if, without the prior permission of the Competent Authority obtained by the captain or person in charge of the ship, the ship while in territorial waters, engages in any of the following activities
 
 (a) exercises or practises with weaponry of any kind;
 
@@ -172,13 +182,13 @@ activity which is deemed to be prejudicial is entitled to state or other immunit
 
 (2) Where the flag state of a ship or the state of nationality of a person is deemed to bear international responsibility under this section, the Minister shall take all steps possible to obtain redress under international law.
 
-**10.** (1) For the purposes of the exercise of the jurisdiction of the Jurisdiction. courts of Barbados, the territory of Barbados shall include the internal waters and the territorial waters.
+*Jurisdiction.*
 
-(2) Where any offence punishable on summary conviction is committed or suspected to have been committed within or in relation to the internal waters or the territorial waters, the offence may be dealt with and determined by a magistrate assigned to any magisterial district, and such magistrate shall have and exercise all the powers, privileges, rights and jurisdiction as are conferred on him by the
+**10.** (1) For the purposes of the exercise of the jurisdiction of the courts of Barbados, the territory of Barbados shall include the internal waters and the territorial waters.
 
 *Cap. 116A.*
 
-Magistrate's Courts Act.
+(2) Where any offence punishable on summary conviction is committed or suspected to have been committed within or in relation to the internal waters or the territorial waters, the offence may be dealt with and determined by a magistrate assigned to any magisterial district, and such magistrate shall have and exercise all the powers, privileges, rights and jurisdiction as are conferred on him by the Magistrate's Courts Act.
 
 (3) The quasi-criminal and the civil jurisdiction conferred on a magistrate by the Magistrate's Courts Act shall in relation to the internal waters and the territorial waters be exercised by a magistrate assigned to any magisterial district.
 
@@ -191,6 +201,8 @@ Magistrate's Courts Act.
 (a) for the safety of navigation and the regulation of marine traffic;
 
 (b) for the conservation of the living resources of the sea;
+
+*CAP.*
 
 (c) for the preservation of the marine environment of Barbados and the prevention and control of pollution thereto;
 
@@ -208,13 +220,17 @@ Magistrate's Courts Act.
 
 (j) annexing to the contravention of any regulation made under this section a punishment on summary conviction of a fine of $5 000 or of imprisonment for 2 years or both.
 
-(2) Regulations made under this section shall be subject to affirmative resolution and shall be judicially noticed.
+*tive*
 
-*Offences.*
+(2) Regulations made under this section shall be subject to affirma-resolution and shall be judicially noticed.
 
-**12.** (1) A person who assaults or obstructs a person acting under the authority of this Act or the regulations is guilty of an offence under this Act.
+*Offences. the this Act.*
 
-(2) A person who is guilty of an offence under subsection (1) or section 8(2) is liable
+**12.** (1) A person who assaults or obstructs a person acting under authority of this Act or the regulations is guilty of an offence under
+
+*section*
+
+(2) A person who is guilty of an offence under subsection (1) or 8(2) is liable
 
 (a) on conviction on indictment to a fine of $10 000 or imprisonment for 5 years or both; or
 
@@ -222,19 +238,21 @@ Magistrate's Courts Act.
 
 (3) The court may in addition to any penalty which it may impose under this section for an offence under section 8(2), order the forfeiture to the Crown of any ship engaged, or equipment used, in any activity which is the subject of the offence.
 
-CAP. 386 ss.13-15
+*Binding of the Cram.*
 
-**13.** This Act binds the Crown. Binding of the Cram.
+**13.** This Act binds the Crown.
 
-**14.** (1) Any reference in an enactment or law having effect as a tpkt:tion part of the law of Barbados prior to the 1st January, 1979 * to coastal waters, territorial waters, waters of Barbados or any analogous expression in whatever terms used, shall be construed as a reference to internal waters and territorial waters.
+*tpkt:tion \**
+
+**14.** (1) Any reference in an enactment or law having effect as a part of the law of Barbados prior to the 1st January, 1979 to coastal waters, territorial waters, waters of Barbados or any analogous expression in whatever terms used, shall be construed as a reference to internal waters and territorial waters.
 
 (2) Any reference in any enactment or law having effect as a part of the law of Barbados prior to 1st January, 1979 to a distance of 3 miles or a longer or shorter distance in relation to coastal waters, territorial waters, waters of Barbados or any analogous expression in whatever terms used, shall be construed as a reference to a distance of 12 nautical miles or such other distance as may be prescribed under section 3.
 
-**15.** The Territorial Waters Jurisdiction Act, 1878 of the Repeal United Kingdom Parliament in so far as it forms part of the law of $$ 2+2,3. Barbados, is repealed.
+*Repeal $$ 2+2,3.*
 
-TllE LAWS OF BARBADOS
+**15.** The Territorial Waters Jurisdiction Act, 1878 of the United Kingdom Parliament in so far as it forms part of the law of Barbados, is repealed.
 
-Rlntrd by the Covrmmcrc PrinUn( Dcputment. Bay Stmt, St. MIc~wI.
+TllE LAWS OF BARBADOS Rlntrd by the Covrmmcrc PrinUn( Dcputment. Bay Stmt, St. MIc~wI.
 
 by tkr nuthodty ol thr Covmmutt of hrbrdos
 

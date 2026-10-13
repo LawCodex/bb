@@ -70,43 +70,51 @@ _____________
 
 ## SCHEDULE
 
-### CHAPTER 340A
+*2005-25. 2007-13. 2008-14.*
 
-### BARBADOS INTERNATIONAL BUSINESS PROMOTION CORPORATION
+CHAPTER 340A BARBADOS INTERNATIONAL BUSINESS PROMOTION CORPORATION An Act to make provision for the establishment of a Corporation to market and promote Barbados as an international business centre.
 
-An Act to make provision for the establishment of a Corporation to 2005-25. market and promote Barbados as an international business centre. 2007-13. 2008-14.
+*Commencement.*
 
-[10th November, 2005] Commencement.
+[10th November, 2005]
 
-**1.** This Act may be cited as the Barbados International Business Short title. Promotion Corporation Act.
+*Short title.*
+
+**1.** This Act may be cited as the Barbados International Business Promotion Corporation Act.
+
+*Interpretation.*
 
 **2.** For the purposes of this Act,
-
-Interpretation.
 
 "Board" means the Board of Directors established by section 5;
 
 "Corporation" means the Barbados International Business Promotion Corporation established by section 3;
 
-"international business" means the business of international 2008-14. manufacturing or international trade and commerce;
+*2008-14.*
+
+"international business" means the business of international manufacturing or international trade and commerce;
 
 "international financial services" include
 
+*Cap. 325.*
+
 (a) international financial services as defined in section 4 of the International Financial Services Act;
 
-Cap. 325.
+*Cap. 308A.*
 
-(b) exempt insurance business as defined in the Exempt Cap. 308A. Insurance Act;
+(b) exempt insurance business as defined in the Exempt Insurance Act;
+
+*Cap. 77.*
 
 (c) services provided by an international business company under the International Business Companies Act;
 
-Cap. 77.
+*Cap. 318B.*
 
-(d) services provided by a society under the Societies With Cap. 318B. Restricted Liability Act; and
+(d) services provided by a society under the Societies With Restricted Liability Act; and
+
+*Cap. 245.*
 
 (e) services provided by an international trust under the International Trusts Act.
-
-Cap. 245.
 
 *2008-14.*
 
@@ -116,11 +124,9 @@ Cap. 245.
 
 **3.** (1) There is hereby established a Corporation to be known as the Barbados International Business Promotion Corporation.
 
-(2) The Corporation is a body corporate to which section 21 of the
-
 *Cap. 1.*
 
-Interpretation Act applies.
+(2) The Corporation is a body corporate to which section 21 of the Interpretation Act applies.
 
 *2007-13.*
 
@@ -134,11 +140,9 @@ Interpretation Act applies.
 
 (b) conduct and facilitate research into the expansion of the international business sector;
 
-(c) encourage and facilitate investment in Barbados, and facilitate the establishment of new and indigenous enterprises
-
 *2008-14.*
 
-in the international business and international financial services sectors;
+(c) encourage and facilitate investment in Barbados, and facilitate the establishment of new and indigenous enterprises in the international business and international financial services sectors;
 
 (d) collaborate with private sector bodies as a means of ensuring that Barbados's appeal as an international business sector is maintained; and
 
@@ -156,27 +160,33 @@ in the international business and international financial services sectors;
 
 **6.** The Directors of the Corporation are entitled to such remuneration as the Minister determines.
 
-**7.** (1) A director of the Board who has any interest in a Disclosure company or concern with which the Corporation proposes to make a of director's interest. contract or transact any other business shall disclose to the Corporation the particulars of that interest; and details of the disclosure shall be recorded in the minutes taken at the meeting at which the disclosure is made.
+*Disclosure of director's interest.*
+
+**7.** (1) A director of the Board who has any interest in a company or concern with which the Corporation proposes to make a contract or transact any other business shall disclose to the Corporation the particulars of that interest; and details of the disclosure shall be recorded in the minutes taken at the meeting at which the disclosure is made.
 
 (2) A director referred to in subsection (1) shall not take part in any deliberation or discussion of the Board relating to that contract or business.
 
-**8.** (1) The Board shall, with the approval of the Minister, appoint Chief a Chief Executive Officer and Deputy Chief Executive Officer. Executive Officer and Deputy
+*Chief Executive Officer and Deputy Chief Executive Officer.*
 
-(2) The Chief Executive Officer is subject to the directions of the Chief Board, and is responsible to the Board for the execution of its policy Executive Officer. and the management of the Corporation.
+**8.** (1) The Board shall, with the approval of the Minister, appoint a Chief Executive Officer and Deputy Chief Executive Officer.
 
-**9.** (1) The Board may, subject to subsection (2), employ at such Employment remuneration and on such terms and conditions as it thinks fit, such of staff, remunera-persons as it deems necessary for the proper discharge of the functions tion and of the Corporation. pensions.
+(2) The Chief Executive Officer is subject to the directions of the Board, and is responsible to the Board for the execution of its policy and the management of the Corporation.
+
+*Employment of staff, remuneration and pensions.*
+
+**9.** (1) The Board may, subject to subsection (2), employ at such remuneration and on such terms and conditions as it thinks fit, such persons as it deems necessary for the proper discharge of the functions of the Corporation.
 
 (2) The Board shall not assign remuneration to any post without the prior approval in writing of the Minister.
 
 (3) No provision shall be made for the payment of any pension, gratuity or other like benefit to any person employed by the Corporation without the prior written approval of the Minister responsible for Finance.
 
-(4) Where a public officer is seconded or temporarily transferred from a pensionable office within the meaning of section 2(1) of the Pensions Act to perform any service with the Corporation, his service Cap. 25. with the Corporation shall, unless the Governor-General otherwise decides, count for pension under that Act as if the officer had not been so seconded or transferred.
+*Cap. 25.*
 
-(5) If the services of a person employed by the Corporation are on loan to the Government, he is entitled to such benefits and terms of employment as are applicable to the post which he occupies; and the service with the Corporation shall be taken into account as continuous
+(4) Where a public officer is seconded or temporarily transferred from a pensionable office within the meaning of section 2(1) of the Pensions Act to perform any service with the Corporation, his service with the Corporation shall, unless the Governor-General otherwise decides, count for pension under that Act as if the officer had not been so seconded or transferred.
 
 *Cap. 25. 1947-20.*
 
-service with the Government and the Pensions Act and the Pensions Regulations, 1947 shall apply to him as if his service with the Corporation were service within the meaning of that Act.
+(5) If the services of a person employed by the Corporation are on loan to the Government, he is entitled to such benefits and terms of employment as are applicable to the post which he occupies; and the service with the Corporation shall be taken into account as continuous service with the Government and the Pensions Act and the Pensions Regulations, 1947 shall apply to him as if his service with the Corporation were service within the meaning of that Act.
 
 (6) Where a public officer is transferred to the service of the Corporation in accordance with subsection (4), the Corporation shall refund to the Consolidated Fund all moneys payable as pension in respect of the service of that officer with the Corporation.
 
@@ -188,11 +198,9 @@ service with the Government and the Pensions Act and the Pensions Regulations, 1
 
 *Cap. 25.*
 
-the Pensions Act shall apply to him as if his service with the Corporation were other public service within the meaning of the Act,
-
 *1947-20.*
 
-and the Pensions Regulations, 1947 shall apply to him accordingly.
+the Pensions Act shall apply to him as if his service with the Corporation were other public service within the meaning of the Act, and the Pensions Regulations, 1947 shall apply to him accordingly.
 
 (8) For the purposes of this section, service of a person referred to in subsections (1) to (3) with the Board shall be aggregated with his service with the Corporation for the purpose of computing any pension or other retiring allowance to which he may be entitled.
 
@@ -200,9 +208,9 @@ and the Pensions Regulations, 1947 shall apply to him accordingly.
 
 **10.** The Minister may, after consultation with the Chairman of the Board, give directions of a general nature in respect of the policy to be followed by the Board in the performance of its functions under this Act, and the Board shall comply with the directions.
 
-**11.** (1) The funds of the Corporation shall consist of moneys Funds of the
+*Funds of the Corporation.*
 
-*Corporation.*
+**11.** (1) The funds of the Corporation shall consist of moneys
 
 (a) voted by Parliament for use by the Corporation;
 
@@ -270,17 +278,23 @@ and the Pensions Regulations, 1947 shall apply to him accordingly.
 
 **15.** The Corporation may charge such fees for any service performed by the Corporation as are prescribed by order made by the Minister responsible for Finance.
 
-**16.** (1) The Corporation shall keep accounts of its transactions. Accounts and audit.
+*Accounts and audit.*
+
+**16.** (1) The Corporation shall keep accounts of its transactions.
 
 (2) The accounts of the Corporation shall be audited annually by an auditor appointed by the Board with the approval of the Minister.
 
 (3) The Auditor-General may at any time, and shall on the direction of the Minister responsible for Finance, carry out an investigation into, or special audit of, the accounts of the Corporation.
 
-**17.** (1) A director, officer or employee of the Corporation shall Access by afford the Auditor-General or other auditor appointed under Auditor-General or section 16 access to all books, documents, cash and securities of the auditor. Corporation, and on request shall give the Auditor-General or auditor any information within the knowledge of that director, officer or employee that relates to the operations of the Corporation.
+*Access by Auditor-General or auditor.*
+
+**17.** (1) A director, officer or employee of the Corporation shall afford the Auditor-General or other auditor appointed under section 16 access to all books, documents, cash and securities of the Corporation, and on request shall give the Auditor-General or auditor any information within the knowledge of that director, officer or employee that relates to the operations of the Corporation.
 
 (2) A person who fails to comply with this section is guilty of an offence and is liable on summary conviction to a fine of $1 000 or to imprisonment for a term of 12 months or to both.
 
-**18.** (1) The Corporation shall, as soon as possible after the Reports. expiration of the financial year and in any case not later than 31st July in each year, submit to the Minister a report containing
+*Reports.*
+
+**18.** (1) The Corporation shall, as soon as possible after the expiration of the financial year and in any case not later than 31st July in each year, submit to the Minister a report containing
 
 (a) a detailed account of the performance of the Corporation's activities and operations during the preceding financial year; and
 
@@ -288,11 +302,19 @@ and the Pensions Regulations, 1947 shall apply to him accordingly.
 
 (2) The Minister shall lay before Parliament a copy of the report referred to in subsection (1) as soon as practicable after receiving that report.
 
-**19.** The financial year of the Corporation shall be a period of Financial year. 12 months ending at midnight on 31st March.
+*Financial year.*
 
-**20.** (1) The Board may, with the approval of the Minister, Employment employ such employees as it considers necessary for the proper of staff. performance of the functions of the Corporation.
+**19.** The financial year of the Corporation shall be a period of 12 months ending at midnight on 31st March.
 
-(2) An individual may be seconded from a post within the public service to a post within the Corporation, and in such circumstances the provisions of sections 21 and 22 shall apply.
+*Employment of staff.*
+
+**20.** (1) The Board may, with the approval of the Minister, employ such employees as it considers necessary for the proper performance of the functions of the Corporation.
+
+### CAP. 340A
+
+*the*
+
+(2) An individual may be seconded from a post within the public service to a post within the Corporation, and in such circumstances provisions of sections 21 and 22 shall apply.
 
 *Succession to B. I. D. C. etc.*
 
@@ -304,15 +326,13 @@ and the Pensions Regulations, 1947 shall apply to him accordingly.
 
 (c) the services of a person who immediately before that date was employed by the Barbados Investment and Development Corporation and who is employed by the Corporation established under this Act shall be treated as continuous for purposes of calculating pensionable service.
 
-*Saving of pension etc.*
+*Saving of pension etc. his in Cap. 25. the 1947-20. the*
 
-**22.** Where a public officer who has pensionable service is transferred to or becomes employed in the service of the Corporation, his service with the Corporation shall, whether or not there was a break in service, be aggregated with his service in the public service and his
+**22.** Where a public officer who has pensionable service is transferred to or becomes employed in the service of the Corporation, service with the Corporation shall, whether or not there was a break service, be aggregated with his service in the public service and his pension shall be calculated in accordance with the Pensions Act and Pensions Regulations, 1947 as if all of his service were service in public service.
 
-*Cap. 25. 1947-20.*
+*Regulations.*
 
-pension shall be calculated in accordance with the Pensions Act and the Pensions Regulations, 1947 as if all of his service were service in the public service.
-
-**23.** The Minister may make regulations generally for the carrying Regulations. out of the purposes of this Act.
+**23.** The Minister may make regulations generally for the carrying out of the purposes of this Act.
 
 ____________
 
@@ -320,7 +340,9 @@ ____________
 
 (Section 5(2))
 
-**1.** (1) The Board of Directors comprises 10 persons appointed by the 2008-14. Minister.
+*2008-14.*
+
+**1.** (1) The Board of Directors comprises 10 persons appointed by the Minister.
 
 (2) The Minister shall appoint a director of the Board to be Chairman and another director to be Deputy Chairman.
 

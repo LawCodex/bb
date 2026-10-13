@@ -40,8 +40,6 @@ I. Short title.
 
 Remuneration of Directors.
 
-Staff.
-
 Rinted
 
 ### SECTION
@@ -120,15 +118,27 @@ Printedby the Ocuemmcnt Rinter. Bay SQut. St. Michael.
 
 bytkmhmityofthcGovennxddr)ubuicd
 
-(4 to purchase, take on lease or otherwise acquire for its purposes any building or any estate, easement or other interest in real property and to let or otherwise dispose of or grant rights over any real property vested in the Corporation;
+*CAP.*
 
-W to acquire such personal property as it deems necessary for use in connection with the performance of its functions;
+332A
+
+*(4*
+
+to purchase, take on lease or otherwise acquire for its purposes any building or any estate, easement or other interest in real property and to let or otherwise dispose of or grant rights over any real property vested in the Corporation;
+
+*W*
+
+to acquire such personal property as it deems necessary for use in connection with the performance of its functions;
 
 (c) to establish, promote or assist in the establishing andpromoting of any company for the purpose of assisting in or facilitating the performance of its functions;
 
-(4 to carry on any business that, in the opinion of the Board, may be carried on in conjunction with the functions specified in this section;
+*(4*
 
-(4 to provide all necessary services for those establishments under its control including adequate facilities for
+to carry on any business that, in the opinion of the Board, may be carried on in conjunction with the functions specified in this section;
+
+*(4*
+
+to provide all necessary services for those establishments under its control including adequate facilities for
 
 (i) bulk purchasing, marketing and collective sales,
 
@@ -140,13 +150,17 @@ W to acquire such personal property as it deems necessary for use in connection 
 
 (v) providing and maintaining facilities for the comfort of patrons and tenants of establishments owned by the Corporation;
 
-67 to establish an adequate standard of efficiency for the operating of establishments run by the Corporation and to ensure that operations do not fall below that standard;
+to establish an adequate standard of efficiency for the operating 67
+
+of establishments run by the Corporation and to ensure that operations do not fall below that standard;
 
 (g) to receive specified rents in respect of property let out and accept subventions from any source;
 
 (h) to establish such committees in connection with the management of its operations as it deems necessary; and
 
-\0) to do such other things as are necessary and incidental or conducive to the performing of any of the functions specified in this section.
+*0)*
+
+to do such other things as are necessary and incidental or conducive to the performing of any of the functions specified in this section.
 
 Notwithstanding subsection (l), any contract entered into between the Corporation and any person in relation to
 
@@ -158,29 +172,37 @@ Notwithstanding subsection (l), any contract entered into between the Corporatio
 
 is subject to prior approval of the Minister.
 
-**5.** The Corporation is a commercial enterprise and must Commercial enterprise. conduct its affairs in accordance with sound business principles.
+*Commercial enterprise.*
 
-**6.** (1) Subject to this section, the authorised capital of the capid Corporation is $100 000 000 divided into 1 000 000 shares of the 1987-28. par value of $100 each.
+**5.** The Corporation is a commercial enterprise and must conduct its affairs in accordance with sound business principles.
+
+*capid 1987-28.*
+
+**6.** (1) Subject to this section, the authorised capital of the Corporation is $100 000 000 divided into 1 000 000 shares of the par value of $100 each.
 
 (2) The Government shall subscribe for the initial paid-up capital and may subscribe for any other number of shares at such par value as the Minister may determine.
 
-(3) The amount of the Government’s initial paid-up capital is 1987-28 $36 000 000.
+*1987-28*
+
+(3) The amount of the Government’s initial paid-up capital is $36 000 000.
 
 (4) The Board may, with the approval of Parliament, vary the amount of the authorised capital.
 
-## PART 111
+## PART 111 Administration
 
-Administration
+*Boardof Directon.*
 
-**7.** (1) There is established a Board of Directors for the Boardof purposes of directing the affairs of the Corporation and providing Directon. for the general administration of the Corporation.
+**7.** (1) There is established a Board of Directors for the purposes of directing the affairs of the Corporation and providing for the general administration of the Corporation.
 
-(2) The First Schedule has effect in relation to the constitution First Schedule. of the Board and otherwise in relation thereto.
+*First Schedule.*
 
-**8.** The members of the Board are entitled to such salaries and Remunera-Lion of allowances as the Minister approves.
+(2) The First Schedule has effect in relation to the constitution of the Board and otherwise in relation thereto.
 
-Directors.
+*Remunera-Lion of Directors.*
 
-**9.** (1) Subject to this Part, the Corporation may appoint and staff. employ, at such remuneration and on such terms and condit;ons as it considers necessary, such officers, employees and agents as are necessary for the efficient functioning of the Corporation.
+**8.** The members of the Board are entitled to such salaries and allowances as the Minister approves.
+
+**9.** (1) Subject to this Part, the Corporation may appoint and employ, at such remuneration and on such terms and condit;ons as it considers necessary, such officers, employees and agents as are necessary for the efficient functioning of the Corporation.
 
 Mntsd Printin) Department. St. Mlc~el, by the ruthorlty of the Govmment
 
@@ -196,7 +218,7 @@ CorporaSon
 
 **10.** The Corporation shall, within a period of 3 years from the Establish-
 
-~~~~~~- date of its establishment, provide for the establishment and maintenance of a pension plan for the benefit of its officers and employees.
+~~~~~~-date of its establishment, provide for the establishment and maintenance of a pension plan for the benefit of its officers and employees.
 
 **11.** (1) No member of the Board shall act as a delegate of Conflict of
 
@@ -210,7 +232,7 @@ any interest or receive or accept directions therefrom in respect of duties to b
 
 (4) A person who contravenes this section is guilty of an offence and is liable on summary conviction to a fine of $5,000 or to imprisonment for a term of 12 months, or both, and in addition
 
-ss. 12-14
+*ss. 12-14*
 
 thereto he is by virtue of such conviction, disqualified from being a member of the Board.
 
@@ -218,11 +240,11 @@ PART Iv
 
 Financial
 
+*Borrowing ~~~~~~~~ ;;F-;;*
+
 **12.** (1) The Corporation
 
-Borrowing
-
-(a) may, with the approval of the Minister responsible for ~~~~~~~~ Finance, borrow from such sources and for such purposes, ;;F-;; and
+(a) may, with the approval of the Minister responsible for Finance, borrow from such sources and for such purposes, and
 
 (b) may open and maintain accounts at such banks in Barbados,
 
@@ -232,9 +254,13 @@ as it thinks fit.
 
 (3) The Corpora:ion shall pay all moneys it receives into an account referred to in subsection (1).
 
-**13.** The Minister may, with the approval of Parliament Guarantee guarantee in such manner and on such terms and conditions as he $srmw-thinks fit the payment of any amount borrowed by the Corporation, together with the interest payable on such amount.
+*Guarantee $srmw-*
 
-**14.** The moneys of the Corporation are to be applied A lication 0 P moneys.
+**13.** The Minister may, with the approval of Parliament guarantee in such manner and on such terms and conditions as he thinks fit the payment of any amount borrowed by the Corporation, together with the interest payable on such amount.
+
+*A lication 0 P moneys.*
+
+**14.** The moneys of the Corporation are to be applied
 
 (a) in payment or discharge of the expenses and obligations of the Corporation;
 

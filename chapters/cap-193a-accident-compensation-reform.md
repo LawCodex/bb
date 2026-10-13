@@ -78,11 +78,9 @@ as the Accident Compensation (Reform) Act.
 
 (a) the wife or husband of the deceased,
 
-(b) a person who is a spouse of the deceased within the
-
 *Cap. 249.*
 
-meaning of the Succession Act,
+(b) a person who is a spouse of the deceased within the meaning of the Succession Act,
 
 (c) a person who is divorced from the deceased and who establishes a dependency on the deceased,
 
@@ -148,15 +146,19 @@ entitled to recover.
 
 198.5 Goi7lpensation Cm. 193A
 
-**7.** (1) Notwithstanding any enactment or rule of law to the Limitation contrary, an action must be commenced within 3 years from the $i$ion time the cause of action arose.
+*Limitation $i$ion*
 
-(2) In no case shall more than one action lie for and in respect of the same occurrence.
+*time*
 
-*Assess-*
+**7.** (1) Notwithstanding any enactment or rule of law to the contrary, an action must be commenced within 3 years from the the cause of action arose.
 
-**8.** Damages recoverable under this Act may include
+*respect*
 
-(u) actual out-of-pocket expenses reasonably incurred for ?$$t. the benefit of the injured person;
+(2) In no case shall more than one action lie for and in of the same occurrence.
+
+*Assess- ?$$t.*
+
+**8.** Damages recoverable under this Act may include (u) actual out-of-pocket expenses reasonably incurred for the benefit of the injured person;
 
 (b) a reasonable allowance for travel expenses actually in-curred in visiting the injured person before his death or during his treatment or recovery;
 
@@ -170,13 +172,13 @@ entitled to recover.
 
 **9.** (1) In determining the amount of damages to be awarded under this Act, the court shall not take into account
 
-(a) the remarriage of a surviving spouse or any prospects of remarriage by a surviving spouse, as a result of the death of the husband or wife, as the case may be; and
-
-(b) any insurance money, benefit, pension or gratuity which has been paid or is likely to be paid as a result of death or injury.
+(a) the remarriage of a surviving spouse or any prospects of remarriage by a surviving spouse, as a result of the death of the husband or wife, as the case may be; and (b) any insurance money, benefit, pension or gratuity which has been paid or is likely to be paid as a result of death or injury.
 
 (2) For the purposes of this section
 
-“benefit” means a benefit under the National Insurance and cap. 147. Act and any payment by a friendly society Social Security
+*cap. 147.*
+
+“benefit” means a benefit under the National Insurance and Act and any payment by a friendly society Social Security
 
 or trade union for the relief or maintenance of a member’s dependants;
 
@@ -198,11 +200,9 @@ into court. from the defendant, shall be divided among the dependants in such sh
 
 (2) Money paid into court in satisfaction of a cause of action may be in one sum without specifying the dependants’ shares.
 
-(3) Where the money paid into court has not been otherwise
-
 *it*
 
-apportioned, the court may, upon application, apportion among the persons entitled thereto.
+(3) Where the money paid into court has not been otherwise apportioned, the court may, upon application, apportion among the persons entitled thereto.
 
 **11.** The rule of law whereby a husban?l is entitled to claim Abolition
 

@@ -38,29 +38,47 @@ and Spottiswoode EC4 of Rarbados
 
 ### BARBADOS BAR ASSOCIATION
 
-*1940-42. 1972-35.*
+*1940-42.*
 
-An Act to incorporate the Barbados Bar Association.
+*An Act to*
 
-[22nd January, 19401 c$r*
+*1972-35. c$r\**
+
+incorporate the Barbados Bar Association.
+
+[22nd January, 19401
+
+*\1. This*
 
 *&L.$\*e.*
 
-**1.** This Act may be cited as the Barbados Bar Association Act.
+Act may be cited as the Barbados Bar Association
 
-**2.** (1) The present and all future members of the Barbados ~~~~~; Bar Association shall be and they are hereby declared and &&a&s adjudged to be one body politic and corporate by the name of zociation the Barbados Bar Association (hereinafter referred to as the 1972-35. . Association) and by that name may have perpetual succession.
+*Act.*
 
-(2) The Association by that name-
+*\2. (1)*
 
-(a) shall and may sue and be sued in all courts and before all magistrates and others in all manner of suits, actions, complaints, matters and causes whatsoever; and
+*~~~~~;*
 
-(b) shall and may have a common seal and may alter and vary the same at their pleasure; and
+*Bar*
+
+*&&a&s*
+
+*adjudged*
+
+*zociation 1972-35. .*
+
+*the Association) (2) The*
+
+The present and all future members of the Barbados Association shall be and they are hereby declared and to be one body politic and corporate by the name of Barbados Bar Association (hereinafter referred to as the and by that name may have perpetual succession. Association by that name-
+
+*all*
+
+(a) shall and may sue and be sued in all courts and before magistrates and others in all manner of suits, actions, complaints, matters and causes whatsoever; and (b) shall and may have a common seal and may alter and vary the same at their pleasure; and
 
 (c) shall be in law and equity capable of-
 
-(i) acquiring and holding all estate and property real and personal as may at any time be acquired by or come to the Association in any manner whatsoever;
-
-and
+(i) acquiring and holding all estate and property real and personal as may at any time be acquired by or come to the Association in any manner whatsoever; and
 
 (ii) selling and disposing of the same from time to time for the benefit of the Association; and
 

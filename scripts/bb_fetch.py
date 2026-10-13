@@ -73,7 +73,11 @@ def main():
         if pdf_ok(p):
             it["pdf_ok"] = True
             continue
-        r = get(it["url"])
+        try:
+            r = get(it["url"])
+        except RuntimeError as e:
+            print(n, fn, "FAILED", e, flush=True)
+            continue
         it["status"] = r.status_code
         if r.status_code == 200 and r.content[:5] == b"%PDF-":
             cl = r.headers.get("content-length")
