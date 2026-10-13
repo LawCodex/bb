@@ -5,7 +5,7 @@ Most PDFs are scans with an embedded OCR text layer produced by the publisher
 (Acrobat Capture); that layer is used as-is. Documents without a usable text
 layer are reported as gaps (no OCR is performed here).
 """
-import datetime, json, os, re, sys
+import datetime, json, os, re, subprocess, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bb_pdfmd as pm
 
@@ -44,6 +44,8 @@ def main(kind="statutes"):
     report = {"converted": [], "gaps": []}
     used = set()
     for it in items:
+        if "/pdfs/statutes/" not in it["href"]:
+            continue  # navigation links (court hearing lists) picked up from the page menu
         fn = it.get("file") or re.sub(r"[^A-Za-z0-9._()',&-]", "_", it["href"].split("/")[-1])
         pdf = os.path.join(RAW, kind, "pdf", fn)
         label = re.sub(r"\s+", " ", it["title"]).strip()
@@ -68,6 +70,8 @@ def main(kind="statutes"):
             fname += "-2"
         used.add(fname)
         rel = ("constitution/" if is_const else "chapters/") + fname + ".md"
+        p1 = subprocess.run(["pdftotext", "-l", "2", pdf, "-"], capture_output=True, text=True).stdout
+        lro = re.findall(r"L\.\s?R\.\s?O\.\s*(\d{4})", p1)
         title = name if is_const or re.search(r"\b(Act|Order|Ordinance)\b", name) else name + " Act"
         fm = {
             "title": title,
@@ -75,6 +79,7 @@ def main(kind="statutes"):
             "type": "constitution" if is_const else "act",
             "jurisdiction": "bb", "language": "en",
             "status": "in_force",
+            "revision": f"L.R.O. {max(lro)}" if lro else None,
             "source": PAGE,
             "source_pdf": it["url"],
             "text_source": "embedded text layer of the official PDF (OCR by the publisher; may contain recognition errors)",

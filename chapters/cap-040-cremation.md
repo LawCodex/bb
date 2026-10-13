@@ -5,6 +5,7 @@ type: act
 jurisdiction: bb
 language: en
 status: in_force
+revision: "L.R.O. 2002"
 source: "https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados"
 source_pdf: "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CremationCAP040.pdf"
 text_source: "embedded text layer of the official PDF (OCR by the publisher; may contain recognition errors)"

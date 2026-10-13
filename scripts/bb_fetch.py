@@ -57,7 +57,7 @@ def main():
         items, seen = [], set()
         for a in soup.find_all("a", href=re.compile(r"\.pdf$", re.I)):
             href = a["href"]
-            if "/pdfs/" not in href or href in seen:
+            if "/pdfs/statutes/" not in href or href in seen:
                 continue
             seen.add(href)
             items.append({"title": a.get_text(" ", strip=True), "href": href,
